@@ -114,7 +114,7 @@ VaCvJPSA]
 
 [*two rules*] | AN | IMITATER [**216 (P4^v^)**: VaCvJPSA]
 
-[*two rules*] | A | TIME-SERVER [**216 (P6^r^)**: VaCvJPSA]
+[*two rules*] | A | TIME-SERVER [**219 (P6^r^)**: VaCvJPSA]
 
 [*two rules*] | A | PRATER [**222 (P7^v^)**: VaCvJPSA]
 
@@ -165,7 +165,7 @@ VaCvJPSA]
 
 [*two rules*] | A | WITTAL [**310 (X3^v^)**: VaCvJPSA]
 
-[*two rules*] | A | BUSYMAN [**313 (X5^r^)**: VaCvJPSA]
+[*two rules*] | A | BUSY MAN [**313 (X5^r^)**: VaCvJPSA]
 
 [*two rules*] | A | LITIGIOUS MAN [**315 (X6^r^)**: VaCvJPSA]
 
