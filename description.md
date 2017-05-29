@@ -1,22 +1,26 @@
 # Bibliographical description
 
-THE | GENUINE REMAINS | IN VERSE and PROSE | OF | Mr. SAMUEL BUTLER, |
-<span style="font-variant:small-caps;">Author</span> of HUDIBRAS. |
-Publiſhed from the | <span style="font-variant:small-caps;">Original
-Manuscripts,</span> formerly in the | Poſſeſſion of W. <span
-style="font-variant:small-caps;">Longueville,</span> Eſq; | With NOTES
-| By R. THYER, | Keeper of the Public Library at <span
-style="font-variant:small-caps;">Manchester.</span> | IN TWO
-VOLUMES. | VOL. II. | [*two rules*] | LONDON: | Printed for J. and
-R. <span style="font-variant:small-caps;">Tonson,</span> in the
-Strand. | M DCC LIX. [**A1^r^:** VaCvJPSA]
+T H E | G E N U I N E R E M A I N S | I N | V E R S E and P R O S E |
+O F | Mr.  S A M U E L B U T L E R, | <span
+style="font-variant:small-caps;">A u t h o r</span> of
+H U D I B R A S. | Publiſhed from the | <span
+style="font-variant:small-caps;">O r i g i n a l M a n u s c r i p t s,</span>
+formerly in the | Poſſeſſion of W. <span
+style="font-variant:small-caps;">L o n g u e v i l l e,</span> Eſq; |
+With N O T E S | By R. T H Y E R, | Keeper of the Public Library at
+<span style="font-variant:small-caps;">M a n c h e s t e r.</span> |
+I N T W O V O L U M E S. | V O L. II. | [*two rules*] | L O N D O N: |
+Printed for J. and R. <span
+style="font-variant:small-caps;">T o n s o n,</span> in the Strand. |
+M DCC LIX. [**A1^r^:** VaCvJPSA]
 
 8^o^: A^4^ B--2K^8^ [$1--4 (-A1,3,4) signed] 260 leaves,
 pp. [*8*] [1--2] 3--512 (4=iv, 14--15=15--14, 474=74)\
 175908 -- a1=a2 A2 c -- b1 \*B2 tte : b2 2K4 orld [ViU PR3338.A17 1759
 c.2 v.2]
 
-CONTENTS | OF THE | SECOND VOLUME. [**A2^r^**: VaCvJPSA]
+C O N T E N T S | O F  T H E | S E C O N D  V O L U M E. [**A2^r^**:
+VaCvJPSA]
 
 [*line of 26 flower ornaments, the 6th differing*] | CHARACTERS. |
 [*line of 26 flower ornaments*] [**1 (B1^r^)**: VaCvJPSA]
