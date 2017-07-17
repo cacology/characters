@@ -1,7 +1,7 @@
 [*double rule*]
 
-#<span style="font-variant:small-caps;">a\
-HUFFING COURTIER</span>
+#A\
+HUFFING COURTIER
 
 I^2^s a Cypher, that has no Value himsself, but\
 from the Place he ſtands in.  All his Hap-\
