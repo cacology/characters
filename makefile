@@ -4,7 +4,8 @@ source-mds := $(wildcard character-mds/*.md)
 test : ; @echo $(source-mds)
 
 .PHONY : all
-all: pdfs-from-mds html-from-mds complete/text.pdf complete/text.html
+all : mds remove-empty-mds
+	$(MAKE) pdfs-from-mds html-from-mds complete/text.pdf complete/text.html
 
 #insert a "pagebreak.md" between each page and name file better
 %.mds :
