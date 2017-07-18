@@ -1,0 +1,98 @@
+resolvers       > trees > analyzing '/Users/james/Library/texmf'
+
+open source     > 1 > 1 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv
+
+ConTeXt  ver: 2016.05.17 19:20 MKIV current  fmt: 2016.6.8  int: english/english
+
+system          > 'cont-new.mkiv' loaded
+open source     > 2 > 2 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-new.mkiv
+close source    > 2 > 2 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-new.mkiv
+system          > files > jobname '253-255_An_Alderman', input 'character-mds/253-255_An_Alderman', result 'character-mds/253-255_An_Alderman.pdf'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > 2 > 3 > character-mds/253-255_An_Alderman.tex
+resolvers       > modules > 'simplefonts' is loaded
+open source     > 3 > 4 > /usr/local/texlive/2016/texmf-dist/tex/context/third/simplefonts/t-simplefonts.mkiv
+loading         > ConTeXt User Module / Simplefonts
+resolvers       > lua > loading file '/usr/local/texlive/2016/texmf-dist/tex/context/third/simplefonts/t-simplefonts.lua' succeeded
+close source    > 3 > 4 > /usr/local/texlive/2016/texmf-dist/tex/context/third/simplefonts/t-simplefonts.mkiv
+backend         > xmp > using file '/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml'
+pages           > flushing realpage 1, userpage 1
+pages           > flushing realpage 2, userpage 2
+pages           > flushing realpage 3, userpage 3
+structure       > tags > ignoring end tag, previous chain: none
+close source    > 2 > 4 > character-mds/253-255_An_Alderman.tex
+close source    > 1 > 4 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv
+
+system          > structure > start used structure
+
+used structure  > text: 253-255_An_Alderman
+
+system          > structure > stop used structure
+
+
+system          > files > start used files
+
+used file       >    1: filename=cont-yes.mkiv filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
+used file       >    2: filename=publ-imp-default.lua filetype=scripts foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+used file       >    3: filename=cont-new.mkiv filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
+used file       >    4: filename=lang-us.lua filetype=scripts foundname=/usr/local/texlive/2016/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+used file       >    5: filename=character-mds/253-255_An_Alderman.tex foundname=character-mds/253-255_An_Alderman.tex usedmethod=direct
+used file       >    6: filename=t-simplefonts.mkiv filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/third/simplefonts/t-simplefonts.mkiv usedmethod=database
+used file       >    7: filename=t-simplefonts.lua filetype=tex format=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/third/simplefonts/t-simplefonts.lua usedmethod=database
+used file       >    8: filename=lm.lfg filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/fonts/mkiv/lm.lfg usedmethod=database
+used file       >    9: filename=lmroman10-regular.otf filetype=otf format=otf foundname=/usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf usedmethod=database
+used file       >   10: filename=DejaVuSerif.ttf filetype=ttf format=ttf foundname=/usr/local/texlive/2016/texmf-dist/fonts/truetype/public/dejavu/DejaVuSerif.ttf usedmethod=database
+used file       >   11: filename=latinmodern-math.otf filetype=opentypefonts foundname=/usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
+used file       >   12: filename=lmroman10-italic.otf filetype=otf format=otf foundname=/usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf usedmethod=database
+used file       >   13: filename=DejaVuSerif-Italic.ttf filetype=ttf format=ttf foundname=/usr/local/texlive/2016/texmf-dist/fonts/truetype/public/dejavu/DejaVuSerif-Italic.ttf usedmethod=database
+used file       >   14: filename=lpdf-pdx.xml filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+
+system          > files > stop used files
+
+
+system          > options > start commandline options
+
+used option     > currentrun="3"
+used option     > fulljobname="character-mds/253-255_An_Alderman.tex"
+used option     > input="character-mds/253-255_An_Alderman.tex"
+used option     > kindofrun="2"
+used option     > maxnofruns="9"
+used option     > no-parse-first-line="true"
+used option     > result="character-mds/253-255_An_Alderman.pdf"
+
+system          > options > stop commandline options
+
+system          > options > start commandline files
+
+used file       >    1: character-mds/253-255_An_Alderman.tex
+
+system          > options > stop commandline files
+
+
+mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: readable: '/usr/local/texlive/2016/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9' | readable+writable: '/Users/james/Library/texlive/2016/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9'
+mkiv lua stats  > resource resolver: loadtime 0.104 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 14 found files, scanned paths: /Users/james/Library/texmf
+mkiv lua stats  > stored bytecode data: 387 modules (0.278 sec), 82 tables (0.009 sec), 469 chunks (0.287 sec)
+mkiv lua stats  > traced context: maxstack: 1175, freed: 0, unreachable: 1175
+mkiv lua stats  > cleaned up reserved nodes: 47 nodes, 9 lists of 444
+mkiv lua stats  > node memory usage: 11 glue, 2 penalty, 29 attribute, 38 glue_spec, 8 attribute_list, 2 temp
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 5 instances (re)created, 138 calls
+mkiv lua stats  > h-node processing time: 0.024 seconds including kernel
+mkiv lua stats  > inserted spaces in output: 1024
+mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.001 seconds loading
+mkiv lua stats  > callbacks: 1389 direct, 1232 indirect, 2621 total
+mkiv lua stats  > randomizer: resumed with value 0.25242752733288
+mkiv lua stats  > loaded tex modules: 1 requested, all found (*-simplefonts)
+mkiv lua stats  > loaded patterns: en::2, load time: 0.000
+mkiv lua stats  > structure elements: 1 element chains identified
+mkiv lua stats  > result saved in file: character-mds/253-255_An_Alderman.pdf.pdf, compresslevel 3, objectcompresslevel 3
+mkiv lua stats  > loaded fonts: 5 files: latinmodern-math.otf, lmroman10-italic.otf, lmroman10-regular.otf, dejavuserif-italic.ttf, dejavuserif.ttf
+mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 7 instances, load time 0.171 seconds 
+mkiv lua stats  > used platform: osx-64, type: unix, binary subtree: bin
+mkiv lua stats  > luatex banner: this is luatex, version 0.95.0 (tex live 2016)
+mkiv lua stats  > control sequences: 44559 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua, used memory: 101 MB (ctx: 100 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.023 seconds, 3 processed pages, 3 shipped pages, 2.933 pages/second
+

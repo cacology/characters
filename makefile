@@ -1,52 +1,46 @@
 target-characters := $(wildcard text/*/)
-source-mdxs := $(wildcard mdxs/*.mdx)
+source-mds := $(wildcard character-mds/*.md)
 
-listtarget-characters : ; @echo $(target-characters)
-test : ; @echo $(addsuffix $(subst text/,,$(@D)).mdx,$(target-characters))
+test : ; @echo $(source-mds)
 
-all: pdfs-from-mdxs html-from-mdxs
 .PHONY : all
+all: pdfs-from-mds html-from-mds complete/text.pdf complete/text.html
 
 #insert a "pagebreak.md" between each page and name file better
-%.mdx :
-	ls $(@D)/*[0-9].md | xargs -I % -L 1 cat % lib/pagebreak.md > mdxs/$(subst text/,,$(@D)).mdx
+%.mds :
+	find $(@D) -name "*.md" -print | xargs -I % -L 1 cat % lib/pagebreak.md >> character-mds/$(subst text/,,$(@D)).md ;
 
 %.pdf : %.tex
-	context $<
+	context --result=$@ $<
 
 %.tex : %.md
-	pandoc -s -f markdown -t context -o $@ $<
-
-%.tex : %.mdx
 	pandoc -s -f markdown -t context -o $@ $<
 
 %.html : %.md
 	pandoc -s -f markdown -t html5 -o $@ $<
 
-%.html : %.mdx
-	pandoc -s -f markdown -t html5 -o $(subst mdxs,html,$@) $<
-
-
-complete/text.md :
-	cat $(source-mdxs) > $@
+complete/text.md : mds remove-empty-mds
+	cat $(source-mds) > $@
 
 complete/text.pdf : complete/text.tex
 	context --result=complete/text.pdf $<
 
-#complete/text.html : complete/text.md
-#	context --result=complete/text.html $<
+mds : $(addsuffix character.mds, $(target-characters))
+	touch mds
 
-.PHONY : mdxs
-mdxs : $(addsuffix character.mdx, $(target-characters))
+pdfs-from-mds : mds remove-empty-mds
+	$(MAKE) $(subst .md,.pdf,$(source-mds))
+	mv character-mds/*.pdf pdfs
+	touch pdfs-from-mds
 
-.PHONY : pdfs-from-mdxs
-pdfs-from-mdxs :
-	$(MAKE) $(subst .mdx,.pdf,$(source-mdxs))
-	mv *.pdf pdfs
+html-from-mds : mds remove-empty-mds
+	$(MAKE) $(subst .md,.html,$(source-mds))
+	mv character-mds/*.html html
+	touch html-from-mds
 
-.PHONY : html-from-mdxs
-html-from-mdxs :
-	$(MAKE) $(subst .mdx,.html,$(source-mdxs))
+.PHONY : remove-empty-mds
+remove-empty-mds : mds
+	find character-mds -size -10c -delete
 
 .PHONY : clean
 clean :
@@ -55,6 +49,7 @@ clean :
 .PHONY : cleanall
 cleanall : clean
 	find html \( -name "*.html" \) -delete
-	find mdxs \( -name "*.mdx" \) -delete
+	find character-mds \( -name "*.md" \) -delete
+	find . \( -name mds -o -name pdfs-from-mds -o -name html-from-mds \) -delete
 	find pdfs \( -name "*.pdf" \) -delete
-	find complete \( -name "*.pdf" -o -name "*.html" \) -delete
+	find complete \( -name "*.pdf" -o -name "*.html" -o -name "*.md" \) -delete
