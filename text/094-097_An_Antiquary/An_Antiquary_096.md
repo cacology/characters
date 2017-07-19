@@ -24,7 +24,7 @@ cript with greater Reliſh than Worms and Moths\
 do, and, though there be nothing in it, values\
 
 
-[1]:   *And with* Scaliger *would ſell the Empire of Germany*]  This al-\
+[^1]:   *And with* Scaliger *would ſell the Empire of Germany*]  This al-\
 ludes to a ranting Exclamation of *Scaliger*’s upon an Ode in *Horace*,\
 which he was particularly pleased with.
 

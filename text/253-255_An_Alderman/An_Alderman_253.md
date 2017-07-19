@@ -1,10 +1,10 @@
-[*two rules*]\
-\
+[*two rules*]
+
 # AN\
-# ALDERMAN\
-\
-[*two line initial*]HAS taken his Degree in Cheating, and\
-[*two line initial*] the higheſt of his Faculty ; or paid for\
+ALDERMAN
+
+H^2^AS taken his Degree in Cheating, and\
+the higheſt of his Faculty ; or paid for\
 refuſing his *MANDAMUS*.  He is a Peer of the\
 City, and a Member of their upper Houſe,\
 Who, as ſoon as he arrives at ſo many thouſand\
@@ -22,5 +22,5 @@ the Unicorn in the King's Arms, wears a Chain\
 about his Neck very right-worſhipfully.  He\
 wears Scarlet, as the Whore of *Babylon* does,\
 not for her honeſty, but the Rank and Quality\
-\
+
 
