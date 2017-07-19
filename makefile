@@ -5,11 +5,12 @@ test : ; @echo $(source-mds)
 
 .PHONY : all
 all : mds remove-empty-mds
-	$(MAKE) pdfs-from-mds html-from-mds complete/text.pdf complete/text.html
+	$(MAKE) pdfs-from-mds html-from-mds tei-from-mds txt-from-mds docx-from-mds complete/text.pdf complete/text.html complete/text.xml complete/text.docx complete/text.txt
+	$(MAKE) clean
 
 #insert a "pagebreak.md" between each page and name file better
 %.mds :
-	find $(@D) -name "*.md" -print | xargs -I % -L 1 cat % lib/pagebreak.md >> character-mds/$(subst text/,,$(@D)).md ;
+	find $(@D) -name "*.md" -print | xargs -I % -L 1 cat % lib/pagebreak.md > character-mds/$(subst text/,,$(@D)).md
 
 %.pdf : %.tex
 	context --result=$@ $<
@@ -20,7 +21,16 @@ all : mds remove-empty-mds
 %.html : %.md
 	pandoc -s -f markdown -t html5 -o $@ $<
 
-complete/text.md : mds remove-empty-mds
+%.xml : %.md
+	pandoc -s -f markdown -t tei -o $@ $<
+
+%.docx : %.md
+	pandoc -s -f markdown -t docx -o $@ $<
+
+%.txt : %.md
+	pandoc -s -f markdown -t plain -o $@ $<
+
+complete/text.md :
 	cat $(source-mds) > $@
 
 complete/text.pdf : complete/text.tex
@@ -39,6 +49,21 @@ html-from-mds : mds remove-empty-mds
 	mv character-mds/*.html html
 	touch html-from-mds
 
+tei-from-mds : mds remove-empty-mds
+	$(MAKE) $(subst .md,.xml,$(source-mds))
+	mv character-mds/*.xml xml
+	touch tei-from-mds
+
+txt-from-mds : mds remove-empty-mds
+	$(MAKE) $(subst .md,.txt,$(source-mds))
+	mv character-mds/*.txt txt
+	touch txt-from-mds
+
+docx-from-mds : mds remove-empty-mds
+	$(MAKE) $(subst .md,.docx,$(source-mds))
+	mv character-mds/*.docx docx
+	touch docx-from-mds
+
 .PHONY : remove-empty-mds
 remove-empty-mds : mds
 	find character-mds -size -10c -delete
@@ -51,6 +76,6 @@ clean :
 cleanall : clean
 	find html \( -name "*.html" \) -delete
 	find character-mds \( -name "*.md" \) -delete
-	find . \( -name mds -o -name pdfs-from-mds -o -name html-from-mds \) -delete
+	find . \( -name mds -o -name pdfs-from-mds -o -name html-from-mds -o -name tei-from-mds -o -name txt-from-mds -o -name docx-from-mds \) -delete
 	find pdfs \( -name "*.pdf" \) -delete
-	find complete \( -name "*.pdf" -o -name "*.html" -o -name "*.md" \) -delete
+	find complete \( -name "*.pdf" -o -name "*.html" -o -name "*.md" -o -name "*.txt" -o -name "*.xml" -o -name "*.docx" \) -delete
