@@ -4,21 +4,21 @@
 
 *T^2^HE writing of Characters was a Kind of Wit*\
 *much in Faſhion in the Beginning of the laſt*\
-*Century, The two principal Authors in this Way*\
+*Century.  The two principal Authors in this Way*\
 *were Sir* Thomas Overbury, *and Dr.* John\
 Earle *Tutor to Prince* Charles *in* 1643, *and after*\
 *the Reſtoration Dean of* Weſtminſter, *and ſuc-*\
-*ceſſively Biſhop of* Worceſter *and* Saliſbury. *How*\
+*ceſſively Biſhop of* Worceſter *and* Saliſbury.  *How*\
 *agreeable theſe Sorts of Eſſays were to the public*\
-*Taſte may be judged from Sir* Thomas's *little Book*\
+*Taſte may be judged from Sir* Thomas’s *little Book*\
 *having fourteen Editions before* 1632, *and the*\
-*Biſhop's ſix between* 1628 *and* 1633. *Whether*\
+*Biſhop’s ſix between* 1628 *and* 1633.  *Whether*\
 Butler *has equalled or excelled them, and what*\
 *Place he is to hold in this Claſs of Writers muſt*\
 *be left to the Deciſion of the Public, as the Inte-*\
 *reſt and Prejudice of a Publiſher may render me*\
 *a ſuſpected or an incompetent Judge.  The Reader*\
-*will have an Opportunity of determining for him*\
+*will have an Opportunity of determining for him-*\
 *ſelf, as they have all attempted to draw the ſame*\
 *Pictures.*\
 
@@ -26,21 +26,21 @@ Butler *has equalled or excelled them, and what*\
 ---
 
 
-  *As in ſuch a Variety of Characters there muſt*\
+   *As in ſuch a Variety of Characters there muſt*\
 *be ſome drawn from Originals in general the ſame,*\
 *and only differenced by particular Circumſtances,*\
 *the ſame Obſervations are ſometimes repeated.*\
 *Whether the Author in this Caſe requires any Apo-*\
-*logy muſt be left to his Judges the Critics ;  it is*\
+*logy muſt be left to his Judges the Critics ;  it is*\
 *enough for me that I can ſay I have done him*\
 *Justice in publiſhing them.*
 
-  *As moſt of theſe Characters are dated when they*\
+   *As moſt of theſe Characters are dated when they*\
 *were compoſed, I can inform the curious, that they*\
 *were chiefly drawn up from* 1667 *to* 1669, *at*\
 *which time, as has been before obſerved,* Butler\
 *reſided in* Wales *under the Protection of Lord*\
-Carbery.
+Carbery.\
 
 
 ---
@@ -337,77 +337,77 @@ poſition, of none but the Living.\
 ---
 
 
-[*two rules*]/
-/
-#A/
-#PROUD MAN/
-/
-I^2^<span style="font-variant:small-caps;">S</span> a Fool in Fermentation, that ſwells and/
-boils over like a Porridge-Pot.  He ſets out/
-his Feathers like an Owl, to ſwell and ſeem/
-bigger than he is.  He is troubled with a Tu-/
-mour and Inflammation of Self-Conceit, that/
-renders every Part of him ſtiff and uneaſy./
-He has given himſelf Sympathetic Love-Pow-/
-der, that works upon him to Dotage, and has/
-transformed him into his own Miſtreſs.  He/
-is his own Gallant, and makes moſt paſſionate/
-Addreſſes to his own dear Perfections.  He/
-commits Idolatry to himſelf, and worſhips/
-his own Image ; though there is no Soul living/
-of his Church but himſelf, yet he believes as/
-the Church believes, and maintains his Faith/
-with the Obſtinacy of a *Fanatic.* He is his own/
-Favourite, and advance himſelf not only above/
-his Merit, but all Mankind ; is both *Damon*/
-and *Pythias* to his own dear ſelf, and values his/
+[*two rules*]
+
+#A\
+PROUD MAN
+
+I^2^S a Fool in Fermentation, that ſwells and\
+boils over like a Porridge-Pot.  He ſets out\
+his Feathers like an Owl, to ſwell and ſeem\
+bigger than he is.  He is troubled with a Tu-\
+mour and Inflammation of Self-Conceit, that\
+renders every Part of him ſtiff and uneaſy.\
+He has given himſelf Sympathetic Love-Pow-\
+der, that works upon him to Dotage, and has\
+transformed him into his own Miſtreſs.  He\
+is his own Gallant, and makes moſt paſſionate\
+Addreſſes to his own dear Perfections.  He\
+commits Idolatry to himſelf, and worſhips\
+his own Image ; though there is no Soul living\
+of his Church but himſelf, yet he believes as\
+the Church believes, and maintains his Faith\
+with the Obſtinacy of a *Fanatic.*  He is his own\
+Favourite, and advance himſelf not only above\
+his Merit, but all Mankind ; is both *Damon*\
+and *Pythias* to his own dear ſelf, and values his\
 
 
 ---
 
 
-Crony above his Soul.  He gives Place to no/
-Man but himſelf, and that with very great/
-Diſtance to all others, whom he eſteems not/
-worthy to approach him.  He believes what-/
-ſoever he has receives a Value in being his ;/
-as a Horſe in a Nobleman's Stable will bear a/
-greater Price than in a common Market.  He/
-is ſo proud, that he is as hard to be acquainted with/
-himſelf as with others ; for he is very/
-apt to forget who he is, and knows himſelf/
-only ſuperficially ; therefore he treats himſelf/
-civilly as a ſtranger with Ceremony and Com-/
-pliment, but admist of no Privacy.  He ſtrives/
-to look bigger than himſelf, as well as others,/
-and is no better than his own Paraſite and/
-Flatterer.  A little Flood will make a ſhallow/
-Torrent ſwell above its Banks, and rage, and/
-foam, and yield a roaring Noiſe, while a deep/
-ſilent Stream glides quietly on.  So a vain-/
-glorious inſolent proud Man ſells with a little/
-frail Proſperity, grows big and loud, and over-/
-flows his Bounds, and when he ſinks, leaves/
-Mud and Dirt behind him.  His Carriage is/
-as glorious and haughty, as if he were advan-/
-ced upon Men's Shoulders, or tumbled over/
+Crony above his Soul.  He gives Place to no\
+Man but himſelf, and that with very great\
+Diſtance to all others, whom he eſteems not\
+worthy to approach him.  He believes what-\
+ſoever he has receives a Value in being his ;\
+as a Horſe in a Nobleman’s Stable will bear a\
+greater Price than in a common Market.  He\
+is ſo proud, that he is as hard to be acquainted\
+with himſelf as with others ; for he is very\
+apt to forget who he is, and knows himſelf\
+only ſuperficially ; therefore he treats himſelf\
+civilly as a ſtranger with Ceremony and Com-\
+pliment, but admits of no Privacy.  He ſtrives\
+to look bigger than himſelf, as well as others,\
+and is no better than his own Paraſite and\
+Flatterer.  A little Flood will make a ſhallow\
+Torrent ſwell above its Banks, and rage, and\
+foam, and yield a roaring Noiſe, while a deep\
+ſilent Stream glides quietly on.  So a vain-\
+glorious inſolent proud Man ſwells with a little\
+frail Proſperity, grows big and loud, and over-\
+flows his Bounds, and when he ſinks, leaves\
+Mud and Dirt behind him.  His Carriage is\
+as glorious and haughty, as if he were advan-\
+ced upon Men’s Shoulders, or tumbled over\
 their Heads like Knipperdolling.  He fancies/ 
 
 
 ---
 
 
-himſelf a Coloſſe, and ſo he is, for his Head/
-holds no Proportion to his Body, and his foun-/
-dation is leſſer than his upper Stories.  We/
-can naturally take no view of our ſelves, un-/
-leſs we look downwards, to teach us how/
-humble Admirers we ought to be of our own/
-Values.  The ſlighter and leſs ſolid his Mate-/
-rials are, the more Room they take up, and/
-make him ſwell the bigger ; as Feathers and/
-Cotton will ſtuff Cuſhions better than Things/
-of more cloſe and ſolid Parts./
+himſelf a Coloſſe, and ſo he is, for his Head\
+holds no Proportion to his Body, and his foun-\
+dation is leſſer than his upper Stories.  We\
+can naturally take no view of our ſelves, un-\
+leſs we look downwards, to teach us how\
+humble Admirers we ought to be of our own\
+Values.  The ſlighter and leſs ſolid his Mate-\
+rials are, the more Room they take up, and\
+make him ſwell the bigger ; as Feathers and\
+Cotton will ſtuff Cuſhions better than Things\
+of more cloſe and ſolid Parts.\
 
 
 ---
@@ -2284,6 +2284,70 @@ him look a great deal bigger than he is, like\
 the Feathers of an Owl, and when he pulls\
 it off, he looks as if he were fallen away, or\
 like a Rabbet, had his Skin pulled off.\
+
+
+---
+
+
+[*double rule*]
+
+#A\
+BANKRUPT
+
+I^2^S made by breaking, as a Bird is hatched\
+by breaking the Shell, for he gains more\
+by giving over his Trade, than ever he did by\
+dealing in it.  He drives a Trade, as *Oliver*\
+*Cromwel* did a Coach, till it broke in Pieces.\
+He is very tender and careful in preſerving\
+his Credit, and keeps it as methodically as a\
+Race-nag is dieted, that in the End he may\
+run away with it: for he observes a punctual\
+Curioſity in performing his Word, until he\
+has improved his Credit as far as it can go ;\
+and then he has catched the Fiſh, and throws\
+away the Net ; as a Butcher, when he has fed\
+his Beaſt as fat as it can grow, cuts the Throat\
+
+
+---
+
+
+of it.  When he has brought his Deſign to\
+Perfection, and diſpoſed of all his Materials,\
+he lays his Train, like a Powder Traytor, and\
+gets out of the way, while he blows up all\
+thoſe that truſted him.  After the Blow is\
+given there is no Manner of Intelligence to be\
+had of him for ſome Months, until the Rage\
+and Fury is ſomewhat digeſted, and all Hopes\
+vaniſhed of ever recovering any Thing of Body,\
+or Goods, for Revenge, or Reſtitution ; and\
+then Propoſitions of Treaty and Accommoda-\
+tion appear, like the Sign of the *Hand and Pen*\
+out of the Clouds, with Conditions more un-\
+reaſonable than Thieves are wont to demand\
+for Reſtitution of ſtolen Goods.  He ſhoots\
+like a Fowler at a whole Flock of Geeſe at\
+once, and ſtalks with his Horſe to come as near\
+as poſſibly he can without being perceived by\
+any one, or giving the leaſt Suſpicion of his\
+Deſign, until it is too late to prevent it ; and\
+then he flies from them, as they ſhould have\
+done before from him.  His Way is ſo com-\
+monly uſed in the City, that he robs in a Road,\
+like a Highwayman, and yet they will never\
+arrive at Wit enough to avoid it ; for it is done\
+
+
+---
+
+
+upon Surpriſe ; and as Thieves are commonly\
+better mounted than thoſe they rob, he very\
+eaſily makes his Eſcape, and flies beyond Per-\
+ſuit of Huon-cries, and there is no Poſſibility\
+of overtaking him.\
 
 
 ---
