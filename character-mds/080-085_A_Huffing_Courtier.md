@@ -3,7 +3,7 @@
 #A\
 HUFFING COURTIER
 
-I^2^s a Cypher, that has no Value himſelf, but\
+I^2^S a Cypher, that has no Value himſelf, but\
 from the Place he ſtands in.  All his Hap-\
 pineſs conſiſts in the Opinion he believes others\
 have of it.   This is his Faith, but as it is he-\

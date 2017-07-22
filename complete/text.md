@@ -413,88 +413,87 @@ of more cloſe and ſolid Parts.\
 ---
 
 
-[*two rules*]/
-/
-#A
-#FIFTH-MONARCHY-MAN/
-/
-/
-I^2^<span style="font-variant:small-caps;">S</span> one, that is not contented to be a Privy-/
-Counſellor of the Kingdom of Heave, but/
-would fain be a Miniſter of State of this World,/
-and tranſlate the Kingdom of Heaven to the/
-Kingdom of Earth.  His Deſign is to make/
-*Chriſt* King, as his Forefathers the *Jew* did,/
-only to abuſe and crucify him, that he might/
-ſhare his Lands and Goods, as he did his Vice-/
-gerents here.  He dreams of a Fool's Paradiſe/
-without a Serpent in it, a golden Age all of/
-Saints, and no Hypocrites, all *holy-Court* Princes,/
-and no Subjects but the Wicked;  a Govern-/
-ment of *Perkin Warbec* and *Lambert Simnel*/
-Saints, where every Man, that had a Mind to it,/
-might make himſelf a Price, and claim a/
-Title to the Crown.  He fancies a *fifth-Mo-/
-narchy* as the Quinteſſence of all Governments,/
-abſtracted from all Matter, and conſiſting/
+[*double rule*]
+
+#A\
+#FIFTH-MONARCHY-MAN
+
+I^2^S one, that is not contented to be a Privy-\
+Counſellor of the Kingdom of Heaven, but\
+would fain be a Miniſter of State of this World,\
+and tranſlate the Kingdom of Heaven to the\
+Kingdom of Earth.  His Deſign is to make\
+*Chriſt* King, as his Forefathers the *Jew* did,\
+only to abuſe and crucify him, that he might\
+ſhare his Lands and Goods, as he did his Vice-\
+gerents here.  He dreams of a Fool's Paradiſe\
+without a Serpent in it, a golden Age all of\
+Saints, and no Hypocrites, all *holy-Court* Princes,\
+and no Subjects but the Wicked ;  a Govern-\
+ment of *Perkin Warbec* and *Lambert Simnel*\
+Saints, where every Man, that had a Mind to it,\
+might make himſelf a Price, and claim a\
+Title to the Crown.  He fancies a *fifth-Mo-*\
+*narchy* as the Quinteſſence of all Governments,\
+abſtracted from all Matter, and conſiſting\
 
 
 ---
 
 
-wholly of Revelations, Viſions, and Myſteries./
-*John of Leyden* was the firſt Found of it, and/
-though he miſcarried, like *Romulus* in a Tem-/
-peſt, his Poſterity have Revelations every full/
-Moon, that there may be a TIme to ſet up his/
-Title again, and with better Succeſs; though/
-his Brethren, that have attempted to ſince, had/
-no ſooner quartered his Coat with their own,/
-but their whole outward Men were ſet on the/
-Gates of the City ; where a Head and four/
-Quarters ſtand as Types and Figures of the/
-*fifth-Monarchy.* They have been contriving (ſince/
-Experiments, that coſt Necks are too chargea-/
-ble) to try it in little, and have depoſed King/
-*Oberon,* to erect their Monarchy in *Fairy-Land,*/
-as being the moſt proper and natural Region in/
-the whole World for their Government, and if/
-it ſucceed there to proceed further.  The *De-/
-vil's* Proſpect of all the Kingdoms of the Earth,/
-and the Glory of them, has ſo dazzled their Eyes,/
-that they would venture their Necks to take/
-him at his Word, and give him his Price./
-Nothing comes ſo near the Kingdom of Dark-/
-neſs as the *fifth-Monarchy,* that is no where/
-to be found, but in dark Propheſies, obſcure My-/
-thologies, and myſstical Riddles, like the Vi-/
-ſions *Aeneas* ſaw in Hell of the *Roman* Empire,/
+wholly of Revelations, Viſions, and Myſteries.\
+*John* of *Leyden* was the firſt Founder of it, and\
+though he miſcarried, like *Romulus* in a Tem-\
+peſt, his Poſterity have Revelations every full\
+Moon, that there may be a Time to ſet up his\
+Title again, and with better Succeſs ; though\
+his Brethren, that have attempted to ſince, had\
+no ſooner quartered his Coat with their own,\
+but their whole outward Men were ſet on the\
+Gates of the City ; where a Head and four\
+Quarters ſtand as Types and Figures of the\
+*fifth-Monarchy.* They have been contriving (ſince\
+Experiments, that coſt Necks are too chargea-\
+ble) to try it in little, and have depoſed King\
+*Oberon,* to erect their Monarchy in *Fairy-Land,*\
+as being the moſt proper and natural Region in\
+the whole World for their Government, and if\
+it ſucceed there to proceed further.  The *De-*\
+*vil's* Proſpect of all the Kingdoms of the Earth,\
+and the Glory of them, has ſo dazzled their Eyes,\
+that they would venture their Necks to take\
+him at his Word, and give him his Price.\
+Nothing comes ſo near the Kingdom of Dark-\
+neſs as the *fifth-Monarchy,* that is no where to\
+be found, but in dark Propheſies, obſcure My-\
+thologies, and myſtical Riddles, like the Vi-\
+ſions *Aeneas* ſaw in Hell of the *Roman* Empire.\
 
 
 ---
 
 
-Next this is the moſt reſembles *Mahomet's* Coming/
-to the *Turks,* and King *Arthur's* Reign over the/
-Britons in *Merlin*'s Propheſies ; ſo near of Kin/
-are all fantaſtic Illuſions, that you may diſcern/
-the ſame Lineaments in them all. The poor/
-Wicked are like to have a very ill time under/
-them, for they are reſolved upon arbitrary Go-/
-vernment, according to their ancient and fun-/
-damental Revelations, and to have no Subjects/
-but Slaves, who between them and the *Devil*/
-are like to ſuffer Perſecution enough to make/
-them as able Saints, as their Lords and Maſ-/
-ters.  He gather Churches on the Sunday, as/
-the *Jew* did Sitkcs on their Sabbath, to ſet the/
-State on Fire.  He humms and hahs high Trea-/
-ſon, and calls upon it, as Gameſters do on the/
-Caſt they would throw.  He groans Sedition,/
-and, like the *Phariſee,* rails, when he gives/
-Thanks.  He interprets Propheſies, as *Whitting-/
-ton* did the Bells, to ſpeak to him, and governs/
-himſelf accordingly./
+Next this it moſt reſembles *Mahomet*’s Coming\
+to the *Turks,* and King *Arthur*’s Reign over the\
+Britons in *Merlin*’s Propheſies ; ſo near of Kin\
+are all fantaſtic Illuſions, that you may diſcern\
+the ſame Lineaments in them all.  The poor\
+Wicked are like to have a very ill time under\
+them, for they are reſolved upon arbitrary Go-\
+vernment, according to their ancient and fun-\
+damental Revelations, and to have no Subjects\
+but Slaves, who between them and the *Devil*\
+are like to ſuffer Perſecution enough to make\
+them as able Saints, as their Lords and Maſ-\
+ters.  He gathers Churches on the Sunday, as\
+the *Jews* did Sticks on their Sabbath, to ſet the\
+State on Fire.  He humms and hahs high Trea-\
+ſon, and calls upon it, as Gameſters do on the\
+Caſt they would throw.  He groans Sedition,\
+and, like the *Phariſee,* rails, when he gives\
+Thanks.  He interprets Propheſies, as *Whitting-\
+ton* did the Bells, to ſpeak to him, and governs\
+himſelf accordingly.\
 
 
 ---
@@ -2284,6 +2283,76 @@ him look a great deal bigger than he is, like\
 the Feathers of an Owl, and when he pulls\
 it off, he looks as if he were fallen away, or\
 like a Rabbet, had his Skin pulled off.\
+
+
+---
+
+
+[*double rule*]
+
+#A\
+LOVER
+
+I^2^S a Kind of *Goth* and *Vandal*, that leaves\
+his native Self to ſettle in another, or a\
+Planter that forſakes his Country, where he\
+was born, to labour and dig in *Virginia*.\
+His Heart is catched in a Net with a Pair of\
+bringht ſhining Eyes, as Larks are with Pieces\
+of a looking-Glaſs.  He makes heavy Com_\
+plaints againſt it for deſerting of him, and\
+deſires to have another in Exchange for it,\
+which is a very unreaſonable Requeſt ; for if\
+it betrayed its boſom Friend, what will it do\
+to a Stranger, that ſhould give it Truſt and\
+Entertainment ?  He binds himſelf, and cries\
+out he is robbed of his Heart, and charges the\
+Innocent with it, only to get a good Com-\
+poſition, or another for it, againſt Con-\
+ſcience and Honeſty.  He talks much of his\
+
+
+---
+
+
+Flame, and pretends to be burnt by his Miſ-\
+treſs’s Eyes, for which he requires Satisfaction\
+from her, like one that ſets his Houſe on Fire\
+to get a Brief for charitable Contributions.\
+He makes his Miſtreſs all of Stars, and when\
+ſhe is unkind, rails at them, as if they did ill\
+Offices between them, and being of her Kin\
+ſet her againſt him.  He falls in Love as Men\
+fall ſick when their Bodies are inclined to it,\
+and imputes that to his Miſtreſſes Charms,\
+which is really in his own Temper ; for when\
+that is altered, the other vaniſhes of it ſelf, and\
+therefore one ſaid not amiſs,
+
+------The Lilly and the Roſe\
+Not in her Cheeks, but in thy Temper grows.
+
+When his Deſires are grown up, they ſwarm,\
+and fly out to ſeek a new Habitation, and\
+whereſoever they light they fix like Bees, among\
+which ſome late Philoſophers have obſerved\
+that it is a Female that leads all the reſt.  Love\
+is but a Clap of the Mind, a Kind of run-\
+ning of the Fancy, that breaks out, if it be\
+not ſtopped in Time, into Botches of heroic\
+Rime ; for all Loverrs are poets for the Time\
+
+
+---
+
+
+being, and make their Ladies a Kind of mo-\
+ſaic Work of ſeveral coloured Stones joined\
+together by a ſtrong Fancy, but very ſtiff and\
+unnatural ; and though they ſteal Stars from\
+Heaven, as *Prometheus* did Fire, to animate\
+them, all will not make them alive, nor\
+alives-liking.\
 
 
 ---

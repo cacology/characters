@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+    </titleStmt>
+    <publicationStmt>
+      <p></p>
+          </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>[<hi rendition="simple:italic">double rule</hi>]</p>
+<div type="level1">
+  <head>A<lb />LOVER</head>
+  <p>I<hi rendition="simple:superscript">2</hi>S a Kind of
+  <hi rendition="simple:italic">Goth</hi> and
+  <hi rendition="simple:italic">Vandal</hi>, that leaves<lb />his native
+  Self to ſettle in another, or a<lb />Planter that forſakes his
+  Country, where he<lb />was born, to labour and dig in
+  <hi rendition="simple:italic">Virginia</hi>.<lb />His Heart is catched
+  in a Net with a Pair of<lb />bringht ſhining Eyes, as Larks are with
+  Pieces<lb />of a looking-Glaſs. He makes heavy Com_<lb />plaints
+  againſt it for deſerting of him, and<lb />deſires to have another in
+  Exchange for it,<lb />which is a very unreaſonable Requeſt ; for
+  if<lb />it betrayed its boſom Friend, what will it do<lb />to a
+  Stranger, that ſhould give it Truſt and<lb />Entertainment ? He binds
+  himſelf, and cries<lb />out he is robbed of his Heart, and charges
+  the<lb />Innocent with it, only to get a good Com-<lb />poſition, or
+  another for it, againſt Con-<lb />ſcience and Honeſty. He talks much
+  of his<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>Flame, and pretends to be burnt by his Miſ-<lb />treſs’s Eyes, for
+  which he requires Satisfaction<lb />from her, like one that ſets his
+  Houſe on Fire<lb />to get a Brief for charitable
+  Contributions.<lb />He makes his Miſtreſs all of Stars, and
+  when<lb />ſhe is unkind, rails at them, as if they did
+  ill<lb />Offices between them, and being of her Kin<lb />ſet her
+  againſt him. He falls in Love as Men<lb />fall ſick when their Bodies
+  are inclined to it,<lb />and imputes that to his Miſtreſſes
+  Charms,<lb />which is really in his own Temper ; for when<lb />that is
+  altered, the other vaniſhes of it ſelf, and<lb />therefore one ſaid
+  not amiſs,</p>
+  <p>------The Lilly and the Roſe<lb />Not in her Cheeks, but in thy
+  Temper grows.</p>
+  <p>When his Deſires are grown up, they ſwarm,<lb />and fly out to ſeek
+  a new Habitation, and<lb />whereſoever they light they fix like Bees,
+  among<lb />which ſome late Philoſophers have obſerved<lb />that it is
+  a Female that leads all the reſt. Love<lb />is but a Clap of the Mind,
+  a Kind of run-<lb />ning of the Fancy, that breaks out, if it
+  be<lb />not ſtopped in Time, into Botches of heroic<lb />Rime ; for
+  all Loverrs are poets for the Time<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>being, and make their Ladies a Kind of mo-<lb />ſaic Work of
+  ſeveral coloured Stones joined<lb />together by a ſtrong Fancy, but
+  very ſtiff and<lb />unnatural ; and though they ſteal Stars
+  from<lb />Heaven, as <hi rendition="simple:italic">Prometheus</hi> did
+  Fire, to animate<lb />them, all will not make them alive,
+  nor<lb />alives-liking.<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+</div>
+</body>
+</text>
+</TEI>

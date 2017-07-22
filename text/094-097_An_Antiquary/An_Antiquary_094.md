@@ -3,7 +3,7 @@
 # AN\
 ANTIQUARY
 
-I^2^s one that has his Being in this Age, but\
+I^2^S one that has his Being in this Age, but\
 his Life and Converſation is in the Days of\
 old.  He deſpiſes the preſent Age as an Inno-\
 vation, and ſlights the future ; but has a great\
