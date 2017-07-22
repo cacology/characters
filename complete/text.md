@@ -51,7 +51,7 @@ Carbery.\
 #A\
 HUFFING COURTIER
 
-I^2^s a Cypher, that has no Value himſelf, but\
+I^2^S a Cypher, that has no Value himſelf, but\
 from the Place he ſtands in.  All his Hap-\
 pineſs conſiſts in the Opinion he believes others\
 have of it.   This is his Faith, but as it is he-\
@@ -227,7 +227,7 @@ when you have him.\
 # AN\
 ANTIQUARY
 
-I^2^s one that has his Being in this Age, but\
+I^2^S one that has his Being in this Age, but\
 his Life and Converſation is in the Days of\
 old.  He deſpiſes the preſent Age as an Inno-\
 vation, and ſlights the future ; but has a great\
@@ -416,7 +416,7 @@ of more cloſe and ſolid Parts.\
 [*double rule*]
 
 #A\
-#FIFTH-MONARCHY-MAN
+FIFTH-MONARCHY-MAN
 
 I^2^S one, that is not contented to be a Privy-\
 Counſellor of the Kingdom of Heaven, but\
@@ -499,74 +499,73 @@ himſelf accordingly.\
 ---
 
 
-[*two rules*]/
-/
-#THE/
-#HENPECT MAN/
-/
-R^2^<span style="font-variant:small-caps;">ide</span> behind his Wife, and lets her/
-wear the Spurs and governs the Reins. He/
-is a Kind of prepoſterous Animal, that being/
-curbed in goes with his Tail forwards. He is/
-but ſubordinate and miniſterial to his Wife,/
-who commands in chief, and he dares do no-/
-thing without her Order. She takes Place of him,/
-and he creeps in at the Bed's Feet, as if he had/
-married the *Grand Seignor's* Daughter, and is/
-under Correction of her Pantofle. He is his/
-Wife's Villain, and has nothing of his own/
-further than ſhe pleaſes to allow him. When/
-he was married he promiſed to worſhip his/
-Wife with his Soul inſtead of his Body, and/
-endowed her among his worldly Goods with his/
-Humanity. He changed Sexes with his Wife,/
-and put off the old Man to put on the new/
-Woman. She ſits as the Helm, and he does/
-but tug like a Slave at the Oar. The little/
+[*two rules*]
+
+#THE\
+HENPECT MAN
+
+R^2^<span style="font-variant:small-caps;">ide</span> behind his Wife, and lets her\
+wear the Spurs and governs the Reins. He\
+is a Kind of prepoſterous Animal, that being\
+curbed in goes with his Tail forwards. He is\
+but ſubordinate and miniſterial to his Wife,\
+who commands in chief, and he dares do no-\
+thing without her Order. She takes Place of him,\
+and he creeps in at the Bed's Feet, as if he had\
+married the *Grand Seignor's* Daughter, and is\
+under Correction of her Pantofle. He is his\
+Wife's Villain, and has nothing of his own\
+further than ſhe pleaſes to allow him. When\
+he was married he promiſed to worſhip his\
+Wife with his Soul inſtead of his Body, and\
+endowed her among his worldly Goods with his\
+Humanity. He changed Sexes with his Wife,\
+and put off the old Man to put on the new\
+Woman. She ſits as the Helm, and he does\
+but tug like a Slave at the Oar. The little\
 
 
 ---
 
 
-
-Wit he has being held *in capite* has rendered all/
-the reſt of his Concerments liable to Pupi-/
-lage and Wardſhip, and his Wife has the/
-Tuition of his during his or her Life; and/
-he has no Power to do any Thing of himſelf,/
-but by his Guardian. His Wife manages him/
-and his Eſtate with equal Authority, and he/
-lives under her aribtrary Government and Com-/
-mand as his ſuperior Office. He is but a kind/
-of Meſſuage and Tenement in the Occupation/
-of his Wife. He and ſhe make up a Kind of/
- Hermaphrodite, a Monſter, or which the one/
- half is more than the whole; for he is the/
- weaker Veſſel, and but his Wife's Helper. His/
- Wife eſpouſed and took him to Huſband for/
- better or worſe, and the laſt Word ſtands./
- He was meant to be his Wife's Head, but being/
- ſet on at the wrong End ſhe makes him ſerve/
- (like the Jeſuits Devil) for her Feet. He is her/
- Province, an Acquiſition that ſhe took in,/
- and gives Laws to at Indiſcretion; for being/
- overmatched and too feeble for the Encounter,/
- he was forced to ſubmit and take Quarter./
- He has inverted the Curſe, and turned it upon/
- himſelf; for his Deſire is towards his Wife,/
- and ſhe reign over him and with *Eſau* has/
- ſold his Birthright for a Meſs of Matrimony./
+Wit he has being held *in capite* has rendered all\
+the reſt of his Concerments liable to Pupi-\
+lage and Wardſhip, and his Wife has the\
+Tuition of his during his or her Life; and\
+he has no Power to do any Thing of himſelf,\
+but by his Guardian. His Wife manages him\
+and his Eſtate with equal Authority, and he\
+lives under her aribtrary Government and Com-\
+mand as his ſuperior Office. He is but a kind\
+of Meſſuage and Tenement in the Occupation\
+of his Wife. He and ſhe make up a Kind of\
+ Hermaphrodite, a Monſter, or which the one\
+ half is more than the whole; for he is the\
+ weaker Veſſel, and but his Wife's Helper. His\
+ Wife eſpouſed and took him to Huſband for\
+ better or worſe, and the laſt Word ſtands.\
+ He was meant to be his Wife's Head, but being\
+ ſet on at the wrong End ſhe makes him ſerve\
+ (like the Jeſuits Devil) for her Feet. He is her\
+ Province, an Acquiſition that ſhe took in,\
+ and gives Laws to at Indiſcretion; for being\
+ overmatched and too feeble for the Encounter,\
+ he was forced to ſubmit and take Quarter.\
+ He has inverted the Curſe, and turned it upon\
+ himſelf; for his Deſire is towards his Wife,\
+ and ſhe reign over him and with *Eſau* has\
+ ſold his Birthright for a Meſs of Matrimony.\
 
 
 ---
 
 
-His Wife took his Liberty among his worldly/
-Goods, to have and to hold till Death them/
-do part. He is but Groom of his Wife's/
-Chamber, and her menial Huſband, that is/
-always in waiting, and a Slave only in the Right/
-of his Wife./
+His Wife took his Liberty among his worldly\
+Goods, to have and to hold till Death them\
+do part. He is but Groom of his Wife's\
+Chamber, and her menial Huſband, that is\
+always in waiting, and a Slave only in the Right\
+of his Wife.\
 
 
 ---
@@ -1281,513 +1280,514 @@ Vol. II. #K
 ---
 
 
-#Center [ 131 ]/
-/
-[Double Rule]/
-/
-#Center A/
-#Center FANTASTIC/
-[Double line capital]Is one that wears his Feather on the Ins*ide/
-of his Head. His Brain is like Quicks*ilver,/
-apt to receive any Impres*s*ion, but retain none./
-His Mind is made of changeable Stuff, that/
-alters Colour with every Motion towards the/
-Light. He is a Cormorant, that has but one/
-Gut, devours every Thing greedily, but it runs/
-through him immediately. He does not know/
-s*o much as what he would be, and yet would/
-be every Thing he knows. He is like a Paper-/
-Lanthorn, that turns with the Smoak of a/
-Candle. He wears his Cloaths, as the antient/
-Laws of the Land have provided, according/
-to his Quality, that he may be known what/
-he is by them; and it is as eas*y to decipher/
-him by his Habit as a [i] Pudding. He is rigg'd/
-with Ribbon, and his Garniture is his Tackle;/
-#Center K2/
+#Center [ 131 ]
+
+[Double Rule]
+
+#Center A\
+Center FANTASTIC
+
+[Double line capital]Is one that wears his Feather on the Ins*ide\
+of his Head. His Brain is like Quicks*ilver,\
+apt to receive any Impres*s*ion, but retain none.\
+His Mind is made of changeable Stuff, that\
+alters Colour with every Motion towards the\
+Light. He is a Cormorant, that has but one\
+Gut, devours every Thing greedily, but it runs\
+through him immediately. He does not know\
+s*o much as what he would be, and yet would\
+be every Thing he knows. He is like a Paper-\
+Lanthorn, that turns with the Smoak of a\
+Candle. He wears his Cloaths, as the antient\
+Laws of the Land have provided, according\
+to his Quality, that he may be known what\
+he is by them; and it is as eas*y to decipher\
+him by his Habit as a [i] Pudding. He is rigg'd\
+with Ribbon, and his Garniture is his Tackle;\
+#Center K2\
 
 
 ---
 
 
-132  #Center A FANTASTIC./
-all the res*t of him is Hull. He is s*ure to be/
-the earlies*t in the Fas*hion, as others are of/
-a Faction, and glories as much to be in the/
-Head of a Mode, as a Solider does to be in/
-the Head of an Army.  He is admirably s*kil-/
-ful in the Mathematics of Cloaths; and can/
-tell, at the firs*t View, whether they have the/
-right Symmetry. He alters his Gate with the/
-Times, and has not a Motion of his Body, that/
-(like a Dottrel) he does not borrow from s*ome-/
-body els*e. He exercis*es his Limbs, like the/
-Pike and Mus*ket, and all his Pos*tures are prac-/
-tis*ed--Take him all together, and he is nothing/
-but a Trans*lation, Word for Word, out of/
-[i] French, [i] an Image cas*t in Plas*ter of [i] Paris, [i] and/
-a Puppet s*ent over for others to dres*s thems*elves/
-by. He s*peaks [i] French, [i] as Pedants do [i] Latin, [i]/
-to s*hew his Breeding; and mos*t naturally,/
-where he is leas*t unders*tood. All his non-Na_/
-turals, on which his Health and Dis*eases de-/
-pend, are [i] s*tile novo. French [i] is his Holiday-Lan-/
-guage, that he wears for his Pleas*ure and Or-/
-nament, and us*es [i] English [i] only for his Bus*ines*s/
-and neces*s*ary Occas*ions. He is like a [i] Scotch-/
-man, [i] though he is born a Subject of his own/
+132  #Center A FANTASTIC.\
+all the res*t of him is Hull. He is s*ure to be\
+the earlies*t in the Fas*hion, as others are of\
+a Faction, and glories as much to be in the\
+Head of a Mode, as a Solider does to be in\
+the Head of an Army.  He is admirably s*kil-\
+ful in the Mathematics of Cloaths; and can\
+tell, at the firs*t View, whether they have the\
+right Symmetry. He alters his Gate with the\
+Times, and has not a Motion of his Body, that\
+(like a Dottrel) he does not borrow from s*ome-\
+body els*e. He exercis*es his Limbs, like the\
+Pike and Mus*ket, and all his Pos*tures are prac-\
+tis*ed--Take him all together, and he is nothing\
+but a Trans*lation, Word for Word, out of\
+[i] French, [i] an Image cas*t in Plas*ter of [i] Paris, [i] and\
+a Puppet s*ent over for others to dres*s thems*elves\
+by. He s*peaks [i] French, [i] as Pedants do [i] Latin, [i]\
+to s*hew his Breeding; and mos*t naturally,\
+where he is leas*t unders*tood. All his non-Na_\
+turals, on which his Health and Dis*eases de-\
+pend, are [i] s*tile novo. French [i] is his Holiday-Lan-\
+guage, that he wears for his Pleas*ure and Or-\
+nament, and us*es [i] English [i] only for his Bus*ines*s\
+and neces*s*ary Occas*ions. He is like a [i] Scotch-\
+man, [i] though he is born a Subject of his own\
 
 
 ---
 
 
 #Center A FANTASTIC. 133.
-Nation, he carries a [i] French [i] faction within/
-him./
-/
-#indent He is never quiet, but s*its as the Wind is/
-s*aid to do, when it is mos*t in Motion. His/
-Head is as full of Maggots as a Pas*toral Poet's/
-Flock.  He was begotten, like one of Pliny's/
-Portugues*e Hors*es, by the Wind--The Truth/
-is he ought not to have been reared; for being/
-calved in the Increas*e of the Moon, he Head/
-is troubled with a ---/
-/
-N.H. The las*t Word not legible./
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
+Nation, he carries a [i] French [i] faction within\
+him.\
+\
+#indent He is never quiet, but s*its as the Wind is\
+s*aid to do, when it is mos*t in Motion. His\
+Head is as full of Maggots as a Pas*toral Poet's\
+Flock.  He was begotten, like one of Pliny's\
+Portugues*e Hors*es, by the Wind--The Truth\
+is he ought not to have been reared; for being\
+calved in the Increas*e of the Moon, he Head\
+is troubled with a ---\
+\
+N.H. The las*t Word not legible.\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 #Center K3
 
 
 ---
 
 
-#Center [134]/
-/
-#Double Rule/
-/
-#Center A/
-#Center MELANCHOLY MAN/
-/
-#[double line initial cap]Is one, that keeps the wors*t Company in the/
-World, that is, his own; and tho' he be al-/
-ways falling out and quarrelling with hims*elf,/
-yet he has not power to endure any other Con-/
-vers*ation. His Head is haunted, like a Hous*e,/
-with evil Spirits and Apparitions, that terrify/
-and fright him out of hims*elf, till he s*tands/
-empty and fors*aken. His Sleeps and his Wa-/
-kings are s*o much the s*ame, that he knows not/
-how to dis*tinguis*h them, and many times/
-when he dreams, he believes he is broad awake/
-and s*ees Vis*ions. The Fumes and Vapours/
-that ris*e from his Spleen and Hypocondries/
-have s*o s*mutched and s*ullied his Brain (like a/
-Room that s*moaks) that his Unders*tanding is/
-blear-ey'd, and has no right Perception of any/
-Thing. His Soul lives in his Body, like a/
-Mole in the Earth, that labours in the Dark,/
-and cas*ts up Doubts and Scruples of his own/
+#Center [134]
+
+#Double Rule
+
+#Center A\
+Center MELANCHOLY MAN\
+
+#[double line initial cap]Is one, that keeps the wors*t Company in the\
+World, that is, his own; and tho' he be al-\
+ways falling out and quarrelling with hims*elf,\
+yet he has not power to endure any other Con-\
+vers*ation. His Head is haunted, like a Hous*e,\
+with evil Spirits and Apparitions, that terrify\
+and fright him out of hims*elf, till he s*tands\
+empty and fors*aken. His Sleeps and his Wa-\
+kings are s*o much the s*ame, that he knows not\
+how to dis*tinguis*h them, and many times\
+when he dreams, he believes he is broad awake\
+and s*ees Vis*ions. The Fumes and Vapours\
+that ris*e from his Spleen and Hypocondries\
+have s*o s*mutched and s*ullied his Brain (like a\
+Room that s*moaks) that his Unders*tanding is\
+blear-ey'd, and has no right Perception of any\
+Thing. His Soul lives in his Body, like a\
+Mole in the Earth, that labours in the Dark,\
+and cas*ts up Doubts and Scruples of his own\
 
 
 ---
 
 
-#Center A MELANCHOLY MEN. 135/
-Imagination, to make that rugged and uneas*y,/
-that was plain and open before. His Brain is/
-s*o cracked, that he fancies hims*elf to be Glas*s,/
-and is afraid that every Thing he comes near/
-s*hould break him in Pieces. Whats*oever makes/
-an Impres*s*ion in his Imagination works it s*elf/
-in like a Screw, and the more he turns and/
-winds it, the deeper it s*ticks, till it is never to/
-be got out again. The Temper of his Brain/
-being earthy, cold, and dry, is apt to breed/
-Worms, that s*ink s*o deep into it, no Medicine/
-in Art or Nature is able to reach them. He/
-leads his Life, as one leads a Dog in a Slip/
-that will not follow, but is dragged along until/
-he is almos*t hanged, as he has it often under/
-Cons*ideration to treat hims*elf in convenient/
-Time and Place, if he can but catch hims*elf/
-alone. After a long and mortal Feud between/
-his inward and his outward Man, they at/
-length agree to meet without Seconds, and decide the/
-Quarrel, in which the one drops, and the/
-other s*inks out fo the Way, and makes his/
-Es*cape into s*ome foreign World, from whence/
-is it never after heard of. He convers*es with/
-nothing s*o much as his own Imagination,/
-which being apt to mis*repres*ent Things to him,/
-#Center K 4/
+#Center A MELANCHOLY MEN. 135\
+Imagination, to make that rugged and uneas*y,\
+that was plain and open before. His Brain is\
+s*o cracked, that he fancies hims*elf to be Glas*s,\
+and is afraid that every Thing he comes near\
+s*hould break him in Pieces. Whats*oever makes\
+an Impres*s*ion in his Imagination works it s*elf\
+in like a Screw, and the more he turns and\
+winds it, the deeper it s*ticks, till it is never to\
+be got out again. The Temper of his Brain\
+being earthy, cold, and dry, is apt to breed\
+Worms, that s*ink s*o deep into it, no Medicine\
+in Art or Nature is able to reach them. He\
+leads his Life, as one leads a Dog in a Slip\
+that will not follow, but is dragged along until\
+he is almos*t hanged, as he has it often under\
+Cons*ideration to treat hims*elf in convenient\
+Time and Place, if he can but catch hims*elf\
+alone. After a long and mortal Feud between\
+his inward and his outward Man, they at\
+length agree to meet without Seconds, and decide the\
+Quarrel, in which the one drops, and the\
+other s*inks out fo the Way, and makes his\
+Es*cape into s*ome foreign World, from whence\
+is it never after heard of. He convers*es with\
+nothing s*o much as his own Imagination,\
+which being apt to mis*repres*ent Things to him,\
+#Center K 4\
 
 
 ---
 
 
-136 #Center A MELANCHOLY MAN./
-makes him believe, that it is s*omething els*e/
-than it is, and that he holds Intelligence with/
-Spirits, that reveal whats*oever he fancies to/
-him, as the antient rude People, that firs*t heard/
-their own Voices repeated by Echoes in the/
-Woods, concluded it mus*t proceed from s*ome/
-invisible Inhabitants of thos*e s*olitary Places,/
-which they after believed to be Gods, and/
-called them [i] Sylvans, Fauns, [i] and [i] Dryads. [i] He/
-makes the Infirmity of his Temper pas*s for/
-Revelations, as [i] Mahomet [i] did by his falling/
-Sicknes*s, and ins*pires hims*elf with the Wind/
-of his own Hypocondries. He laments, like/
-[i] Heraclitus [i] the Maudlin Philos*opher, at other/
-Men's Mirth, and take Pleas*ures in nothing/
-but his own un-s*ober Sadnes*s. His Mind is/
-full of Thoughts, but they are all empty, like/
-a Nes*t of Boxes. He s*leeps little, but dreams/
-much, and s*oundes*t when he is waking. He/
-s*ees Vis*ions further off than a s*econd-s*ighted/
-Man in [i] Scotland, [i] and dreams upon a hard/
-Point with admirable Judgement. He is jus*t/
-s*o much wors*e than a Madman, as he is below/
-him in Degree of Frenzy; for among Madmen/
-the mos*t mad govern all the res*t, and receive/
-a natural Obedience from their Inferiors./
+136 #Center A MELANCHOLY MAN.\
+makes him believe, that it is s*omething els*e\
+than it is, and that he holds Intelligence with\
+Spirits, that reveal whats*oever he fancies to\
+him, as the antient rude People, that firs*t heard\
+their own Voices repeated by Echoes in the\
+Woods, concluded it mus*t proceed from s*ome\
+invisible Inhabitants of thos*e s*olitary Places,\
+which they after believed to be Gods, and\
+called them [i] Sylvans, Fauns, [i] and [i] Dryads. [i] He\
+makes the Infirmity of his Temper pas*s for\
+Revelations, as [i] Mahomet [i] did by his falling\
+Sicknes*s, and ins*pires hims*elf with the Wind\
+of his own Hypocondries. He laments, like\
+[i] Heraclitus [i] the Maudlin Philos*opher, at other\
+Men's Mirth, and take Pleas*ures in nothing\
+but his own un-s*ober Sadnes*s. His Mind is\
+full of Thoughts, but they are all empty, like\
+a Nes*t of Boxes. He s*leeps little, but dreams\
+much, and s*oundes*t when he is waking. He\
+s*ees Vis*ions further off than a s*econd-s*ighted\
+Man in [i] Scotland, [i] and dreams upon a hard\
+Point with admirable Judgement. He is jus*t\
+s*o much wors*e than a Madman, as he is below\
+him in Degree of Frenzy; for among Madmen\
+the mos*t mad govern all the res*t, and receive\
+a natural Obedience from their Inferiors.\
 
 
 ---
 
 
-#Center [137]/
-/
-#Double Rule/
-/
-#Center AN/
-#Center HARANGUER/
-/
-/
+#Center [137]
+
+#Double Rule
+
+#Center AN\
+Center HARANGUER
+
 [I]s one, that is s*o delighted with the s*weet/ 
-[I] Sound of his own Tongue, that [i] William/
-Prynne [i] will s*ooner lend an Ear, than he, to any/
-Thing els*e. His Meas*ure of Talk is till his/
-Wind is s*pent; and then he is not s*ilenced,/
-but becalmed. His Ears have catched the/
-Itch of his Tonuge, and though he s*cratch/
-them, like a Deas*t with his Hoof, he finds a/
-Pleas*ure in it. A [i] s*ilenced Minis*ter, [i] has more/
-Mercy on the Government in a s*ecure Conven-/
-ticle, than he has on the Company, that he is/
-in. He s*hakes a Man by the Ear, as a Dog/
-does a Pig, and never loos*es his Hold, till he/
-has tired hims*elf, as well as his Patient. He/
-does not talk to a Man, but attack him, and/
-whoms*oever he can get into his Hands he lays/
-violent Language on. If he can he will run/
-a Man up agains*t a Wall, and hold him at a/
+[I] Sound of his own Tongue, that [i] William\
+Prynne [i] will s*ooner lend an Ear, than he, to any\
+Thing els*e. His Meas*ure of Talk is till his\
+Wind is s*pent; and then he is not s*ilenced,\
+but becalmed. His Ears have catched the\
+Itch of his Tonuge, and though he s*cratch\
+them, like a Deas*t with his Hoof, he finds a\
+Pleas*ure in it. A [i] s*ilenced Minis*ter, [i] has more\
+Mercy on the Government in a s*ecure Conven-\
+ticle, than he has on the Company, that he is\
+in. He s*hakes a Man by the Ear, as a Dog\
+does a Pig, and never loos*es his Hold, till he\
+has tired hims*elf, as well as his Patient. He\
+does not talk to a Man, but attack him, and\
+whoms*oever he can get into his Hands he lays\
+violent Language on. If he can he will run\
+a Man up agains*t a Wall, and hold him at a\
 
 
 ---
 
 
-138 #Center AN HARANGUER./
-Bay by the Buttons, which he handles as bad/
-as he does his Pers*on, or the Bus*ines*s he treats/
-upon. When he finds him begin to s*ink, he/
-holds him by the Cloaths, and feels him as a/
-Butcher does a Calf, before he kills him. He/
-is a walking Pillory, and crucifies more Ears/
-than a dozen s*tanding ones. He will hold any/
-Argument rather than his Tongue, and main-/
-tain both s*ides at his own Charge; for he will/
-tell you what you will s*ay, though, perhaps,/
-he does not intende to give you leave. He/
-lugs Men by the Ears, as they correct Children/
-in [i] Scotland, [i] and will make them tingle, while/
-he talks with them, as s*ome s*ay they will do,/
-whena  Man is talked of in his Abs*ence. When/
-he talks to a Man, he comes up clos*e to him,/
-and like an old Solider lets fly in his Face, or/
-claps the Bore of his Pis*tol to his Ear, and/
-whispers aloud, that he may be s*ure not to/
-mis*s his Mark. His tongue is always in Mo-/
-tion, tho very s*eldom to the Purpos*e, like a/
-Barber's Scis*s*ers, which are always s*nipping,/
-as well when they do not cut, as when they/
-do. His Tongue is like a Bagpipe Drone, that/
-has no Stop, but makes a continual ugly Nois*e,/
-hims*elf. He never leaves a Man until he has/
-/
+138 #Center AN HARANGUER.\
+Bay by the Buttons, which he handles as bad\
+as he does his Pers*on, or the Bus*ines*s he treats\
+upon. When he finds him begin to s*ink, he\
+holds him by the Cloaths, and feels him as a\
+Butcher does a Calf, before he kills him. He\
+is a walking Pillory, and crucifies more Ears\
+than a dozen s*tanding ones. He will hold any\
+Argument rather than his Tongue, and main-\
+tain both s*ides at his own Charge; for he will\
+tell you what you will s*ay, though, perhaps,\
+he does not intende to give you leave. He\
+lugs Men by the Ears, as they correct Children\
+in [i] Scotland, [i] and will make them tingle, while\
+he talks with them, as s*ome s*ay they will do,\
+whena  Man is talked of in his Abs*ence. When\
+he talks to a Man, he comes up clos*e to him,\
+and like an old Solider lets fly in his Face, or\
+claps the Bore of his Pis*tol to his Ear, and\
+whispers aloud, that he may be s*ure not to\
+mis*s his Mark. His tongue is always in Mo-\
+tion, tho very s*eldom to the Purpos*e, like a\
+Barber's Scis*s*ers, which are always s*nipping,\
+as well when they do not cut, as when they\
+do. His Tongue is like a Bagpipe Drone, that\
+has no Stop, but makes a continual ugly Nois*e,\
+hims*elf. He never leaves a Man until he has\
+\
 3
 
 
 ---
 
 
-#Center AN HARANGUER. #Justifyleft 139/
-run him down, and then he winds a Death/
-over him. A Sow-Gelder's Horn is not s*o/
-terrible to Dogs and Cats, as he is to all that/
-know him. His Way of Argument is to talk/
-all, and hear to Contradiction. Firs*t he gives/
-his Antagonis*t the Length of the Wind, and/
-then, let him make his Approaches inf he can,/
-he is s*ure to be beforehand with him. Of all/
-dis*s*olute Dis*eas*es the Running of the Tongue is/
-the wors*t, and the hardes*t to be cured. If he/
-happen at any time to be at a Stand, and any/
-Man els*e begins to s*peak, he pres*ently drowns/
-him with his Nois*e, as a Water-Dog makes a/
-Duck dive: for when you think he has done/
-he falls one, and lets fly again, like a Gun, that/
-will dis*charge nine Times with one Loading./
-He is a Rattles*nake, that with his Nois*e gives/
-Men warning to avoid him, otherwis*e he will/
-make them wis*h they had. He is, like a Bell,/
-good for nothing but to make a Nois*e. He is/
-like common Fame, that s*peaks mos*t and/
-knows leas*t, Lord [i] Brooks, [i] or a Wildgoos*e al-/
-ways cackling when he is upon the Wing./
-His Tongue is like any Kind of Carriage, the/
-les*s Weight it bears, the fas*ter and eas*ier it/
-goes. He is s*o full of Words, that they run/
-over, and are thrown away to no Purpos*e; and/
+#Center AN HARANGUER. #Justifyleft 139\
+run him down, and then he winds a Death\
+over him. A Sow-Gelder's Horn is not s*o\
+terrible to Dogs and Cats, as he is to all that\
+know him. His Way of Argument is to talk\
+all, and hear to Contradiction. Firs*t he gives\
+his Antagonis*t the Length of the Wind, and\
+then, let him make his Approaches inf he can,\
+he is s*ure to be beforehand with him. Of all\
+dis*s*olute Dis*eas*es the Running of the Tongue is\
+the wors*t, and the hardes*t to be cured. If he\
+happen at any time to be at a Stand, and any\
+Man els*e begins to s*peak, he pres*ently drowns\
+him with his Nois*e, as a Water-Dog makes a\
+Duck dive: for when you think he has done\
+he falls one, and lets fly again, like a Gun, that\
+will dis*charge nine Times with one Loading.\
+He is a Rattles*nake, that with his Nois*e gives\
+Men warning to avoid him, otherwis*e he will\
+make them wis*h they had. He is, like a Bell,\
+good for nothing but to make a Nois*e. He is\
+like common Fame, that s*peaks mos*t and\
+knows leas*t, Lord [i] Brooks, [i] or a Wildgoos*e al-\
+ways cackling when he is upon the Wing.\
+His Tongue is like any Kind of Carriage, the\
+les*s Weight it bears, the fas*ter and eas*ier it\
+goes. He is s*o full of Words, that they run\
+over, and are thrown away to no Purpos*e; and\
 
 
 ---
 
 
-140 #Center AN HARANGUER./
-s*o empty of Things, or Sens*e, that his Dry-/
-nes*s has made his Leaks s*o wide, whats*oever is/
-put in hi runs out immediately. He is s*o/
-long in delivering hims*elf, that thos*e that hear/
-him des*ire to be delivered too, or dis*patched/
-out of their Pain. He makes his Dis*course the/
-longer with often repeating [i] to be s*hort, [i] and talks/
-much of [i] in fine, [i] but never means to come near/
-it./
+140 #Center AN HARANGUER.\
+s*o empty of Things, or Sens*e, that his Dry-\
+nes*s has made his Leaks s*o wide, whats*oever is\
+put in hi runs out immediately. He is s*o\
+long in delivering hims*elf, that thos*e that hear\
+him des*ire to be delivered too, or dis*patched\
+out of their Pain. He makes his Dis*course the\
+longer with often repeating [i] to be s*hort, [i] and talks\
+much of [i] in fine, [i] but never means to come near\
+it.\
 
 
 ---
 
 
-#Center [ 141 ]/
-/
-/
-#Double rule/
-/
-#Center A/
-#Center POPISH PRIEST/
-[I]s one that takes the s*ame Cours*e,  that the/
-[I](i)Devil (i) did in Paradis*e, he begins with the/
-Woman. He Des*pis*es all other (i)Fanatics (i) as Up-/
-s*tarts, and values hims*elf upon his Antiquity./
-He is a Man-Midwife to the Soul, and is all/
-his Life-time in this World deluding it to the/
-next. (i) Christ (i) made St. (i) Peter (i) a Fis*her of Men ;/
-but he believe it better to be a Fis*her of Wo-/
-men, and s*o becomes a Woman's Apos*tle./
-His Profes*s*ion is to dis*guise hims*elf, which he/
-does in Sheeps-Cloathing, that is, a Lay Habit ;/
-but whether, as a Wolf, a Thief or a Shep-/
-herd, is a great Question ; only this is certain,/
-that he had rather hanv one Sheep out of ano-/
-ther Man's Fold, that two out of his own./
-He gathers his Church as (i) Fantaics do, yet des*-/
-pis*es them for it, and keeps his Flock always in/
-Hurdles, to be removed at his Pleas*ure ; and/
-though their Souls be rotten or s*cabby with/
+#Center [ 141 ]
+
+
+#Double rule
+
+#Center A\
+Center POPISH PRIEST
+
+[I]s one that takes the s*ame Cours*e,  that the\
+[I](i)Devil (i) did in Paradis*e, he begins with the\
+Woman. He Des*pis*es all other (i)Fanatics (i) as Up-\
+s*tarts, and values hims*elf upon his Antiquity.\
+He is a Man-Midwife to the Soul, and is all\
+his Life-time in this World deluding it to the\
+next. (i) Christ (i) made St. (i) Peter (i) a Fis*her of Men ;\
+but he believe it better to be a Fis*her of Wo-\
+men, and s*o becomes a Woman's Apos*tle.\
+His Profes*s*ion is to dis*guise hims*elf, which he\
+does in Sheeps-Cloathing, that is, a Lay Habit ;\
+but whether, as a Wolf, a Thief or a Shep-\
+herd, is a great Question ; only this is certain,\
+that he had rather hanv one Sheep out of ano-\
+ther Man's Fold, that two out of his own.\
+He gathers his Church as (i) Fantaics do, yet des*-\
+pis*es them for it, and keeps his Flock always in\
+Hurdles, to be removed at his Pleas*ure ; and\
+though their Souls be rotten or s*cabby with\
 
 
 ---
 
 
-142 #Center A POPISH PRIEST./
-Hypocris*y, the Fleece is s*ure to be s*ound and/
-orthodox. He tars their Cons*ciences with/
-Confes*s*ion and Penance, but always keeps the/
-Wool, that he pulls from the Sore, to hims*elf./
-He never makes a Pos*clyte, but he (i) converts (i)/
-him to his very Shirt, and (i) turns (i) his Pockets/
-into the Bargain ; for he does nothing unles*s/
-his Purs*e prove a good (i) Catholic. (i) He never gets/
-within a Family, but he gets on the Top of it,/
-and governs all down to the Bottom of the/
-Cellar--He will not tolerate the Scullion un-/
-les*s he be othrodox, nor allow of the turning/
-of the Spit, but (i) in ordine ad Spiritualia. (i) His/
-(i) Dominion is not founded in Grace, (i) but Sin ; for he/
-keeps his Subjects in perfect Awe by being/
-acquainted with their mos*t s*acred Iniquities,/
-as (i) Juvenal (i) s*aid of the (i) Greeks. (i)/
-/
-#indent (i) Scire volunt s*ecreta domus, atque in de timeri. (i)/
-/
-By this means he holds Intelligence with their/
-own Cons*ciences agains*t thems*elves, and keeps/
-their very Thoughts in Slavery ; for Men com-/
-monly fear thos*e that know any Evil of them,/
-and out of Shame give Way to them. He is/
-very cautious in venturing to attack any Man/
-by Way of Convers*ion, whos*e Weaknes*s he is/
-not very well acquainted with ; and like the/
+142 #Center A POPISH PRIEST.\
+Hypocris*y, the Fleece is s*ure to be s*ound and\
+orthodox. He tars their Cons*ciences with\
+Confes*s*ion and Penance, but always keeps the\
+Wool, that he pulls from the Sore, to hims*elf.\
+He never makes a Pos*clyte, but he (i) converts (i)\
+him to his very Shirt, and (i) turns (i) his Pockets\
+into the Bargain ; for he does nothing unles*s\
+his Purs*e prove a good (i) Catholic. (i) He never gets\
+within a Family, but he gets on the Top of it,\
+and governs all down to the Bottom of the\
+Cellar--He will not tolerate the Scullion un-\
+les*s he be othrodox, nor allow of the turning\
+of the Spit, but (i) in ordine ad Spiritualia. (i) His\
+(i) Dominion is not founded in Grace, (i) but Sin ; for he\
+keeps his Subjects in perfect Awe by being\
+acquainted with their mos*t s*acred Iniquities,\
+as (i) Juvenal (i) s*aid of the (i) Greeks. (i)\
+\
+#indent (i) Scire volunt s*ecreta domus, atque in de timeri. (i)\
+\
+By this means he holds Intelligence with their\
+own Cons*ciences agains*t thems*elves, and keeps\
+their very Thoughts in Slavery ; for Men com-\
+monly fear thos*e that know any Evil of them,\
+and out of Shame give Way to them. He is\
+very cautious in venturing to attack any Man\
+by Way of Convers*ion, whos*e Weaknes*s he is\
+not very well acquainted with ; and like the\
 
 
 ---
 
 
-#Center A POPISH PRIEST. #Left 143/
-Fox, weighs his Goos*e, before he will venture/
-to carry him over a River. He fights with the/
-(i) Devil (i) at his own Weapons, and s*trives to get/
-ground on him with Frauds and Lies--Thes*e/
-he convers to pious Us*es. He makes his/
-Prayers (the proper Bus*ines*s of the Mind) a/
-Kind of Manufacture, and vents them by Tale,/
-rather than Weight ; and, while he is bus*ied/
-in numbering them, forgets their Sens*e and/
-Meaning. He s*ets them up as Men do their/
-Games at (i) Picquet, (i) for fear he s*hould be mis*-/
-reckoned; but never minds whether he plays/
-fair or not. He s*ells Indulgences, like (i) Lockier's (i)/
-Pills, with Directions how they are to be taken./
-He is but a Copyholder of the (i) Catholic (i) Church,/
-that claims by Cus*tom. He believes that (i) Pope's (i)/
-Chain is fas*tened to the Gates of Heaven, like/
+#Center A POPISH PRIEST. #Left 143\
+Fox, weighs his Goos*e, before he will venture\
+to carry him over a River. He fights with the\
+(i) Devil (i) at his own Weapons, and s*trives to get\
+ground on him with Frauds and Lies--Thes*e\
+he convers to pious Us*es. He makes his\
+Prayers (the proper Bus*ines*s of the Mind) a\
+Kind of Manufacture, and vents them by Tale,\
+rather than Weight ; and, while he is bus*ied\
+in numbering them, forgets their Sens*e and\
+Meaning. He s*ets them up as Men do their\
+Games at (i) Picquet, (i) for fear he s*hould be mis*-\
+reckoned; but never minds whether he plays\
+fair or not. He s*ells Indulgences, like (i) Lockier's (i)\
+Pills, with Directions how they are to be taken.\
+He is but a Copyholder of the (i) Catholic (i) Church,\
+that claims by Cus*tom. He believes that (i) Pope's (i)\
+Chain is fas*tened to the Gates of Heaven, like\
 King (i) Harry's (i) in the Privy-Gallery./ 
 
 
 ---
 
 
-#center [144]/
-/
-#double rule/
-/
-#center A/
-#center TRAVELLER/
-/
-[I]s a Native of all Countries, and an Alien at/
-[I]Home.  He flies from the Place where he/
-was hatched, like a Wildgoos*e, and prefers all/
-others before it.  He has no Quarrel to it, but/
-becaus*e he was born in it, and like a Bas*tard,/
-he is as*hamed of his Mother, becaus*e s*he is of/
-him. He is a Merchant, that makes Voyages/
-into foreign Nations, to drive a Trade in Wis*-/
-dom and Politics, and is is not for his Credit/
-to have it thoughts, he has made an ill Return,/
-which mus*t be, if he s*hould allow of any of/
-the Growth of his own Country.  This makes/
-him quick and blow up hims*elf with Admira-/
-tion of foreign Parts, and a generous Con-/
-tempt of Home, that all Men may admire, at/
-leas*t, the means he has had of Improvement,/
-and deplore their own Defects*. His Obs*erva-/
-tions are like a Sieve, that lets the finer Flour/
-pas*s, and retains only the Bran of Things;/
+#center [144]
+
+#double rule
+
+#center A\
+center TRAVELLER
+
+[I]s a Native of all Countries, and an Alien at\
+[I]Home.  He flies from the Place where he\
+was hatched, like a Wildgoos*e, and prefers all\
+others before it.  He has no Quarrel to it, but\
+becaus*e he was born in it, and like a Bas*tard,\
+he is as*hamed of his Mother, becaus*e s*he is of\
+him. He is a Merchant, that makes Voyages\
+into foreign Nations, to drive a Trade in Wis*-\
+dom and Politics, and is is not for his Credit\
+to have it thoughts, he has made an ill Return,\
+which mus*t be, if he s*hould allow of any of\
+the Growth of his own Country.  This makes\
+him quick and blow up hims*elf with Admira-\
+tion of foreign Parts, and a generous Con-\
+tempt of Home, that all Men may admire, at\
+leas*t, the means he has had of Improvement,\
+and deplore their own Defects*. His Obs*erva-\
+tions are like a Sieve, that lets the finer Flour\
+pas*s, and retains only the Bran of Things;\
 
 
 ---
 
 
-#center A TRAVELLER. #justify left 145/
-for his whole Return of Wis*dom proves to be/
-but Affectation, a peris*hable Commodity, which/
-he will never be able to put off. He velieve/
-all Men's Wits are at a s*tand, that s*tay at/
-Home, and only thos*e advanced, that travel ;/
-as if Change of Pas*ture did make great Politi-/
-cians, as well as fat Calves. He pities the little/
-knowledge of Truth which thos*e have, that/
-have not s*een the World abroad, forgetting,/
-that at the s*ame time he tells us, how little/
-Credit is to be given to his own Relations and/
-thos*e of others, that s*peak and write of their/
-Travels. He has worn his own Language to/
-Rags, and patched it up with Scraps and Ends/
-of foreign--This s*erves him for Wit, and they ap-/
-plaud one another accordingly. He believes/
-this Raggednes*s of his Dis*cours*e a great Demon-/
-s*tration of the Improvement of his Knowledge ;/
-as (i) Inns-of-Court (i) Men intimate their Proficiency/
-in the Law by the Tatters of their Gowns-/
-All the Wit he brought Home with him is like/
-foreign Coin, of a bas*er Alloy than our own,/
-and s*o will not pas*s here without great Los*s./
-All noble Creatures, that are famous in any/
-  Vol. II #Center L/
+#center A TRAVELLER. #justify left 145\
+for his whole Return of Wis*dom proves to be\
+but Affectation, a peris*hable Commodity, which\
+he will never be able to put off. He velieve\
+all Men's Wits are at a s*tand, that s*tay at\
+Home, and only thos*e advanced, that travel ;\
+as if Change of Pas*ture did make great Politi-\
+cians, as well as fat Calves. He pities the little\
+knowledge of Truth which thos*e have, that\
+have not s*een the World abroad, forgetting,\
+that at the s*ame time he tells us, how little\
+Credit is to be given to his own Relations and\
+thos*e of others, that s*peak and write of their\
+Travels. He has worn his own Language to\
+Rags, and patched it up with Scraps and Ends\
+of foreign--This s*erves him for Wit, and they ap-\
+plaud one another accordingly. He believes\
+this Raggednes*s of his Dis*cours*e a great Demon-\
+s*tration of the Improvement of his Knowledge ;\
+as (i) Inns-of-Court (i) Men intimate their Proficiency\
+in the Law by the Tatters of their Gowns-\
+All the Wit he brought Home with him is like\
+foreign Coin, of a bas*er Alloy than our own,\
+and s*o will not pas*s here without great Los*s.\
+All noble Creatures, that are famous in any\
+  Vol. II #Center L\
 
 
 ---
 
 
-146 A TRAVELLER./
-one Country, degenerate by being trans*planted;/
-and thos*e of mean Value only improve--If it/
-hold with Men, he falls among the Number/
-of the latter, and his Improvements are little/
-to his Credit. All he can s*ay for hims*elf is,/
-his Mind was s*ick of a Cons*umption, and/
-change of Air has cured him : For all his other/
-Improvements have only been to eat in . . . ./
-and talk with thos*e he did not unders*tand; to/
-hold Intelligence with all Gazettes, and from/
-the Sight of States*men in the Street unriddle/
-the Intrigues of all their Councils, to make a/
-wondrous Progres*s into Knowledge by riding/
-with a Mes*s*enger, and advance In Politics by/
-mounting of a Mule, run through all Sorts of/
-Learning in a Waggon, and found all Depths/
-of Arts in  Felucca, ride pos*t into the Secrets/
-of all States, and grow acquainted with their/
-clos*e Des*igns in Inns and Hos*tleries; for cer-/
-tainly there is great Virtue in Highways and/
-Hedges to make an able Man, and a good/
-Pros*pect cannot but let him s*ee far into Things./
+146 A TRAVELLER.\
+one Country, degenerate by being trans*planted;\
+and thos*e of mean Value only improve--If it\
+hold with Men, he falls among the Number\
+of the latter, and his Improvements are little\
+to his Credit. All he can s*ay for hims*elf is,\
+his Mind was s*ick of a Cons*umption, and\
+change of Air has cured him : For all his other\
+Improvements have only been to eat in . . . .\
+and talk with thos*e he did not unders*tand; to\
+hold Intelligence with all Gazettes, and from\
+the Sight of States*men in the Street unriddle\
+the Intrigues of all their Councils, to make a\
+wondrous Progres*s into Knowledge by riding\
+with a Mes*s*enger, and advance In Politics by\
+mounting of a Mule, run through all Sorts of\
+Learning in a Waggon, and found all Depths\
+of Arts in  Felucca, ride pos*t into the Secrets\
+of all States, and grow acquainted with their\
+clos*e Des*igns in Inns and Hos*tleries; for cer-\
+tainly there is great Virtue in Highways and\
+Hedges to make an able Man, and a good\
+Pros*pect cannot but let him s*ee far into Things.\
 
 
 ---
 
 
-#Center [147]/
-/
-#Double Rule/
-/
-#Center A
-#Center CATHOLIC/
-/
-/
-[S]AYS his Prayers often, but never prays, and/
-[S] wors*hips the Cros*s more than (i) Christ (i). He/
-prefers his Church merely for the Antiquity of/
-it, and cares not how s*ound or rotten it be,/
-s*o it be but old. He takes a liking to it as/
-s*ome do to old Chees*e, only for the blue Rot-/
-tennes*s of it. If he had lived in the primitive/
-Times he had never been a (i) Christian (i); for the/
-Antiquity of the (i) Pagan (i) and (i) Jewish (i) Religion/
-would have had the s*ame Power over him/
-against the (i) Christian, (i) as the old (i) Roman (i) has/
-agains*t the modern Reformation. The weaker/
-Ves*s*el he is, the better and more zealous Member/
-he always proves of his Church; for Religion,/
-like Wine, is not s*o apt to leak in a leathern/
-Boraccio as a great Cas*k, and is better pre-/
-s*erved in a s*mall Bottle s*topped with a light/
-Cork, than a ves*s*el of greater Capacity, where/
-the Spirits being more and s*tronger are the/
-#Center L2/
+#Center [147]
+
+#Double Rule
+
+#Center A\
+Center CATHOLIC
+
+
+[S]AYS his Prayers often, but never prays, and\
+[S] wors*hips the Cros*s more than (i) Christ (i). He\
+prefers his Church merely for the Antiquity of\
+it, and cares not how s*ound or rotten it be,\
+s*o it be but old. He takes a liking to it as\
+s*ome do to old Chees*e, only for the blue Rot-\
+tennes*s of it. If he had lived in the primitive\
+Times he had never been a (i) Christian (i); for the\
+Antiquity of the (i) Pagan (i) and (i) Jewish (i) Religion\
+would have had the s*ame Power over him\
+against the (i) Christian, (i) as the old (i) Roman (i) has\
+agains*t the modern Reformation. The weaker\
+Ves*s*el he is, the better and more zealous Member\
+he always proves of his Church; for Religion,\
+like Wine, is not s*o apt to leak in a leathern\
+Boraccio as a great Cas*k, and is better pre-\
+s*erved in a s*mall Bottle s*topped with a light\
+Cork, than a ves*s*el of greater Capacity, where\
+the Spirits being more and s*tronger are the\
+#Center L2\
 
 
 ---
@@ -1826,113 +1826,113 @@ Condition of all thos*e are deluded, is a/
 ---
 
 
-#Center A CATHOLIC. #JustifyLeft 149/
-great Argument that he is miſtaken. His Re-/
-ligion is of no Force without Ceremonies, like/
-a Loads*tone that draws a greater Weight/
-through a Piece of Iron, than when it is naked/
-of it s*elf. His Prayers are a kind of Crambe/
-that uſed to kill Schoolmaſters ; and he values/
-them by Number, not Weight./
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-#center L3/
+#Center A CATHOLIC. #JustifyLeft 149\
+great Argument that he is miſtaken. His Re-\
+ligion is of no Force without Ceremonies, like\
+a Loads*tone that draws a greater Weight\
+through a Piece of Iron, than when it is naked\
+of it s*elf. His Prayers are a kind of Crambe\
+that uſed to kill Schoolmaſters ; and he values\
+them by Number, not Weight.\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+#center L3\
 
 
 ---
 
 
-#Center [ 150 ]/
-/
-#Double Rule/
-/
-/
-#Center A/
-#Center CURIOUS MAN/
-/
-[V]ALUES things not by their Us*e or/
-[V]Worth, but Scarcity. He is very tender/
-and s*crupulous of his Humour, as [i] Fantatics [i]/
-are of their Cons*ciences, and both for the mos*t/
-part in Trifles. He cares not how unus*eful/
-any Thing be, s*o it be but unus*ual and rare./
-He collects all the Curious*ities he can light upon/
-in Art or Nature, not to inform his own/
-Judgement, but to catch the Admiration of o-/
-thers, which he believes he has a Right to, be-/
-caus*e the Rarities are his own. That which/
-other Men neglect he believes they overs*ee,/
-and s*tores up Trifles as rare Dis*coveries, at leas*t/
-of his own Wit and Sagacity. He admires/
-subtleties above all Things, becaus*e the more/
-s*ubtle they are, the nearer they are to nothing;/
-and values no Art but that which is s*pun s*o/
+#Center [ 150 ]
+
+#Double Rule
+
+
+#Center A\
+Center CURIOUS MAN
+
+[V]ALUES things not by their Us*e or\
+[V]Worth, but Scarcity. He is very tender\
+and s*crupulous of his Humour, as [i] Fantatics [i]\
+are of their Cons*ciences, and both for the mos*t\
+part in Trifles. He cares not how unus*eful\
+any Thing be, s*o it be but unus*ual and rare.\
+He collects all the Curious*ities he can light upon\
+in Art or Nature, not to inform his own\
+Judgement, but to catch the Admiration of o-\
+thers, which he believes he has a Right to, be-\
+caus*e the Rarities are his own. That which\
+other Men neglect he believes they overs*ee,\
+and s*tores up Trifles as rare Dis*coveries, at leas*t\
+of his own Wit and Sagacity. He admires\
+subtleties above all Things, becaus*e the more\
+s*ubtle they are, the nearer they are to nothing;\
+and values no Art but that which is s*pun s*o\
 
 
 ---
 
 
-#Center A CURIOUS MAN. 151/
-thin, that it is of no Us*e at all. He had rather/
-have an iron Chain hung about the Neck of a/
-Flea, than an Alderman's of Gold, and [i] Ho-/
-mer's [i] Iliads in a Nuts*hel than [i] Alexander's [i] Ca-/
-binet. He had rather have the twelve Apos*tles/
-on a Cherry-Stone, than thos*e on St. [i] Peter's [i]/
-Portico, and would willingly s*ell [i] Christ [i] again/
-for the numerical Piece of Coin, that [i] Judas [i]/
-took for him. His perpetual Dotage upon/
-Curious*ities at length renders him one of them,/
-and he s*hews hims*elf as none fo the meanes*t/
-of his Rarities. He s*o much affects Singula-/
-rity, that rather than follow the Fas*hion, that/
-is us*ed by the res*t of the World, he will wear/
-dis*s*enting Cloaths with odd fantas*tic Devices/
-to dis*tinguish hims*elf form others, like Marks/
-s*et upon Cattle. He cares not what Pains he/
-throws away upon the meanes*t Trifle, s*o it be/
-but s*trange, while s*ome pity, and others laugh/
-at his ill-employed Indus*try. He is one of/
-thos*e, that valued [i] Epictetus's [i] Lamp above the/
-excellent Book he writ by it. If he be a Book-/
-man he s*pends all his Time and Study upon/
-Things that are never to be known. The/
-[i] Philos*opher's Stone [i] and [i] univers*al Medicine cannot/
-#center L 4/
+#Center A CURIOUS MAN. 151\
+thin, that it is of no Us*e at all. He had rather\
+have an iron Chain hung about the Neck of a\
+Flea, than an Alderman's of Gold, and [i] Ho-\
+mer's [i] Iliads in a Nuts*hel than [i] Alexander's [i] Ca-\
+binet. He had rather have the twelve Apos*tles\
+on a Cherry-Stone, than thos*e on St. [i] Peter's [i]\
+Portico, and would willingly s*ell [i] Christ [i] again\
+for the numerical Piece of Coin, that [i] Judas [i]\
+took for him. His perpetual Dotage upon\
+Curious*ities at length renders him one of them,\
+and he s*hews hims*elf as none fo the meanes*t\
+of his Rarities. He s*o much affects Singula-\
+rity, that rather than follow the Fas*hion, that\
+is us*ed by the res*t of the World, he will wear\
+dis*s*enting Cloaths with odd fantas*tic Devices\
+to dis*tinguish hims*elf form others, like Marks\
+s*et upon Cattle. He cares not what Pains he\
+throws away upon the meanes*t Trifle, s*o it be\
+but s*trange, while s*ome pity, and others laugh\
+at his ill-employed Indus*try. He is one of\
+thos*e, that valued [i] Epictetus's [i] Lamp above the\
+excellent Book he writ by it. If he be a Book-\
+man he s*pends all his Time and Study upon\
+Things that are never to be known. The\
+[i] Philos*opher's Stone [i] and [i] univers*al Medicine cannot\
+#center L 4\
 
 
 ---
 
 
-152 A CURIOUS MAN./
-pos*s*ibly mis*s him, though he is s*ure to do them./
-He is wonderfully taken with abs*trus*e Know-/
-ledge, and had rather hand to Truth with a/
-Pair of Tongs wrapt up in Mys*teries and Hiero-/
-glyphics, than touch it with his Hands, or s*ee/
-it plainly demons*trated to his Sens*es./
+152 A CURIOUS MAN.\
+pos*s*ibly mis*s him, though he is s*ure to do them.\
+He is wonderfully taken with abs*trus*e Know-\
+ledge, and had rather hand to Truth with a\
+Pair of Tongs wrapt up in Mys*teries and Hiero-\
+glyphics, than touch it with his Hands, or s*ee\
+it plainly demons*trated to his Sens*es.\
 
 
 ---
 
 
-[*two rules*]/
-/
-#A RANTER/
-/
-/
+[*two rules*]
+
+#A RANTER
+
+
 I^2^s a *Fanatic* Hector, that has found out by a
 very ſtrange Way of new Light, how to
 transform all the *Devils* into *Angels of Light* ;
@@ -1957,135 +1957,132 @@ and encounter them at their own Weapons.
 ---
 
 
-For as ſtrong Bodies may freely venture to do,/
-and ſuffer that, without any Hurt to them-/
-ſelves, which would deſtroy thoſe that are/
-feeble: So a Saint, that is ſtrong in Grace,/
-may boldly engage himſelf in thoſe great Sins/
-and Iniquities, that would eaſily damn a weak/
-Brother, and yet come off never the worſe./
-He believes Deeds of Darkneſs to be only thoſe/
-Sins that are committed in private, not thoſe/
-that are acted openly and owned.  He is but/
-an *Hypocrite* turned the wrong Side outward ;/
-for, as the one wears his Vices within, and/
-the other without, ſo when they are counter-/
-changed the *Ranter* becomes an *Hypocrite,* and/
-the *Hypocrite* an able *Ranter.* His Church is/
-the *Devil's* Chappel ; for it agrees exactly both/
-in Doctorine and Diſicipline with the beſt reform-/
-ed Baudy-Houſes.  He is a Monſter produced/
-by the Madneſs of this latter Age ; but if it/
-had been his Fate to have been whelped in old/
-*Rome* he had paſt for a Prodigy, and been re-/
-ceived among raining of Stones and the ſpeak-/
-ing of Bulls, and would have put a ſtop to all/
-public Affairs, until he had been expiated./
-*Nero* cloathed *Chriſtians* in the Skins of wild/
-Beaſts ; but he wraps wild Beaſts in the Skins/
-of *Chriſtians*./
+For as ſtrong Bodies may freely venture to do,\
+and ſuffer that, without any Hurt to them-\
+ſelves, which would deſtroy thoſe that are\
+feeble: So a Saint, that is ſtrong in Grace,\
+may boldly engage himſelf in thoſe great Sins\
+and Iniquities, that would eaſily damn a weak\
+Brother, and yet come off never the worſe.\
+He believes Deeds of Darkneſs to be only thoſe\
+Sins that are committed in private, not thoſe\
+that are acted openly and owned.  He is but\
+an *Hypocrite* turned the wrong Side outward ;\
+for, as the one wears his Vices within, and\
+the other without, ſo when they are counter-\
+changed the *Ranter* becomes an *Hypocrite,* and\
+the *Hypocrite* an able *Ranter.* His Church is\
+the *Devil's* Chappel ; for it agrees exactly both\
+in Doctorine and Diſicipline with the beſt reform-\
+ed Baudy-Houſes.  He is a Monſter produced\
+by the Madneſs of this latter Age ; but if it\
+had been his Fate to have been whelped in old\
+*Rome* he had paſt for a Prodigy, and been re-\
+ceived among raining of Stones and the ſpeak-\
+ing of Bulls, and would have put a ſtop to all\
+public Affairs, until he had been expiated.\
+*Nero* cloathed *Chriſtians* in the Skins of wild\
+Beaſts ; but he wraps wild Beaſts in the Skins\
+of *Chriſtians*.\
 
 
 ---
 
 
-/
-/
-[*two rules*]/
-/
-#A/
-#CORRUPT JUDGE/
-/
-/
-P^2^<span style="font-variant:small-caps;">asses</span> Judgement as a Gameſter does/
-falſe Dice. The firſt Thing he takes is/
-his Oath and his Comiſſion, and afterwards/
-the ſtrongeſt Side and Bribes.  He gives Judg-/
-ment, as the Council at the Bar are ſaid to give/
-Advice, when they are paid for it. He wraps/
-himſelf warm in Furs, that the cold Air may/
-not ſtrike his Conſcience inward.  He is never/
-an upright Judge, but when he is weary of/
-ſitting, and ſtands for his Eaſe.  Al the Uſe/
-he make of his Oath is to oppoſe it againſt/
-his Prince, for whoſe Service he firſt took it,/
-and to bind him with that, which he firſt pre-/
-tended to bind himſelf with; as if the King by/
-imparting a little of his Power to him gave/
-hi to Title to all the reſt, like thoſe who hold-/
-ing a little Land in *Capite* render all the reſt/
+[*two rules*]
+
+#A\
+CORRUPT JUDGE
+
+P^2^<span style="font-variant:small-caps;">asses</span> Judgement as a Gameſter does\
+falſe Dice. The firſt Thing he takes is\
+his Oath and his Comiſſion, and afterwards\
+the ſtrongeſt Side and Bribes.  He gives Judg-\
+ment, as the Council at the Bar are ſaid to give\
+Advice, when they are paid for it. He wraps\
+himſelf warm in Furs, that the cold Air may\
+not ſtrike his Conſcience inward.  He is never\
+an upright Judge, but when he is weary of\
+ſitting, and ſtands for his Eaſe.  Al the Uſe\
+he make of his Oath is to oppoſe it againſt\
+his Prince, for whoſe Service he firſt took it,\
+and to bind him with that, which he firſt pre-\
+tended to bind himſelf with; as if the King by\
+imparting a little of his Power to him gave\
+hi to Title to all the reſt, like thoſe who hold-\
+ing a little Land in *Capite* render all the reſt\
 
 
 ---
 
 
-liable to the ſame Tenure.  As for that which/
-concerns the People, he takes his Liberty to do/
-what he pleaſes ; this he maintains with Cant-/
-ing, of which himſelf being the only Judge,/
-he can give it what arbitrary Interpretation he/
-pleaſes ; yet is a great Enemy to arbitrary/
-Power, becauſe he would have no Body uſe it/
-but himſelf.  If he have Hope of Preferment/
-he makes all the Law run on the King's Side ;/
-if not, it always takes part againſt him ; for as/
-he was bred to make any Thing right or wrong/
-between Man and Man, ſo he can do between/
-the King and his Subjects.  He calls himſelf/
-*Capitalis, &c.* which Word he never uſes but/
-to Crimes of the higeſt Nature. He uſurps/
-unſufferable Tyranny over Words ; for when/
-he has enſlaved and debaſed them from their/
-original Senſe, he makes them ſerves againſt/
-themselves to ſupport him, and their own/
-Abuſe. He is as ſtiff to Delinquents, and/
-makes as harſh a Noiſe as a new Cart-wheel,/
-until he is greaſed, and then he turns about as/
-eaſily.  He called all necceſſary and unavoidable/
-Proceedings of State, without the punctual/
-Formality of Law, arbitrary and illegal, but/
-never conſiders, that his own Interpretation/
+liable to the ſame Tenure.  As for that which\
+concerns the People, he takes his Liberty to do\
+what he pleaſes ; this he maintains with Cant-\
+ing, of which himſelf being the only Judge,\
+he can give it what arbitrary Interpretation he\
+pleaſes ; yet is a great Enemy to arbitrary\
+Power, becauſe he would have no Body uſe it\
+but himſelf.  If he have Hope of Preferment\
+he makes all the Law run on the King's Side ;\
+if not, it always takes part againſt him ; for as\
+he was bred to make any Thing right or wrong\
+between Man and Man, ſo he can do between\
+the King and his Subjects.  He calls himſelf\
+*Capitalis, &c.* which Word he never uſes but\
+to Crimes of the higeſt Nature. He uſurps\
+unſufferable Tyranny over Words ; for when\
+he has enſlaved and debaſed them from their\
+original Senſe, he makes them ſerves againſt\
+themselves to ſupport him, and their own\
+Abuſe. He is as ſtiff to Delinquents, and\
+makes as harſh a Noiſe as a new Cart-wheel,\
+until he is greaſed, and then he turns about as\
+eaſily.  He called all necceſſary and unavoidable\
+Proceedings of State, without the punctual\
+Formality of Law, arbitrary and illegal, but\
+never conſiders, that his own Interpretation\
 
 
 ---
 
 
-of Law are more arbitrary, and, when he/
-pleaſes, illegal.  He cannot be denied to be a/
-very impartial Judge ; for right or wrong/
-are all one to him.  He takes Bribes, as pious/
-Men give Alms, with ſo much Caution, that/
-his right Hand never knows what his left re-/
+of Law are more arbitrary, and, when he\
+pleaſes, illegal.  He cannot be denied to be a\
+very impartial Judge ; for right or wrong\
+are all one to him.  He takes Bribes, as pious\
+Men give Alms, with ſo much Caution, that\
+his right Hand never knows what his left re-\
 ceives./ 
 
 
 ---
 
 
-[*two rules*]/
-/
-#AN/
-#AMORIST/
-/
-I^2^s an Artificer, or Maker of Love, a ſworn/
-Servant to all Ladies, like an Officer in a/
-Corporation. Though no one in particular/
-will own any Title to him, yet he never fails,/
-upon all Occaſions, to offer his Services, and/
-they as ſeldom to turnn it back again untouched./
-He commits nothing with them, but himſelf to/
-their good Graces ; and they recommend him/
-back again to his own, where he finds ſo kind/
-a Reception, that he wonders how he does/
-fail of it every where elſe.  His Paſſion is as/
-eaſily ſet on Fire as a Fart, and as ſoon out/
-again. He is charged an primed with Love-/
-Powder like a Gun, and the leaſt Sparkle of an/
-Eye gives Fire to him, and off he goes, but/
-ſeldom, or never, hits the Mark.  He has com-/
-mon Places and Precedents of Repartees and/
-Letters for all Occaſions ; and falls as readily/
-into his Method of making love, as a Parſon/
+[*two rules*]
+
+#AN\
+AMORIST
+
+I^2^s an Artificer, or Maker of Love, a ſworn\
+Servant to all Ladies, like an Officer in a\
+Corporation. Though no one in particular\
+will own any Title to him, yet he never fails,\
+upon all Occaſions, to offer his Services, and\
+they as ſeldom to turnn it back again untouched.\
+He commits nothing with them, but himſelf to\
+their good Graces ; and they recommend him\
+back again to his own, where he finds ſo kind\
+a Reception, that he wonders how he does\
+fail of it every where elſe.  His Paſſion is as\
+eaſily ſet on Fire as a Fart, and as ſoon out\
+again. He is charged an primed with Love-\
+Powder like a Gun, and the leaſt Sparkle of an\
+Eye gives Fire to him, and off he goes, but\
+ſeldom, or never, hits the Mark.  He has com-\
+mon Places and Precedents of Repartees and\
+Letters for all Occaſions ; and falls as readily\
+into his Method of making love, as a Parſon\
 
 
 ---
@@ -2123,84 +2120,84 @@ many Fathers, have none at all. He goes often
 ---
 
 
-mounted in a Coach as a Convoy, to guard the/
-Ladies, to take the Duſt in *Hyde-Park*; where/
-by his prudent Management of the Glaſs Win-/
-dows he ſecures them from Beggars, and re-/
-turns fraught with China-Oranges and Ballads./
-Thus he is but a Gentleman-Uſher General,/
-and his Buſineſs is to carry one Lady's Services/
-to another, and bring back the others in Ex-/
-change./
+mounted in a Coach as a Convoy, to guard the\
+Ladies, to take the Duſt in *Hyde-Park*; where\
+by his prudent Management of the Glaſs Win-\
+dows he ſecures them from Beggars, and re-\
+turns fraught with China-Oranges and Ballads.\
+Thus he is but a Gentleman-Uſher General,\
+and his Buſineſs is to carry one Lady's Services\
+to another, and bring back the others in Ex-\
+change.\
 
 
 ---
 
 
-[*two rules*]/
-#AN/
-#Astrologer/
-/
-/
-I^2^<span style="font-variant:small-caps;">s</span> one that expounds upon the Planets, and/
-teaches to conſtrue the *Accidents*  by the *due/
-joining of Stars in Conſtruction.* He talks with/
-them by dumb Signs, and can tell what they/
-mean by their twinckling, and ſquinting upon/
-one another, as well as they themſelves.  He/
-is a Spy upon the Stars, and can tell what they/
-are doing, by the Company they keep, and the/
-Houſes they frequent. They have no Power to/
-do any Thing alone, until ſo many meet, as/
-will make a *Quorum.*He is Clerk of the Com-/
-mittee to them, and draws up all their Orders,/
-that concern either public or private Affairs./
-He keeps all their Accompts for them, and/
-ſums them up, not by *Debtor,* but by *Creditor*/
-alone, a more compendious Way. They do/
-ill to make them have ſo much Authority over/
+[*two rules*]
+
+#AN\
+Astrologer
+
+I^2^<span style="font-variant:small-caps;">s</span> one that expounds upon the Planets, and\
+teaches to conſtrue the *Accidents*  by the *due\
+joining of Stars in Conſtruction.* He talks with\
+them by dumb Signs, and can tell what they\
+mean by their twinckling, and ſquinting upon\
+one another, as well as they themſelves.  He\
+is a Spy upon the Stars, and can tell what they\
+are doing, by the Company they keep, and the\
+Houſes they frequent. They have no Power to\
+do any Thing alone, until ſo many meet, as\
+will make a *Quorum.*He is Clerk of the Com-\
+mittee to them, and draws up all their Orders,\
+that concern either public or private Affairs.\
+He keeps all their Accompts for them, and\
+ſums them up, not by *Debtor,* but by *Creditor*\
+alone, a more compendious Way. They do\
+ill to make them have ſo much Authority over\
 
 
 ---
 
 
-the Earth, which, perhaps, has as much as/
-any one of them but the Sun, and as much/
-Right to ſit and vote in their Councils, as any/
-other : But becauſe there are but ſeven Electors/
-of the *German* Empire, they will allow of no/
-more to diſpoſe of all other ; and moſt fooliſhly/
-and unnaturally depoſe their own Parent of its/
-Inheritance; rather than acknowledge a Defect/
-in their own Rules.  Theſe Rules are all they/
-have to ſhew for their Title ; and yet not one/
-of them can tell whether thoſe they had them/
-from came honeſtly by them.  *Virgil's* Deſ-/
-cription of *Fame,* that reaches from Earth/
-to the Stars, *tam ficti pravique tenax,* to carry/
-Lies and Knavery, will ſerve Aſtrologers with-/
-out any ſenſible Variation.  He is a Fortune-/
-Seller, a Retailer of Deſtiny, and petty Chap-/
-man to the Planets.  He caſts Nativities as/
-Gameſters do falſe Dice, and by ſlurring and/
-palming *ſextile, quartile,* and *trine,* like *ſize,*/
-*quater, trois,* can throw what chance he/
-pleaſes.  He ſets a Figure, as Cheats do a Main/
-at Hazard ; and Gulls throw away their Money/
-at it.  He festches the Grounds of his Art ſo/
-far off, as well from Reaſon, as the Stars, that,/
-like a Traveller, he is allowed to lye by Au-/
+the Earth, which, perhaps, has as much as\
+any one of them but the Sun, and as much\
+Right to ſit and vote in their Councils, as any\
+other : But becauſe there are but ſeven Electors\
+of the *German* Empire, they will allow of no\
+more to diſpoſe of all other ; and moſt fooliſhly\
+and unnaturally depoſe their own Parent of its\
+Inheritance; rather than acknowledge a Defect\
+in their own Rules.  Theſe Rules are all they\
+have to ſhew for their Title ; and yet not one\
+of them can tell whether thoſe they had them\
+from came honeſtly by them.  *Virgil's* Deſ-\
+cription of *Fame,* that reaches from Earth\
+to the Stars, *tam ficti pravique tenax,* to carry\
+Lies and Knavery, will ſerve Aſtrologers with-\
+out any ſenſible Variation.  He is a Fortune-\
+Seller, a Retailer of Deſtiny, and petty Chap-\
+man to the Planets.  He caſts Nativities as\
+Gameſters do falſe Dice, and by ſlurring and\
+palming *ſextile, quartile,* and *trine,* like *ſize,*\
+*quater, trois,* can throw what chance he\
+pleaſes.  He ſets a Figure, as Cheats do a Main\
+at Hazard ; and Gulls throw away their Money\
+at it.  He festches the Grounds of his Art ſo\
+far off, as well from Reaſon, as the Stars, that,\
+like a Traveller, he is allowed to lye by Au-\
 
 
 ---
 
 
-thority.  And as Beggars, that have no Money/
-themſelves, believe all others have, and beg/
-of thoſe, that have as little as themſelves : So/
-the ignorant Rabble believe in him, though/
-he has no more Reaſon for what he profeſſes,/
-than they./
+thority.  And as Beggars, that have no Money\
+themſelves, believe all others have, and beg\
+of thoſe, that have as little as themſelves : So\
+the ignorant Rabble believe in him, though\
+he has no more Reaſon for what he profeſſes,\
+than they.\
 
 
 ---
