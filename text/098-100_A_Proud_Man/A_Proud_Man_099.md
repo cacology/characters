@@ -23,4 +23,4 @@ flows his Bounds, and when he ſinks, leaves\
 Mud and Dirt behind him.  His Carriage is\
 as glorious and haughty, as if he were advan-\
 ced upon Men’s Shoulders, or tumbled over\
-their Heads like Knipperdolling.  He fancies/ 
+their Heads like Knipperdolling.  He fancies\ 
