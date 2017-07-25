@@ -3,7 +3,7 @@
 #A\
 SMALL POET
 
-I^2S one, that would fain make himſelf that,\
+I^2^S one, that would fain make himſelf that,\
 which *Nature* never meant him ; like a *Fa-*\
 *natic*, that inſpires himſelf with his own\
 Whimſies.  He ſets up Haberdaſher of ſmall\

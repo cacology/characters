@@ -1,7 +1,7 @@
 it was no better than bringing a Noble to Nine-\
 pence.  And as ſuch Courſes brought the\
 *prodigal Son* to eat with Hogs : So they did him\
-to feed with Horſes,[^1] which were not much\
+to feed with Horſes,[^5] which were not much\
 better Company, and may teach us to avoid\
 doing the like.  For certainly it is more noble\
 to take four or five Grains of Senſe, and, like\
@@ -22,7 +22,7 @@ upon an Anvil, into what Form he pleaſes.
    There is no Art in the World ſo rich in\
 Terms as Poetry ; a whole Dictionary is ſcarce
 
-[^1]: *So they did him to feed with Horſes*]  This muſt be explained by\
+[^5]: *So they did him to feed with Horſes*]  This muſt be explained by\
 the ſame Writer of *Virgil*’s Life, who informs us, that *Virgil* in\
 his Youth ſtudied Phyſic, in which having made great Proficiency,\
-he repaired to *Rome*, and applying himſelf to that Branch of it [*footnote cont. next page*]
+he repaired to *Rome*, and applying himſelf to that Branch of it [*footnote cont. next page*][^6]

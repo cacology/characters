@@ -22,6 +22,6 @@ to have Wings, if he muſt be confined to the\
 Road and Stages like a Pack-Horſe, or be forced\
 to be obedient to Hedges and Ditches?  There-
 
-[^1]: [*footnote cont'd from prev. page*] which relates to the Diſtempers of Horſes, was employed in *Au-\
+[^6]: [*footnote cont'd from prev. page*] which relates to the Diſtempers of Horſes, was employed in *Au-\
 *gustus*'s Stables with great Succeſs, and by that Means introduced\
 himſelf into the Favour of that Prince.

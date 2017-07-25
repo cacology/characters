@@ -25,4 +25,4 @@ bar him the Imitation of ſomething he has\
 read, and he has no Image in his Thoughts.
 
 [^1]: *Whatſoever he hears well ſaid*, &tc. ] In this *Butler* alludes to\
-*Martial*'s Epigram to *Fidentinus*. [*footnote cont. next page*]
+*Martial*'s Epigram to *Fidentinus*. [*footnote cont. next page*][^2]

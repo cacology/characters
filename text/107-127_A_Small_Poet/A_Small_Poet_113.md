@@ -14,14 +14,14 @@ no Women but Nymphs and Shepherdeſſes ;\
 Tress have born Fritters, and Rivers flowed\
 Plum-Porrige.
 
-   We read that *Virgil* uſed to make fifty or\
+   We read that *Virgil* uſed to make[^3] fifty or\
 ſixty Verſes in a Morning, and afterwards re-\
 duce them to ten.  This was an unthrifty\
 Vanity, and argues him as well ignorant in the\
 Huſbandry of his own Poetry, as *Seneca* ſays\
-he was in that of a Farm ;[^2] for in plain *Engliſh*
+he was in that of a Farm ;[^4] for in plain *Engliſh*
 
-[^2]: *As* Seneca *ſays he was in that of a farm*.] *Seneca* in his 86th\
+[^4]: *As* Seneca *ſays he was in that of a farm*.] *Seneca* in his 86th\
 Epiſtle finds ſeveral Faults with *Virgil*'s Rules and Obſervations in\
 Huſbandry, as they are delivered in his *Georgics*, and adds of him ---\
 “ Qui non quod veriſſime, ſed quid decentiſſime diceretur, ad-\

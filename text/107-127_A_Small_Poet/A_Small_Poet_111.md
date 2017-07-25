@@ -24,5 +24,5 @@ are near akin to the Senſse.  Such matches are\
 unlawful, and not fit to be made by a *Chriſtian*\
 Poet ; and therefore all his Care is to chuſe out\
 
-[^1]: [*footnote cont'd from prev. page*] *Quem recitas meus eſt, O Fidentine, libellus :*\
+[^2]: [*footnote cont'd from prev. page*] *Quem recitas meus eſt, O Fidentine, libellus :*\
 *Sed male dum recitas, incipit eſſe tuus.    Mart. L. 1. Ep. 39.*

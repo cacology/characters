@@ -21,7 +21,7 @@ This is a thrifty Invention, and very eaſy ; and,\
 if it were commonly known, would much in-\
 creaſe the Trade of Wit, and maintain a Mul-
 
-[^1]: [*footnote for next page*] *We read that Virgil uſed to make*, &c.] This alludes to a Paſſage\
+[^3]: [*footnote for next page*] *We read that Virgil uſed to make*, &c.] This alludes to a Paſſage\
 in the Life of *Virgil* aſcribed to *Donatus*. “ Cum Georgica ſcribe-\
 “ ret traditur quotidie meditatos mane plurimos verſus dictare ſo-\
 “ litus, ac per totum diem retracando ad pauciſſimos redigrere :\

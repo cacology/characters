@@ -2,7 +2,7 @@ fore he has no Reſpect to Decorum and Pro-\
 priety of Circumſtance ; for the Regard of\
 Perſons, Times, and Places is a Reſtraint too\
 ſervile to be impoſed upon poetical Licence ;\
-like him that made *Plato*[^1] confeſs *Juvenal* to be\
+like him that made *Plato*[^7] confeſs *Juvenal* to be\
 a Philoſopher, or *Perſius*, that calls the *Athe*-\
 *nians Quirites*.
 
@@ -20,11 +20,11 @@ you ſee his Verſes hanged up in Tobacco-Shops,\
 you may ſay, in defiance of the Proverb, *that*\
 *the weakeſt does not always go to the Wall* ; for ’tis
 
-[^1]: *Like him that made Plato*, &c.] Who this Blunder is to be fa-\
+[^7]: *Like him that made Plato*, &c.] Who this Blunder is to be fa-\
 thered upon I cannot diſcover ; but that which he imputes to *Per*-\
 *ſius*, and another of *Juvenal*’s, a Paſſage of his own in a Part of his\
 Proſe Collections called *Criticiſms upon Books and Autohrs*, will ex-\
 plain --- *Persius*, ſays he, commits a very great Abſurdity, when\
 laying the Scene of his fourth Satyr in *Greece*, and bringing in *So*-\
 *crates* reproving a young Stateſmen, he makes him call the *Græ*-\
-*cians* Quirites. [*footnote cont. next page*]
+*cians* Quirites. [*footnote cont. next page*][^8]

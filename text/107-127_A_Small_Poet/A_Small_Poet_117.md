@@ -10,7 +10,7 @@ rhime with *Cheat*, *Vote* with *Rogue*, and *Com*-\
 the Tin-Pudding, that a Jugler pulls out of\
 his Throat, and chops in again---What think\
 you of *glud-fum-flam-hasta-minantes ?*  Some of\
-the old *Latin* Poets[^2] bragged, that their Verſes\
+the old *Latin* Poets[^9] bragged, that their Verſes\
 were tougher than Braſs, and harder than\
 Marble ; what would they have done, if they\
 had ſeen theſe ? Verily they would have had\
@@ -20,10 +20,10 @@ Throats, than they then had, to pronounce them.
    There are ſome, that drive a Trade in writ-\
 ing in praiſe of other Writers, (like Rooks,
 
-[^1]: [*footnote cont'd from prev. page*] ----*Quid deinde loquere*, Quirites,\
+[^8]: [*footnote cont'd from prev. page*] ----*Quid deinde loquere*, Quirites,\
 *Hoc puto non juſtum eſt, illud male, rectius illud*.      *Perſ*. S. 4.\
 
-[^2]: *Some of the old* Latin *Poets*, &c.]  Thus *Horace*\
+[^9]: *Some of the old* Latin *Poets*, &c.]  Thus *Horace*\
 
 > *Exegi monumentum ære perennius*\
 > *Regalique ſitu Pyramidum altius*      *Hor*. L. 3. O. 30
