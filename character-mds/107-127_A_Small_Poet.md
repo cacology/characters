@@ -1,365 +1,355 @@
-            [  107  ]
+[*double rule*]
 
+#A\
+SMALL POET
 
-            {Double Rule}
-
-                A
-
-       S M A L L  P O E T
-[I]s one, that would fain make himself that,
-[ ]which {i} Nature{i} never meant him; like a {i}Fa-
-natic,{i} that insspires himsself with his own
-Whimsses.  He ssets up Haberdassher of ssmall
-Poetry, with a very ssmall Stock, and no Credit.
-He believes it is Inventions enough to find out
-other Men's Wit; and whatssoever he lights upon
-either in Books, or Company, he makes bold
-with as his own.  This he puts together sso un-
-towardly, that you may perceive his own Wit
-has the Rickets, by the Sswelling Dissproportion
-of the Joints. Imitation is the whole Sum of him;
-him; and his Vein is but an Itch or Clap, that
-he has catched of others; and his Flame like
-that of Charcoals that were burnt before :
-But as he wants Judgment to undersstand what
-is besst, he naturally takes the worsst, as being
-mosst agreeable to his own Talent.  You may
+I^2^S one, that would fain make himſelf that,\
+which *Nature* never meant him ; like a *Fa-*\
+*natic*, that inſpires himſelf with his own\
+Whimſies.  He ſets up Haberdaſher of ſmall\
+Poetry, with a very ſmall Stock, and no Credit.\
+He believes it is Invention enough to find out\
+other Men’s Wit ; and whatſoever he lights upon\
+either in Books, or Company, he makes bold\
+with as his own.  This he puts together ſo un-\
+towardly, that you may perceive his own Wit\
+has the Rickets, by the ſwelling Diſproportion\
+of the Joints.  Imitation is the whole Sum of\
+him ; and his Vein is but an Itch or Clap, that\
+he has catched of others ; and his Flame like\
+that of Charcoals, that were burnt before :\
+But as he wants Judgment to underſtand what\
+is beſt, he naturally takes the worſt, as being\
+moſt agreeable to his own Talent.  You may\
 
 
 ---
 
 
-108    A SMALL POET.
-know his Wit not to be natural, 'tis sso un-
-quiet and troublesome in him: For as thosse,
-that have Money but sseldom, are always sshak-
-ing their Pockets, when they have it; sso does
-he, when he thinks he has got ssomething, that
-will make him appear.  He is a perpetual Tal-
-ker; and you may know by the Freedom of his
-Disscoursse, that he came light by it, as Thieves
-sspend fiercely what they get.  He meassures other
-Men's Wits by {i}their{i} Modessty, and his own by
-{i}his{i} Confidence. He makes nothing of writing
-Plays, becausse he has not Wit enough to un-
-derstand the Difficulty.  This makes him ven-ture
-to talk and sscribble, as Chowsses do to play
-with cunning Gamessters, until they are
-cheated and laughed at.  He is always talking of Wit,
-as thosse, that have bad Voices, are always ssing-
-ing out of Tune; and thosse, that cannot play,
-delight to fumble on Insstruments.  He grows
-the unwisser by other Men's Harms; for the
-worsse others write, he finds the more Encou-
-ragement to do sso too.  His Greedinesss of
-Praisse is sso eager, that he sswallows any Thing,
-that comes in the Likenesss of it, how notorious
-and palpable ssoever, and is as Shot-free againsst
-any Thing, that may lessssen his good Opinion
+know his Wit not to be natural, ’tis ſo un-\
+quiet and troubleſome in him : For as thoſe,\
+that have Money but ſeldom, are always ſhak-\
+ing their Pockets, when they have it ; ſo does\
+he, when he thinks he has got ſomething, that\
+will make him appear.  He is a perpetual Tal-\
+ker ; and you may know by the Freedom of his\
+Diſcourſe, that he came light by it, as Thieves\
+ſpend freely what they get.  He meaſures other\
+Men’s Wits by *their* Modeſty, and his own by\
+*his* Confidence.  He makes nothing of writing\
+Plays, becauſe he has not Wit enough to un-\
+derstand the Difficulty.  This makes him ven-\
+ture to talk and ſcribble, as Chowſes do to play\
+with cunning Gameſters, until they are cheated\
+and laughed at.  He is always talking of Wit,\
+as thoſe, that have bad Voices, are always ſing-\
+ing out of Tune ; and thoſe, that cannot play,\
+delight to fumble on Inſtruments.  He grows\
+the unwiſer by other Men’s Harms ; for the\
+worſe others write, he finds the more Encou-\
+ragement to do ſo too.  His Greedineſs of\
+Praiſe is ſo eager, that he ſwallows any Thing,\
+that comes in the Likeneſs of it, how notorious\
+and palpable ſoever, and is as Shot-free againſt\
+any Thing, that may leſſen his good Opinion\
 
 
 ---
 
 
-      A SMALL POET.                                     109
-of himsself--This renders him incurable, like
-Disseasses, that grow inssensible.
+of himſelf---This renders him incurable, like\
+Diſeaſes, that grow inſenſible.
 
-  If you disslike him it is at your own Peril;
-he is ssure to put in a Caveat beforehand againsst
-your Understanding; and, like a Malefac-tor
-in Wit, is always fursinssed with Exceptions
-against his Judges. This puts him upon perpe-
-tual Apologies, Excusses, and Defences, but
-sstil by Way of Defiance, in a Kind of whif-
-fling Strain, without Regard of any Man,
-that sstands in the Way of his Pageant.
-Where he thinks he may do it ssafely, he
-will confidently own other Men's Writings;
-and where he fears the Truth may be disscovered,
-he will by feeble Denials and feigned Inssinua-
-tions give Men Occassion to ssupposse sso.
+   If you diſlike him it is at your own Peril ;\
+he is ſure to put in a Caveat beforehand againſt\
+your Understanding ; and, like a Malefactor\
+in Wit, is always furniſhed with Exceptions\
+againſt his Judges.  This puts him upon perpe-\
+tual Apologies, Excuſes, and Defences, but\
+ſtill by Way of Defiance, in a Kind of whif-\
+fling Strain, without Regard of any Man,\
+that ſtands in the Way of his Pageant.\
+Where he thinks he may do it ſafely, he\
+will confidently own other Men’s Writings ;\
+and where he fears the Truth may be diſcovered,\
+he will by feeble Denials and feigned Inſinua-\
+tions give Men Occaſion to ſuppoſe ſo.
 
-If he undersstands [i] Latin [i] or [i] Greek [i] he ranks
-himsself among the Learned, desspisses the Igno-
-rant, talks Criticissms out of [i] Scaliger[i], and re-
-peats [i] Martial's [i] baudy Epigrams, and ssets up
-his Resst wholly upon Pedantry.  But if he be
-not sso well qualified, he crys down all Learning
-as pedantic, dissclaims Study, and professsses to
-write with as great Facility, as if his Musse was
+   If he underſtands *Latin* or *Greek* he ranks\
+himſelf among the Learned, deſpiſes the Igno-\
+rant, talks Criticiſms out of *Scaliger*, and re-\
+peats *Martial*'s baudy Epigrams, and ſets up\
+his Reſt wholly upon Pedantry.  But if he be\
+not ſo well qualified, he crys down all Learning\
+as pedantic, diſclaims Study, and profeſſes to\
+write with as great Facility, as if his Muſe was\
 
 
 ---
 
 
-110     A SMALL POET.
-ssliding down [i]Parnassssus[i]. Whatssoever he hears
-well ssaid he sseizes upon by poetical Licence;
-and one Way makes it his own, that is by ill
-repeating of it--This he believes to be no
-more Theft, than it is to take that, which others
-throw away.  By this means his Writings are,
-like a Taylor's Cusshion, of mossaic Work,
-made up of sseveral Scraps ssewed together,
-He calls a sslovenly nassty Desscription [i] great Na-
-ture,[i] and dull Flatnesss [i] strange Eassiness.[i]  He
-writes down all that comes in his Head, and
-makes no Choice, becausse he has nothing to
-do it with, that is Judgment.  He is always
-repealing the old Laws of Comedy, and like
-the [i] long Parliament [i] making [i] Ordinances [i] in their
-Stead; although they are perpetually [i] thrown
-out [i] of Coffee-Housses, and come to Nothing.
-He is like an [i]Italian [i] Thief, that never robs,
-but he murthers, to prevent Disscovery; sso ssure
-is he to cry down the Man from whom he pur-
-loins, that his petty Larceny of Wit may passs
-unssusspec-ted.  He is byt a Copier at besst, and
-will never arrive to prac-tice by the Life: For
-bar him the Imitation of ssomething he has
+ſliding down *Parnaſſus*.  Whatſoever he hears\
+well ſaid[^1] he ſeizes upon by poetical Licence ;\
+and one Way makes it his own, that is by ill\
+repeating of it---This he believes to be no\
+more Theft, than it is to take that, which others\
+throw away.  By this means his Writings are,\
+like a Taylor’s Cuſhion, of moſaic Work,\
+made up of ſeveral Scraps ſewed together.\
+He calls a ſlovenly naſty Deſcription *great Na-*\
+*ture*, and dull Flatneſs *strange Eaſineſs*.  He\
+writes down all that comes in his Head, and\
+makes no Choice, becauſe he has nothing to\
+do it with, that is Judgment.  He is always\
+repealing the old Laws of Comedy, and like\
+the *long Parliament* making *Ordinances* in their\
+Stead ; although they are perpetually *thrown*\
+*out* of Coffee-Houſes, and come to Nothing.\
+He is like an *Italian* Thief, that never robs,\
+but he murthers, to prevent Diſcovery ; ſo ſure\
+is he to cry down the Man from whom he pur-\
+loins, that his petty Larceny of Wit may paſs\
+unſuſpected.  He is but a Copier at beſt, and\
+will never arrive to practice by the Life : For\
+bar him the Imitation of ſomething he has\
 read, and he has no Image in his Thoughts.
 
- [i] Whatssoever he hears well ssaid, &tc.[i]] In this Butler alludes to
-[i] Martial's [i] Epigram to [i] Fidentinus.
+[^1]: *Whatſoever he hears well ſaid*, &tc. ] In this *Butler* alludes to\
+*Martial*'s Epigram to *Fidentinus*. [*footnote cont. next page*][^2]
 
 
 ---
 
 
-           A SMALL POET.                 111
-Obs*ervation and Fancy, the Matter and Form
-of jus*t Wit, are above his Philos*ophy.  He
-appears s*o over concerned in all Men's Wits,
-as if they were but Dis*paragements of his
-own; and crys down all they do, as if they
-were Encroachments upon him. He takes
-Jes*ts fromt he Owners and breaks them, as
-[i] Justices[i] do fals*e Weights, and Pots that want
-Meas*ure.  When he meets with any Thing,
-that is very good, he change it into s*mall
-Money, like three Groats for a Shilling, to
-s*erve s*everal Occas*ions.  He dis*claims Study,
-pretends to take Things in Motion, and to s*hoot
-flying, which appears to be very true by his
-often mis*s*ing of his Mark.  His Wit is much
-troubled with Obs*truc_tions;  and he has Fits as
-painful as thos*e of the Spleen.   He fancies him-
-s*elf a dainty s*pruce Shepherd, with a Flock and
-a fine s*ilken Shepherds*s, that follows his Pipe,
-as Rats did the Conjurers in [i] Germany.[i]
+Obſervation and Fancy, the Matter and Form\
+of juſt Wit, are above his Philoſophy.  He\
+appears ſo over concerned in all Men’s Wits,\
+as if they were but Diſparagements of his\
+own ; and crys down all they do, as if they\
+were Encroachments upon him.  He takes\
+Jeſts from the Owners and breaks them, as\
+*Justices* do falſe Weights, and Pots that want\
+Meaſure.  When he meets with any Thing,\
+that is very good, he changes it into ſmall\
+Money, like three Groats for a Shilling, to\
+ſerve ſeveral Occaſions.  He diſclaims Study,\
+pretends to take Things in Motion, and to ſhoot\
+flying, which appears to be very true by his\
+often miſſing of his Mark.  His Wit is much\
+troubled with Obſtructions ;  and he has Fits as\
+painful as thoſe of the Spleen.   He fancies him-\
+ſelf a dainty ſpruce Shepherd, with a Flock and\
+a fine ſilken Shepherdeſs, that follows his Pipe,\
+as Rats did the Conjurers in *Germany*.
 
-As for [i] Epithets, [i] he always avoids those, that
-are near akin to the Sens*se.  Such matches are
-unlawful, and not fit to be made by a [i] Chris*tian[i]
-Poet; and therefore all his Care is to chus*e out
+   As for *Epithets*, he always avoids thoſe, that\
+are near akin to the Senſse.  Such matches are\
+unlawful, and not fit to be made by a *Chriſtian*\
+Poet ; and therefore all his Care is to chuſe out\
 
-[i]Quem recitas meus est, O Fidentinus, libellus:
-sed male cum recitas, incipit es*s*e tuus. Mare. L. 1. Ep 39 [i]
+[^2]: [*footnote cont'd from prev. page*] *Quem recitas meus eſt, O Fidentine, libellus :*\
+*Sed male dum recitas, incipit eſſe tuus.    Mart. L. 1. Ep. 39.*
 
 
 ---
 
 
-112       A SMALL POET.
-s*uch, as will s*erve, like a wooden Leg, to piece
-out a main'd Vers*e, that wants a Foot or two;
-and if they will buy rhimes now and then into
-the Bargain, or run upon a Letter, it is a Work
+ſuch, as will ſerve, like a wooden Leg, to piece\
+out a main’d Verſe, that wants a Foot or two ;\
+and if they will but rhimes now and then into\
+the Bargain, or run upon a Letter, it is a Work\
 of Supererrogation.
 
-  For [i] Similtudes,[i] he likes the hardes*t and mos*t
-obs*cure bes*t: For as Ladies wear black Patches,
-to make their Complexions s*eem fairer than
-they are; s*o when an Illus*tration is more ob-
-s*cure than the Sens*e that went before it, it mus*t
-of Neces*s*ity make it appear clearer than it
-did: For Contraries are bes*t s*et off with Con-
+   For *Similitudes*, he likes the hardeſt and moſt\
+obſcure beſt : For as Ladies wear black Patches,\
+to make their Complexions ſeem fairer than\
+they are ; ſo when an Illuſtration is more ob-\
+ſcure than the Senſe that went before it, it muſt\
+of Neceſſity make it appear clearer than it\
+did : For Contraries are beſt ſet off with Con-\
 traries.
 
-    He has found out a Way to s*ave the Expence
-of much Wit and Sens*e: For he will make
-les*s than s*ome have prodigally laid out upon
-five or s*ix Words s*erve forty or fifty Lines.
-This is a thrifty Invention, and very eas*y; and,
-if it were commonly known, would much in-
-creas*e the Trade of Wit, and maintain a Mul-
+   He has found out a Way to ſave the Expence\
+of much Wit and Senſe : For he will make\
+leſs than ſome have prodigally laid out upon\
+five or ſix Words ſerve forty or fifty Lines.\
+This is a thrifty Invention, and very eaſy ; and,\
+if it were commonly known, would much in-\
+creaſe the Trade of Wit, and maintain a Mul-
 
-[i] We read that Virgil us*ed to make, &c [i] This alludes to a Pas*s*age
-in the Life of [i] Virgil [i] as*cribed to [i] Donatus[i]. " Cum Georgica s*crie-
-" traditur quotidio meditatos mane plurianos vers*us dic_tare s*o-
-" litus, ---Illegible need to check original copy (sarah)"
+[^3]: [*footnote for next page*] *We read that Virgil uſed to make*, &c.] This alludes to a Paſſage\
+in the Life of *Virgil* aſcribed to *Donatus*. “ Cum Georgica ſcribe-\
+“ ret traditur quotidie meditatos mane plurimos verſus dictare ſo-\
+“ litus, ac per totum diem retracando ad pauciſſimos redigrere :\
+“ non abſurde carmen ſe urſæ more parere dicens, et lambendo\
+“ demum effingere.
 
 
 ---
 
 
-      A SMALL POET.         113
-titude of s*mall Poets in cons*tant Employment.
-He has found out a new Sort of poetical [i]Geor-
-gics, [i] a Trick of s*owing Wit like clover-gras*s
-on barren Subjec_ts, which would yield nothing
-before. This is very us*eful for the Times,
-wherein, s*ome men s*ay, there is no Room left
-for new Invention.  He will take three Grains
-of Wit like the Elixir, and projec_ting it upon
-the [i] Iron-Age [i] turns it immediately into [i] Gold--[i]
-All the Bus*iness of Mankind has pres*ently
-vanis*hed, the whole World has kept Holiday;
-there has been no Men but Heroes and Poets,
-no Women but Nymphs and Shepherdes*s*es;
-Tress have born Fritters, and Rivers flowed
+titude of ſmall Poets in conſtant Employment.\
+He has found out a new Sort of poetical *Geor-*\
+*gics*, a Trick of ſowing Wit like clover-graſs\
+on barren Subjects, which would yield nothing\
+before.  This is very uſeful for the Times,\
+wherein, ſome Men ſay, there is no Room left\
+for new Invention.  He will take three Grains\
+of Wit like the Elixir, and projecting it upon\
+the *Iron-Age* turn it immediately into *Gold---*\
+All the Buſineſs of Mankind has preſently\
+vaniſhed, the whole World has kept Holiday ;\
+there has been no Men but Heroes and Poets,\
+no Women but Nymphs and Shepherdeſſes ;\
+Tress have born Fritters, and Rivers flowed\
 Plum-Porrige.
 
-    We read that [i] Virgil [i] us*ed to make fifty or
-    s*ixty Vers*es in a Morning, and afterwards re-
-    duce them to ten. This was an unthrifty
-    Vanity, and argues him as well ignorant in the
-    Hus*bandry of his own Poetry, as [i] Seneca [i] s*ays
-    he was in that of a Farm; for in plain [i] Englis*h[i]
+   We read that *Virgil* uſed to make[^3] fifty or\
+ſixty Verſes in a Morning, and afterwards re-\
+duce them to ten.  This was an unthrifty\
+Vanity, and argues him as well ignorant in the\
+Huſbandry of his own Poetry, as *Seneca* ſays\
+he was in that of a Farm ;[^4] for in plain *Engliſh*
 
-      [i] As Seneca s*ays he was in that of a farm.] Seneca [i] in his 86th
-      Epis*tle finds s*everal Faults wich [i] Virgil's [i] Rules and Obs*ervations in
-      Hus*bandry, as they are delivered in his [i] Georgics, and adds of him--
-      "Qui nos quod veris*s*ime, s*ed quid decentis*s*ime diceretur, as-
-      " s*pexit; nec Agricolas docere voluit, s*ed legentes delec_tore".
-          Vol. II.                I
+[^4]: *As* Seneca *ſays he was in that of a farm*.] *Seneca* in his 86th\
+Epiſtle finds ſeveral Faults with *Virgil*'s Rules and Obſervations in\
+Huſbandry, as they are delivered in his *Georgics*, and adds of him ---\
+“ Qui non quod veriſſime, ſed quid decentiſſime diceretur, ad-\
+“ ſpexit ; nec Agricolas docere voluit, ſed legentes delectare.”
 
 
 ---
 
 
-114      A SMALL POET.
-
-it was no better than bringing a Noble to Nine-
-pence.  And as s*uch Cours*es brough the
-[i] prodigal Son [i] to eat with Hogs: So they did him
-to feed with Hors*es, which were not much
-better Company, and may teach us to avoid
-doing the like.  For certainly it is more noble
-to take four or five Grains of Sens*e, and, like
-a Gold-Beater, hammer them into s*o many
-Leaves as will fill a whole Book; than to write
-nothing but Epitomes, which many wife Men
+it was no better than bringing a Noble to Nine-\
+pence.  And as ſuch Courſes brought the\
+*prodigal Son* to eat with Hogs : So they did him\
+to feed with Horſes,[^5] which were not much\
+better Company, and may teach us to avoid\
+doing the like.  For certainly it is more noble\
+to take four or five Grains of Senſe, and, like\
+a Gold-Beater, hammer them into ſo many\
+Leaves as will fill a whole Book ; than to write\
+nothing but Epitomies, which many wiſe Men\
 believe will be the Bane and Calamity of Learning.
 
-   When he writes, he commonly s*teers the
-Sens*e of his Lines by the Rhime that is at the
-End of them, as Butchers do Calves by the
-Tail.  For when he has made one Line, which
-is eas*y enough; and has found out s*ome s*turdy
-hard Word, that will but rhime, he will ham-
-mer the Sens*e upon it, like a Piece of hot Iron
-upon an Anvil, into what Form he pleas*es.
+   When he writes, he commonly ſteers the\
+Senſe of his Lines by the Rhime that is at the\
+End of them, as Butchers do Calves by the\
+Tail.  For when he has made one Line, which\
+is eaſy enough ; and has found out ſome ſturdy\
+hard Word, that will but rhime, he will ham-\
+mer the Senſe upon it, like a Piece of hot Iron\
+upon an Anvil, into what Form he pleaſes.
 
-   There is no Art in the World s*o rich in
-Terms as Poetry; a whole Dic_tionary is s*carce
+   There is no Art in the World ſo rich in\
+Terms as Poetry ; a whole Dictionary is ſcarce
 
-  [i] So they did him to feed with Hors*es]  This mus*t be explained by
-  the s*ame Writer of [i] Virgil's[i] Life, who informs us that [Virgil] in
-  his Youth s*tudied Phys*ic, in which having made great Proficiency,
-  he repaired to [i] Rome, [i] and applying hims*elf to that Branch of it
-
-
----
-
-
-              A SMALL POET.                115
-able to contain them: For there is hardly a
-Pond, a Sheep-walk, or a Gravel-pit in all
-[i] Greece, [i] but the antient Name of it is become
-a Term of Art in Poetry.  By this means s*mall
-Poets have s*uch a Stock of able hard Words lying
-by them, as [i] Dryades, Hamadryades, Aonides, Fauni,
-Nymphae, Sylvani, &c.[i] that s*ignify nothing at all;
-and s*uch a World of pedantic Terms of the
-s*ame Kind, as may s*erve to furnis*h all the new
-Inventions and [i] thorough-Reformations, [i] that can
-happen between this and [i] Plato's[i] great Year.
-
-  When he writes he never proposes any Scope
-or Purpos*e to hims*elf, but gives h Genius all
-Freedom: For as he, that rides abroad for his
-Pleas*ure, can hardly be out of his Way; s*o he
-that writes for his Pleas*ure, can s*eldom be be-
-s*ide his Subjec_t.  It is an ungrateful Thing to
-a noble Wit to be confined to any Thing---
-To what Purpos*e did the Antients feign [i] Pegas*us
-to have Wings, if he mus*t be confined to the
-Road and Stages  like a Pack-Hors*e, or be forced
-to be obedient to Hedges and Ditches? There-
-
-which relates to the Dis*tempers of Hors*es, was employed in [i] Ae-
-gustus's Stableswith great Succes*s, and by that Means introduced
-hims*elf into the Favour of that Prince.
-
-                        l2
+[^5]: *So they did him to feed with Horſes*]  This muſt be explained by\
+the ſame Writer of *Virgil*’s Life, who informs us, that *Virgil* in\
+his Youth ſtudied Phyſic, in which having made great Proficiency,\
+he repaired to *Rome*, and applying himſelf to that Branch of it [*footnote cont. next page*][^6]
 
 
 ---
 
 
-116      A SMALL POET.
+able to contain them : For there is hardly a\
+Pond, a Sheep-walk, or a Gravel-pit in all\
+*Greece*, but the antient Name of it is become\
+a Term of Art in Poetry.  By this means ſmall\
+Poets have ſuch a Stock of able hard Words lying\
+by them, as *Dryades*, *Hamadryades*, *Aonides*, *Fauni*,\
+*Nymphae*, *Sylvani*, *&c*. that ſignify nothing at all ;\
+and ſuch a World of pedantic Terms of the\
+ſame Kind, as may ſerve to furniſh all the new\
+Inventions and *thorough-Reformations*, that can\
+happen between this and *Plato*’s great Year.
 
-fore he has no Res*pec_t to Decorum and Pro-
-priety of Circums*tance; for the Regard of
-Pers*ons, Times, and Places is a Res*traint too
-s*ervile to e impos*ed upon poetical Licence;
-like him that made [i] Plato[i] confes*s [i] Juvenal [i] to be
-a Philos*opher, or [i] Pers*ius, that calls teh [i] Athe-
-nians Quirites [i].
+   When he writes he never propoſes any Scope\
+or Purpoſe to himſelf, but gives his Genius all\
+Freedom : For as he, that rides abroad for his\
+Pleaſure, can hardly be out of his Way ; ſo he\
+that writes for his Pleaſure, can ſeldom be be-\
+ſide his Subject.  It is an ungrateful Thing to\
+a noble Wit to be confined to any Thing---\
+To what Purpoſe did the Antients feign *Pegaſus*\
+to have Wings, if he muſt be confined to the\
+Road and Stages like a Pack-Horſe, or be forced\
+to be obedient to Hedges and Ditches?  There-
 
-  For [i] Metaphors, [i] he us*es to chus*e the hardes*t,
-and mos*t far-fet that he can light upon--Thes*e
-are the Jewels of Eloquence, and therefore the
-harder they are, the more precious they mus*t
+[^6]: [*footnote cont'd from prev. page*] which relates to the Diſtempers of Horſes, was employed in *Au-\
+*gustus*'s Stables with great Succeſs, and by that Means introduced\
+himſelf into the Favour of that Prince.
+
+
+---
+
+
+fore he has no Reſpect to Decorum and Pro-\
+priety of Circumſtance ; for the Regard of\
+Perſons, Times, and Places is a Reſtraint too\
+ſervile to be impoſed upon poetical Licence ;\
+like him that made *Plato*[^7] confeſs *Juvenal* to be\
+a Philoſopher, or *Perſius*, that calls the *Athe*-\
+*nians Quirites*.
+
+   For *Metaphors*, he uſes to chuſe the hardeſt,\
+and moſt far-fet that he can light upon---Theſe\
+are the Jewels of Eloquence, and therefore the\
+harder they are, the more precious they muſt\
 be.
 
-  He'll take s*cant Piece of coars*e Sens*e, and
-s*tretch it on the Tenterhooks of half a s*core
-Rhimes, utnil it crack that you may s*ee through
-it, and it rattle like a Drum-Head. When
-you s*ee his Vers*es hanged up in Tobacco-Shops,
-you may s*ay, in defiance of the Proverb, [i] that
-the weakes*t does not always go to the Wall; [i] for 'tis
+   He’ll take ſcant Piece of coarſe Senſe, and\
+ſtretch it on the Tenterhooks of half a ſcore\
+Rhimes, until it crack that you may ſee through\
+it, and it rattle like a Drum-Head.  When\
+you ſee his Verſes hanged up in Tobacco-Shops,\
+you may ſay, in defiance of the Proverb, *that*\
+*the weakeſt does not always go to the Wall* ; for ’tis
 
-    [i] Like him that made Plaot, &c.] [i] Who this Blunder is to be fa-
-thered upon I cannot dis*cover; but that which he imports to [i] Per-
-s*ius, [i] and another of Juvenal's Pas*s*age of his own in a Part of his
-Pros*e Collec_tions called [i]Criticis*ms upon Books and Autohrs, [i] will ex-
-plain--[i] Persius, [i] s*ays, he commits a very great Abs*urdity, when
-laying the Scene of his fourth Satyr in [i] Greece [i], and bringing in [i] So-
-crates reproving a young statesmen, he makes him call the [i] Gre-
-cians  [i] Quirites.
+[^7]: *Like him that made Plato*, &c.] Who this Blunder is to be fa-\
+thered upon I cannot diſcover ; but that which he imputes to *Per*-\
+*ſius*, and another of *Juvenal*’s, a Paſſage of his own in a Part of his\
+Proſe Collections called *Criticiſms upon Books and Autohrs*, will ex-\
+plain --- *Persius*, ſays he, commits a very great Abſurdity, when\
+laying the Scene of his fourth Satyr in *Greece*, and bringing in *So*-\
+*crates* reproving a young Stateſmen, he makes him call the *Græ*-\
+*cians* Quirites. [*footnote cont. next page*][^8]
 
 
 ---
 
 
-      A SMALL POET.   117
-well known the Lines are s*trong enough, and
-in that Sens*e may jus*_tly take the Wall of any,
-that have been written in our Language.  He
-s*eldom makes a Cons*cience of his Rhimes; but
-will often take the Liberty to make [i] preach [i]
-rhime with [i] Cheat, Vote [i] with [i] Rogue, and [i] Com-
-mittee-Man with Hang.
+well known the Lines are ſtrong enough, and\
+in that Senſe may juſtly take the Wall of any,\
+that have been written in our Language.  He\
+ſeldom makes a Conſcience of his Rhimes ; but\
+will often take the Liberty to make *preach*\
+rhime with *Cheat*, *Vote* with *Rogue*, and *Com*-\
+*mittee-Man* with *Hang*.
 
-  He'll make one Word of as many Joints, as
-the Tin-Pudding, that a Jugler pulls out of
-his Throat, and chops in again--What think
-you of [i] glud-fum-flam-hasta-minantes? [i] Some of
-the old [i] Latin [i] Poets bragged that their Vers*es
-were tougher than Bras*s, and harder than
-Marble;  what would they have done, if they
-had s*een thes*e? Verily they would have had
-more reas*on to wis*h thems*elves an hundred
+   He’ll make one Word of as many Joints, as\
+the Tin-Pudding, that a Jugler pulls out of\
+his Throat, and chops in again---What think\
+you of *glud-fum-flam-hasta-minantes ?*  Some of\
+the old *Latin* Poets[^9] bragged, that their Verſes\
+were tougher than Braſs, and harder than\
+Marble ; what would they have done, if they\
+had ſeen theſe ? Verily they would have had\
+more reaſon to wiſh themſelves an hundred\
 Throats, than they then had, to pronounce them.
 
-  There are s*ome, that drive a Trade in writ-
-ing in prais*e of other Writers, (like Rooks,
+   There are ſome, that drive a Trade in writ-\
+ing in praiſe of other Writers, (like Rooks,
 
----
+[^8]: [*footnote cont'd from prev. page*] ----*Quid deinde loquere*, Quirites,\
+*Hoc puto non juſtum eſt, illud male, rectius illud*.      *Perſ*. S. 4.\
+
+[^9]: *Some of the old* Latin *Poets*, &c.]  Thus *Horace*\
+
+> *Exegi monumentum ære perennius*\
+> *Regalique ſitu Pyramidum altius*      *Hor*. L. 3. O. 30
 
 
 ---
