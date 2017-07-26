@@ -1,10 +1,11 @@
 ### Needs to install pandoc and context (full live-tex distro)
 ### and then run make all
 
+os: osx
+
 install:
-  - sudo apt-get -qq update
-  - sudo apt-get install -y texlive
-  - sudo apt-get install -y pandoc
+  - brew cask install mactex
+  - brew install pandoc
 
 script:
   make all
