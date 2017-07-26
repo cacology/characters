@@ -7,7 +7,11 @@ install:
   - sudo apt-get install -y pandoc
 
 script:
+<<<<<<< HEAD
   make all
 
 notifications:
   email: false
+=======
+  - make all
+>>>>>>> e1b18b5316cb3f8d8dc6bad3d2abbc14f95645f5
