@@ -12,7 +12,8 @@ all : build/mds build/remove-empty-mds
 %.mds :
 #experiment in creating unique ids for md, but pre-parsing causes problems
 #	find $(@D) -name "*.md" -print | xargs -I % -L 1 pandoc -t markdown --id-prefix $(@D) % lib/pagebreak.md > character-mds/$(subst text/,,$(@D)).md
-	find $(@D) -name "*.md" -print0 | xargs -0 -I {file} -L 1 cat {file} lib/pagebreak.md > build/character-mds/$(subst text/,,$(@D)).md
+#	find $(@D) -name "*.md" -print0 | xargs -0 -I {file} -L 1 cat {file} lib/pagebreak.md > build/character-mds/$(subst text/,,$(@D)).md
+	./build-mds.sh $(@D)
 
 %.pdf : %.tex
 	context --result=$@ $<
@@ -81,4 +82,7 @@ cleanall : clean
 	find build/character-mds \( -name "*.md" \) -delete
 	find build \( -name mds -o -name pdfs-from-mds -o -name html-from-mds -o -name tei-from-mds -o -name txt-from-mds -o -name docx-from-mds \) -delete
 	find build/pdfs \( -name "*.pdf" \) -delete
+	find build/docx \( -name "*.docx" \) -delete
+	find build/txt \( -name "*.txt" \) -delete
+	find build/xml \( -name "*.xml" \) -delete
 	find build/complete \( -name "*.pdf" -o -name "*.html" -o -name "*.md" -o -name "*.txt" -o -name "*.xml" -o -name "*.docx" \) -delete
