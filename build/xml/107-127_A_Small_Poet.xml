@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+    </titleStmt>
+    <publicationStmt>
+      <p></p>
+          </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>[<hi rendition="simple:italic">double rule</hi>]</p>
+<div type="level1">
+  <head>A<lb />SMALL POET</head>
+  <p>I<hi rendition="simple:superscript">2</hi>S one, that would fain
+  make himſelf that,<lb />which
+  <hi rendition="simple:italic">Nature</hi> never meant him ; like a
+  <hi rendition="simple:italic">Fa-</hi><lb /><hi rendition="simple:italic">natic</hi>,
+  that inſpires himſelf with his own<lb />Whimſies. He ſets up
+  Haberdaſher of ſmall<lb />Poetry, with a very ſmall Stock, and no
+  Credit.<lb />He believes it is Invention enough to find out<lb />other
+  Men’s Wit ; and whatſoever he lights upon<lb />either in Books, or
+  Company, he makes bold<lb />with as his own. This he puts together ſo
+  un-<lb />towardly, that you may perceive his own Wit<lb />has the
+  Rickets, by the ſwelling Diſproportion<lb />of the Joints. Imitation
+  is the whole Sum of<lb />him ; and his Vein is but an Itch or Clap,
+  that<lb />he has catched of others ; and his Flame like<lb />that of
+  Charcoals, that were burnt before :<lb />But as he wants Judgment to
+  underſtand what<lb />is beſt, he naturally takes the worſt, as
+  being<lb />moſt agreeable to his own Talent. You may<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>know his Wit not to be natural, ’tis ſo un-<lb />quiet and
+  troubleſome in him : For as thoſe,<lb />that have Money but ſeldom,
+  are always ſhak-<lb />ing their Pockets, when they have it ; ſo
+  does<lb />he, when he thinks he has got ſomething, that<lb />will make
+  him appear. He is a perpetual Tal-<lb />ker ; and you may know by the
+  Freedom of his<lb />Diſcourſe, that he came light by it, as
+  Thieves<lb />ſpend freely what they get. He meaſures other<lb />Men’s
+  Wits by <hi rendition="simple:italic">their</hi> Modeſty, and his own
+  by<lb /><hi rendition="simple:italic">his</hi> Confidence. He makes
+  nothing of writing<lb />Plays, becauſe he has not Wit enough to
+  un-<lb />derstand the Difficulty. This makes him ven-<lb />ture to
+  talk and ſcribble, as Chowſes do to play<lb />with cunning Gameſters,
+  until they are cheated<lb />and laughed at. He is always talking of
+  Wit,<lb />as thoſe, that have bad Voices, are always ſing-<lb />ing
+  out of Tune ; and thoſe, that cannot play,<lb />delight to fumble on
+  Inſtruments. He grows<lb />the unwiſer by other Men’s Harms ; for
+  the<lb />worſe others write, he finds the more Encou-<lb />ragement to
+  do ſo too. His Greedineſs of<lb />Praiſe is ſo eager, that he ſwallows
+  any Thing,<lb />that comes in the Likeneſs of it, how
+  notorious<lb />and palpable ſoever, and is as Shot-free
+  againſt<lb />any Thing, that may leſſen his good Opinion<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>of himſelf---This renders him incurable, like<lb />Diſeaſes, that
+  grow inſenſible.</p>
+  <p>If you diſlike him it is at your own Peril ;<lb />he is ſure to put
+  in a Caveat beforehand againſt<lb />your Understanding ; and, like a
+  Malefactor<lb />in Wit, is always furniſhed with
+  Exceptions<lb />againſt his Judges. This puts him upon
+  perpe-<lb />tual Apologies, Excuſes, and Defences, but<lb />ſtill by
+  Way of Defiance, in a Kind of whif-<lb />fling Strain, without Regard
+  of any Man,<lb />that ſtands in the Way of his Pageant.<lb />Where he
+  thinks he may do it ſafely, he<lb />will confidently own other Men’s
+  Writings ;<lb />and where he fears the Truth may be
+  diſcovered,<lb />he will by feeble Denials and feigned
+  Inſinua-<lb />tions give Men Occaſion to ſuppoſe ſo.</p>
+  <p>If he underſtands <hi rendition="simple:italic">Latin</hi> or
+  <hi rendition="simple:italic">Greek</hi> he ranks<lb />himſelf among
+  the Learned, deſpiſes the Igno-<lb />rant, talks Criticiſms out of
+  <hi rendition="simple:italic">Scaliger</hi>, and re-<lb />peats
+  <hi rendition="simple:italic">Martial</hi>'s baudy Epigrams, and ſets
+  up<lb />his Reſt wholly upon Pedantry. But if he be<lb />not ſo well
+  qualified, he crys down all Learning<lb />as pedantic, diſclaims
+  Study, and profeſſes to<lb />write with as great Facility, as if his
+  Muſe was<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>ſliding down <hi rendition="simple:italic">Parnaſſus</hi>.
+  Whatſoever he hears<lb />well ſaid<note>
+    <p><hi rendition="simple:italic">Whatſoever he hears well ſaid</hi>,
+    &amp;tc. ] In this <hi rendition="simple:italic">Butler</hi> alludes
+    to<lb /><hi rendition="simple:italic">Martial</hi>'s Epigram to
+    <hi rendition="simple:italic">Fidentinus</hi>.
+    [<hi rendition="simple:italic">footnote cont. next
+    page</hi>][^2]</p>
+  </note> he ſeizes upon by poetical Licence ;<lb />and one Way makes it
+  his own, that is by ill<lb />repeating of it---This he believes to be
+  no<lb />more Theft, than it is to take that, which others<lb />throw
+  away. By this means his Writings are,<lb />like a Taylor’s Cuſhion, of
+  moſaic Work,<lb />made up of ſeveral Scraps ſewed together.<lb />He
+  calls a ſlovenly naſty Deſcription <hi rendition="simple:italic">great
+  Na-</hi><lb /><hi rendition="simple:italic">ture</hi>, and dull
+  Flatneſs <hi rendition="simple:italic">strange Eaſineſs</hi>.
+  He<lb />writes down all that comes in his Head, and<lb />makes no
+  Choice, becauſe he has nothing to<lb />do it with, that is Judgment.
+  He is always<lb />repealing the old Laws of Comedy, and like<lb />the
+  <hi rendition="simple:italic">long Parliament</hi> making
+  <hi rendition="simple:italic">Ordinances</hi> in their<lb />Stead ;
+  although they are perpetually
+  <hi rendition="simple:italic">thrown</hi><lb /><hi rendition="simple:italic">out</hi>
+  of Coffee-Houſes, and come to Nothing.<lb />He is like an
+  <hi rendition="simple:italic">Italian</hi> Thief, that never
+  robs,<lb />but he murthers, to prevent Diſcovery ; ſo ſure<lb />is he
+  to cry down the Man from whom he pur-<lb />loins, that his petty
+  Larceny of Wit may paſs<lb />unſuſpected. He is but a Copier at beſt,
+  and<lb />will never arrive to practice by the Life : For<lb />bar him
+  the Imitation of ſomething he has<lb />read, and he has no Image in
+  his Thoughts.</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>Obſervation and Fancy, the Matter and Form<lb />of juſt Wit, are
+  above his Philoſophy. He<lb />appears ſo over concerned in all Men’s
+  Wits,<lb />as if they were but Diſparagements of his<lb />own ; and
+  crys down all they do, as if they<lb />were Encroachments upon him. He
+  takes<lb />Jeſts from the Owners and breaks them,
+  as<lb /><hi rendition="simple:italic">Justices</hi> do falſe Weights,
+  and Pots that want<lb />Meaſure. When he meets with any
+  Thing,<lb />that is very good, he changes it into ſmall<lb />Money,
+  like three Groats for a Shilling, to<lb />ſerve ſeveral Occaſions. He
+  diſclaims Study,<lb />pretends to take Things in Motion, and to
+  ſhoot<lb />flying, which appears to be very true by his<lb />often
+  miſſing of his Mark. His Wit is much<lb />troubled with Obſtructions ;
+  and he has Fits as<lb />painful as thoſe of the Spleen. He fancies
+  him-<lb />ſelf a dainty ſpruce Shepherd, with a Flock and<lb />a fine
+  ſilken Shepherdeſs, that follows his Pipe,<lb />as Rats did the
+  Conjurers in <hi rendition="simple:italic">Germany</hi>.</p>
+  <p>As for <hi rendition="simple:italic">Epithets</hi>, he always
+  avoids thoſe, that<lb />are near akin to the Senſse. Such matches
+  are<lb />unlawful, and not fit to be made by a
+  <hi rendition="simple:italic">Chriſtian</hi><lb />Poet ; and therefore
+  all his Care is to chuſe out<lb />[^2]:
+  [<hi rendition="simple:italic">footnote cont'd from prev. page</hi>]
+  <hi rendition="simple:italic">Quem recitas meus eſt, O Fidentine,
+  libellus :</hi><lb /><hi rendition="simple:italic">Sed male dum
+  recitas, incipit eſſe tuus.    Mart. L. 1. Ep. 39.</hi></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>ſuch, as will ſerve, like a wooden Leg, to piece<lb />out a main’d
+  Verſe, that wants a Foot or two ;<lb />and if they will but rhimes now
+  and then into<lb />the Bargain, or run upon a Letter, it is a
+  Work<lb />of Supererrogation.</p>
+  <p>For <hi rendition="simple:italic">Similitudes</hi>, he likes the
+  hardeſt and moſt<lb />obſcure beſt : For as Ladies wear black
+  Patches,<lb />to make their Complexions ſeem fairer than<lb />they
+  are ; ſo when an Illuſtration is more ob-<lb />ſcure than the Senſe
+  that went before it, it muſt<lb />of Neceſſity make it appear clearer
+  than it<lb />did : For Contraries are beſt ſet off with
+  Con-<lb />traries.</p>
+  <p>He has found out a Way to ſave the Expence<lb />of much Wit and
+  Senſe : For he will make<lb />leſs than ſome have prodigally laid out
+  upon<lb />five or ſix Words ſerve forty or fifty Lines.<lb />This is a
+  thrifty Invention, and very eaſy ; and,<lb />if it were commonly
+  known, would much in-<lb />creaſe the Trade of Wit, and maintain a
+  Mul-</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>titude of ſmall Poets in conſtant Employment.<lb />He has found out
+  a new Sort of poetical
+  <hi rendition="simple:italic">Geor-</hi><lb /><hi rendition="simple:italic">gics</hi>,
+  a Trick of ſowing Wit like clover-graſs<lb />on barren Subjects, which
+  would yield nothing<lb />before. This is very uſeful for the
+  Times,<lb />wherein, ſome Men ſay, there is no Room left<lb />for new
+  Invention. He will take three Grains<lb />of Wit like the Elixir, and
+  projecting it upon<lb />the
+  <hi rendition="simple:italic">Iron-Age</hi> turn it immediately into
+  <hi rendition="simple:italic">Gold---</hi><lb />All the Buſineſs of
+  Mankind has preſently<lb />vaniſhed, the whole World has kept
+  Holiday ;<lb />there has been no Men but Heroes and Poets,<lb />no
+  Women but Nymphs and Shepherdeſſes ;<lb />Tress have born Fritters,
+  and Rivers flowed<lb />Plum-Porrige.</p>
+  <p>We read that <hi rendition="simple:italic">Virgil</hi> uſed to
+  make<note>
+    <p>[<hi rendition="simple:italic">footnote for next page</hi>]
+    <hi rendition="simple:italic">We read that Virgil uſed to make</hi>,
+    &amp;c.] This alludes to a Paſſage<lb />in the Life of
+    <hi rendition="simple:italic">Virgil</hi> aſcribed to
+    <hi rendition="simple:italic">Donatus</hi>. “ Cum Georgica
+    ſcribe-<lb />“ ret traditur quotidie meditatos mane plurimos verſus
+    dictare ſo-<lb />“ litus, ac per totum diem retracando ad
+    pauciſſimos redigrere :<lb />“ non abſurde carmen ſe urſæ more
+    parere dicens, et lambendo<lb />“ demum effingere.</p>
+  </note> fifty or<lb />ſixty Verſes in a Morning, and afterwards
+  re-<lb />duce them to ten. This was an unthrifty<lb />Vanity, and
+  argues him as well ignorant in the<lb />Huſbandry of his own Poetry,
+  as <hi rendition="simple:italic">Seneca</hi> ſays<lb />he was in that
+  of a Farm ;<note>
+    <p><hi rendition="simple:italic">As</hi> Seneca
+    <hi rendition="simple:italic">ſays he was in that of a farm</hi>.]
+    <hi rendition="simple:italic">Seneca</hi> in his 86th<lb />Epiſtle
+    finds ſeveral Faults with
+    <hi rendition="simple:italic">Virgil</hi>'s Rules and Obſervations
+    in<lb />Huſbandry, as they are delivered in his
+    <hi rendition="simple:italic">Georgics</hi>, and adds of him
+    ---<lb />“ Qui non quod veriſſime, ſed quid decentiſſime diceretur,
+    ad-<lb />“ ſpexit ; nec Agricolas docere voluit, ſed legentes
+    delectare.”</p>
+  </note> for in plain <hi rendition="simple:italic">Engliſh</hi></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>it was no better than bringing a Noble to Nine-<lb />pence. And as
+  ſuch Courſes brought the<lb /><hi rendition="simple:italic">prodigal
+  Son</hi> to eat with Hogs : So they did him<lb />to feed with
+  Horſes,<note>
+    <p><hi rendition="simple:italic">So they did him to feed with
+    Horſes</hi>] This muſt be explained by<lb />the ſame Writer of
+    <hi rendition="simple:italic">Virgil</hi>’s Life, who informs us,
+    that <hi rendition="simple:italic">Virgil</hi> in<lb />his Youth
+    ſtudied Phyſic, in which having made great Proficiency,<lb />he
+    repaired to <hi rendition="simple:italic">Rome</hi>, and applying
+    himſelf to that Branch of it [<hi rendition="simple:italic">footnote
+    cont. next page</hi>][^6]</p>
+  </note> which were not much<lb />better Company, and may teach us to
+  avoid<lb />doing the like. For certainly it is more noble<lb />to take
+  four or five Grains of Senſe, and, like<lb />a Gold-Beater, hammer
+  them into ſo many<lb />Leaves as will fill a whole Book ; than to
+  write<lb />nothing but Epitomies, which many wiſe Men<lb />believe
+  will be the Bane and Calamity of Learning.</p>
+  <p>When he writes, he commonly ſteers the<lb />Senſe of his Lines by
+  the Rhime that is at the<lb />End of them, as Butchers do Calves by
+  the<lb />Tail. For when he has made one Line, which<lb />is eaſy
+  enough ; and has found out ſome ſturdy<lb />hard Word, that will but
+  rhime, he will ham-<lb />mer the Senſe upon it, like a Piece of hot
+  Iron<lb />upon an Anvil, into what Form he pleaſes.</p>
+  <p>There is no Art in the World ſo rich in<lb />Terms as Poetry ; a
+  whole Dictionary is ſcarce</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>able to contain them : For there is hardly a<lb />Pond, a
+  Sheep-walk, or a Gravel-pit in
+  all<lb /><hi rendition="simple:italic">Greece</hi>, but the antient
+  Name of it is become<lb />a Term of Art in Poetry. By this means
+  ſmall<lb />Poets have ſuch a Stock of able hard Words lying<lb />by
+  them, as <hi rendition="simple:italic">Dryades</hi>,
+  <hi rendition="simple:italic">Hamadryades</hi>,
+  <hi rendition="simple:italic">Aonides</hi>,
+  <hi rendition="simple:italic">Fauni</hi>,<lb /><hi rendition="simple:italic">Nymphae</hi>,
+  <hi rendition="simple:italic">Sylvani</hi>,
+  <hi rendition="simple:italic">&amp;c</hi>. that ſignify nothing at
+  all ;<lb />and ſuch a World of pedantic Terms of the<lb />ſame Kind,
+  as may ſerve to furniſh all the new<lb />Inventions and
+  <hi rendition="simple:italic">thorough-Reformations</hi>, that
+  can<lb />happen between this and
+  <hi rendition="simple:italic">Plato</hi>’s great Year.</p>
+  <p>When he writes he never propoſes any Scope<lb />or Purpoſe to
+  himſelf, but gives his Genius all<lb />Freedom : For as he, that rides
+  abroad for his<lb />Pleaſure, can hardly be out of his Way ; ſo
+  he<lb />that writes for his Pleaſure, can ſeldom be be-<lb />ſide his
+  Subject. It is an ungrateful Thing to<lb />a noble Wit to be confined
+  to any Thing---<lb />To what Purpoſe did the Antients feign
+  <hi rendition="simple:italic">Pegaſus</hi><lb />to have Wings, if he
+  muſt be confined to the<lb />Road and Stages like a Pack-Horſe, or be
+  forced<lb />to be obedient to Hedges and Ditches? There-</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>fore he has no Reſpect to Decorum and Pro-<lb />priety of
+  Circumſtance ; for the Regard of<lb />Perſons, Times, and Places is a
+  Reſtraint too<lb />ſervile to be impoſed upon poetical
+  Licence ;<lb />like him that made
+  <hi rendition="simple:italic">Plato</hi><note>
+    <p><hi rendition="simple:italic">Like him that made Plato</hi>,
+    &amp;c.] Who this Blunder is to be fa-<lb />thered upon I cannot
+    diſcover ; but that which he imputes to
+    <hi rendition="simple:italic">Per</hi>-<lb /><hi rendition="simple:italic">ſius</hi>,
+    and another of <hi rendition="simple:italic">Juvenal</hi>’s, a
+    Paſſage of his own in a Part of his<lb />Proſe Collections called
+    <hi rendition="simple:italic">Criticiſms upon Books and
+    Autohrs</hi>, will ex-<lb />plain ---
+    <hi rendition="simple:italic">Persius</hi>, ſays he, commits a very
+    great Abſurdity, when<lb />laying the Scene of his fourth Satyr in
+    <hi rendition="simple:italic">Greece</hi>, and bringing in
+    <hi rendition="simple:italic">So</hi>-<lb /><hi rendition="simple:italic">crates</hi>
+    reproving a young Stateſmen, he makes him call the
+    <hi rendition="simple:italic">Græ</hi>-<lb /><hi rendition="simple:italic">cians</hi>
+    Quirites. [<hi rendition="simple:italic">footnote cont. next
+    page</hi>][^8]</p>
+  </note> confeſs <hi rendition="simple:italic">Juvenal</hi> to
+  be<lb />a Philoſopher, or <hi rendition="simple:italic">Perſius</hi>,
+  that calls the
+  <hi rendition="simple:italic">Athe</hi>-<lb /><hi rendition="simple:italic">nians
+  Quirites</hi>.</p>
+  <p>For <hi rendition="simple:italic">Metaphors</hi>, he uſes to chuſe
+  the hardeſt,<lb />and moſt far-fet that he can light
+  upon---Theſe<lb />are the Jewels of Eloquence, and therefore
+  the<lb />harder they are, the more precious they muſt<lb />be.</p>
+  <p>He’ll take ſcant Piece of coarſe Senſe, and<lb />ſtretch it on the
+  Tenterhooks of half a ſcore<lb />Rhimes, until it crack that you may
+  ſee through<lb />it, and it rattle like a Drum-Head. When<lb />you ſee
+  his Verſes hanged up in Tobacco-Shops,<lb />you may ſay, in defiance
+  of the Proverb,
+  <hi rendition="simple:italic">that</hi><lb /><hi rendition="simple:italic">the
+  weakeſt does not always go to the Wall</hi> ; for ’tis</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>well known the Lines are ſtrong enough, and<lb />in that Senſe may
+  juſtly take the Wall of any,<lb />that have been written in our
+  Language. He<lb />ſeldom makes a Conſcience of his Rhimes ;
+  but<lb />will often take the Liberty to make
+  <hi rendition="simple:italic">preach</hi><lb />rhime with
+  <hi rendition="simple:italic">Cheat</hi>,
+  <hi rendition="simple:italic">Vote</hi> with
+  <hi rendition="simple:italic">Rogue</hi>, and
+  <hi rendition="simple:italic">Com</hi>-<lb /><hi rendition="simple:italic">mittee-Man</hi>
+  with <hi rendition="simple:italic">Hang</hi>.</p>
+  <p>He’ll make one Word of as many Joints, as<lb />the Tin-Pudding,
+  that a Jugler pulls out of<lb />his Throat, and chops in again---What
+  think<lb />you of
+  <hi rendition="simple:italic">glud-fum-flam-hasta-minantes ?</hi> Some
+  of<lb />the old <hi rendition="simple:italic">Latin</hi> Poets<note>
+    <p><hi rendition="simple:italic">Some of the old</hi> Latin
+    <hi rendition="simple:italic">Poets</hi>, &amp;c.] Thus
+    <hi rendition="simple:italic">Horace</hi><lb /></p>
+  </note> bragged, that their Verſes<lb />were tougher than Braſs, and
+  harder than<lb />Marble ; what would they have done, if they<lb />had
+  ſeen theſe ? Verily they would have had<lb />more reaſon to wiſh
+  themſelves an hundred<lb />Throats, than they then had, to pronounce
+  them.</p>
+  <p>There are ſome, that drive a Trade in writ-<lb />ing in praiſe of
+  other Writers, (like Rooks,</p>
+  <quote>
+    <p><hi rendition="simple:italic">Exegi monumentum ære
+    perennius</hi><lb /><hi rendition="simple:italic">Regalique ſitu
+    Pyramidum altius</hi>      <hi rendition="simple:italic">Hor</hi>.
+    L. 3. O. 30</p>
+  </quote>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>118 A SMALL POET. that bet on
+  Games<hi rendition="simple:italic">ters Hands) not at all to ce-
+  lebrate the learned Author's Merits, as they would s</hi>hew, but
+  their own Wits, of which he is but the Subjec_t. The Letchery of this
+  Va- nity has s<hi rendition="simple:italic">pawned more Writers than
+  the [i] civil Law: [i] For thos</hi>e,
+  whos<hi rendition="simple:italic">e Modes</hi>ty
+  mus<hi rendition="simple:italic">t notorious Va- pours imaginable. For
+  if the Privilege of Love be allowed--[i] Dicere quae</hi> puduit,
+  s<hi rendition="simple:italic">cribere
+  jus</hi>s<hi rendition="simple:italic">it Amor,[i] why s</hi>hould it
+  not be s<hi rendition="simple:italic">o in Self- Love too? For if it
+  be Wis</hi>dom to conceal our Imperfec_tions, what is it to
+  dis<hi rendition="simple:italic">cover our Vir- tues? It is not like,
+  that [i] Nature [i] gave Men great Parts upon s</hi>uch Terms, as the
+  [i] Fairies [i] us<hi rendition="simple:italic">e to give Money, to
+  pinch and leave them if they s</hi>peak of it. They
+  s<hi rendition="simple:italic">ay--[i]Prais</hi>e is but the Shadow of
+  Virtue; [i] and s*ure that Virtue is very foolish, that is afraid of
+  its own Shadow.</p>
+  <p>When he writes [i] Anograms, [i] he
+  us<hi rendition="simple:italic">es to lay the Outs</hi>ides of his
+  Vers*es even (like a Brick-</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <ab type='codeblock '>
+  A SMALL POET.       119
+</ab>
+  <p>layer) by a Line of Rhime and
+  Acros<hi rendition="simple:italic">tic, and fill th eMiddle with
+  Rubbis</hi>h--In this he imi- tates [i] Ben Johnson, [i] but in
+  nothing els*e.</p>
+  <p>There was one, that lined a Hat-Cas<hi rendition="simple:italic">e
+  with a Paper of [i] Benlows</hi>e'[i]s Poetry--[i] Prynne [i] bought
+  it by Chance, and put a new Demi-Cas<hi rendition="simple:italic">tor
+  into it. The firs</hi>t Time he wore it he felt only a
+  s<hi rendition="simple:italic">inging in his Head, which within two
+  Days turned to a Vertigo--He was let Blood in the Ear by one of the
+  State-Phys</hi>icians, and reco- vered; but before he went abroad he
+  writ a Poem of Rocks and Seas, in a Stile s*o proper and natural, that
+  it was hard to determine, which was ruggeder.</p>
+  <p>There is no Fear of Ac_tivity, nor Gambol of Wit, that ever was
+  performed by Man, from him that vaults on [i] Pegasus, [i] to him that
+  tumbles through the Hoop of an Anagram, but [i] Benlows [i] has got
+  the Mas*tery in it, whether it be high-rope Wit, or low-rope Wit.
+  He</p>
+  <p>son means was .......</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>120 A SMALL POET./ has all Sorts of [i] Echoes, Rebus's,
+  Chronograms,/ &amp;c.[i] bes<hi rendition="simple:italic">ides [i]
+  Carwichets, Clenches, [i] and [i] Quibbles--[i]/ As for [i] Altars [i]
+  and [i] Pyramids [i] in Poetry, he has/ out-done all Men that Way; for
+  he has/ made a [i] Gridiron, [i] and a [i] Frying-Pan [i] in
+  Vers</hi>e,/ that, bes<hi rendition="simple:italic">ide the
+  Likenes</hi>s in Shape, the very/ Tone and Sound of the Words did
+  perfec_tly/ repres<hi rendition="simple:italic">ent the Nois</hi>e,
+  that is made by thos<hi rendition="simple:italic">e/ Utens</hi>ils,
+  s<hi rendition="simple:italic">uch as the old Poet called [i]
+  s</hi>artago lo-/ quendi. [i] When he was Captain, he made all/ the
+  Furniture of his Hors<hi rendition="simple:italic">e, from the Bit to/
+  the Crupper, in beaten Poetry, every Vers</hi>e/ being fitted to the
+  Proportion of the Thing,/ with a moral
+  Allus<hi rendition="simple:italic">ion of the Sens</hi>e to the/
+  Thing; as the [i] Bridle of Moderation, the Saddle/ of Content, [i]
+  and [i] the Crupper of Cons<hi rendition="simple:italic">tancy;[i]
+  s</hi>o that/ the s<hi rendition="simple:italic">ame Thing was both
+  Epigram and Emblem,/ even as Mule is both Hors</hi>e and
+  As<hi rendition="simple:italic">s./ / / {New Paragraph} Some Critics
+  are of Opinion, that Poets/ ought to apply themselves to the Imitation
+  of/ [i] Nature, [i] and make a Cons</hi>cience of
+  digres<hi rendition="simple:italic">s</hi>ing/ from her; but he is
+  none of thes*e. The an-/ tient Magicians could charm down the Moon,/
+  and force Rivers back to their Springs by the/</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <div type="level2">
+    <head>A SMALL POET. 121/</head>
+    <p>Power of Poetry only; and the Moderns will/ undertake to turn the
+    Ins<hi rendition="simple:italic">ide of the Earh out-/ ward (like a
+    Jugler's Pocket) and s</hi>hake the/ [i] Chess[i] out of it, make
+    [i] Nature [i] s<hi rendition="simple:italic">hew Tricks like/ an
+    Ape, and the Stars run on Errands; but/ s</hi>till it is by dint of
+    Poetry. And if Poets can/ so s<hi rendition="simple:italic">uch
+    noble Feats, they were unwis</hi>e to
+    des<hi rendition="simple:italic">-/ cend to mean and vulgar: For
+    where the rares</hi>t/ and mos<hi rendition="simple:italic">t common
+    Things are of a Price (as/ they are all one to Poets) it argues
+    Dis</hi>ease in/ Judgement not to
+    chus<hi rendition="simple:italic">e the most curious. Hence/
+    s</hi>ome infer, that the Account they give of things/
+    des<hi rendition="simple:italic">erves no Regard, becaus</hi>e they
+    never receive/ any Thing, as they find it, into their Compo-/
+    s<hi rendition="simple:italic">itions, unles</hi>s it agree both
+    with the Meas<hi rendition="simple:italic">ure/ of their own Fancis,
+    and the Meas</hi>ure of their/ Lines, which can very
+    s<hi rendition="simple:italic">eldom happen: And/ therefore when
+    they give a Character of any/ Thing or Pers</hi>on, it does commonly
+    bear no/ more Proportions to the Subject, than the
+    Fis<hi rendition="simple:italic">hes/ and Ships in a Map do to the
+    Scale. But let/ s</hi>uch know, that Poets, as well as Kings, ought/
+    rather to cons*ider what is fit for them to give,/ than others to
+    receive; that they are fain to/ have regard to the Exchange of
+    Language, and/ /</p>
+    <milestone unit="undefined" type="separator" rendition="line" />
+    <p>122 A SMALL POET. / write high or low, according as that runs:/
+    For in this Age, when the s<hi rendition="simple:italic">mallest
+    Poet s</hi>eldom/ goes below more then
+    mos<hi rendition="simple:italic">t, it were a Shame for/ a grater
+    and more noble Poet not to out-throw/ that cut a Bar. / / / ##There
+    was a [i] Tobacco-Man, [i] that wrapped / [i]Spanis</hi>h [i]
+    Tobacco in a Paper of Vers<hi rendition="simple:italic">es, which/
+    [i]Benlows[i] had written agains</hi>t the [i] Pope, [i] which/ by a
+    natural Antipathy, that his Wit has to / any Thing that's Catholic,
+    s<hi rendition="simple:italic">poiled the Tobacco;/ for it
+    pres</hi>ently turned Mundungus. This Au-/ thor will take an [i]
+    English [i] Word, and, like the/ [i] Frenchman, [i] that
+    s<hi rendition="simple:italic">wallowed Water and s</hi>pit it/ out
+    Wine, with a little Heaving and Straining/ would turn it immediately
+    into [i] Latin,[i] as [i] plun-/ derat ille Domos[i]--Mille [i]
+    Hocopokiana, [i] and a thou-/ s<hi rendition="simple:italic">and
+    s</hi>uch./ / ##There was a young Practitioner in Poetry,/ that
+    found there was no good to be done with-/ out a
+    Mis<hi rendition="simple:italic">tres</hi>s: For he, that writes of
+    Love/ before he hath tried it, doth but travel by the/ Map; and he,
+    that makes Love without a/ Dame, does like a
+    Games<hi rendition="simple:italic">ter, that plays for/ / #[i]More
+    the mos</hi>t] There is an appearance Defect or Error in
+    thes<hi rendition="simple:italic">e/ Words; but I leave it to the
+    Reader to s</hi>upply or correct./</p>
+    <milestone unit="undefined" type="separator" rendition="line" />
+  </div>
+  <div type="level2">
+    <head>A SMALL POET. 123/</head>
+    <p>Nothing. He thought it convenient therefore,/
+    firs<hi rendition="simple:italic">t to furnis</hi>h
+    hims<hi rendition="simple:italic">elf with a Name for his/
+    Mis</hi>stress beforehand, that he might not be to/
+    s<hi rendition="simple:italic">eek, when his Merit or good Fortune
+    s</hi>hould/ bes<hi rendition="simple:italic">tow her upon him: for
+    every Poet is his/
+    mis</hi>tres<hi rendition="simple:italic">s</hi>e's Godfather, and
+    gives her a new/ Name, like a Nun that takes Orders. He was/ very
+    curious to s<hi rendition="simple:italic">it himself with a
+    hands</hi>ome/ Word of a turnable Sound; but could light/ upon none,
+    that s<hi rendition="simple:italic">ome Poet or other had not / made
+    us</hi>e of before. He was therefore forced/ to fall to coining, and
+    was s<hi rendition="simple:italic">everal Months be-/ fore he could
+    light on one, that pleas</hi>ed him/ perfectly. But after he had
+    overcome that Dif-/ ficulty, he found a greater remaining, to get a/
+    Lady to own him. He accos<hi rendition="simple:italic">ted s</hi>ome
+    of all/ Sorts, and gave them to
+    unders<hi rendition="simple:italic">tand, both in/ Pros</hi>e and
+    Vers<hi rendition="simple:italic">e, how incomparably happy it/ was
+    in his Power to make his
+    Mis</hi>tres<hi rendition="simple:italic">s, but/ could never
+    convert any of them. At length/ he was fain to make his
+    Landres</hi>s s<hi rendition="simple:italic">upply that/ Place as
+    Proxy, until his good Fortune, or/ s</hi>omebody of better Quality
+    would be more / kind to him, which after a while he neither/ hoped
+    nor cared for; for how mean Toever her/ Condition was before, when
+    he had once pre-/ tended to her, s<hi rendition="simple:italic">he
+    was s</hi>ure to be a Nymph and/</p>
+    <milestone unit="undefined" type="separator" rendition="line" />
+    <p>124 A SMALL POET./ a Goddes<hi rendition="simple:italic">s. For
+    what greater Honour can a/ Woman be capable of, than to be
+    trans</hi>lated/ into precious Stones and Stars? No Herald in/ the
+    World can go higher. Bes<hi rendition="simple:italic">ides se found
+    no/ Man can us</hi>e that Freedom of Hyperbole in the/ Character of
+    a Pers<hi rendition="simple:italic">on commonly known (as/ great
+    Ladies are) which we can in des</hi>cribing/ one
+    s<hi rendition="simple:italic">o obs</hi>cure and unknown, that
+    nobody can/ dis<hi rendition="simple:italic">prove him. For he, that
+    writes but one/ Sonnet upon any of the public Pers</hi>ons,
+    s<hi rendition="simple:italic">hall/ be s</hi>ure to have his Reader
+    at ever third Word/ cry out--What an
+    As<hi rendition="simple:italic">s is this to call [i] Spanis</hi>h/
+    paper and Cerus<hi rendition="simple:italic">e Lillies and
+    Ros</hi>es, [i] or [i] claps In-/ fluences--[i] To
+    s<hi rendition="simple:italic">ay, [i] the Graces are her waiting
+    Wo-/ men, [i] when they are known to be no better/ than her
+    Bawdes--that [i] Day breaks from her/ Eyes, [i]when s</hi>he looks
+    as<hi rendition="simple:italic">quint--Or that [i] her/ Breath
+    perfumes the Arabian Winds, [i] when s</hi>he/ puffs Tobacco?/ /
+    ##It is no mean Art to improve a Language,/ and find out Words, that
+    are not only removed/ from common us<hi rendition="simple:italic">e,
+    but rich in Cons</hi>onanats,/ the Nerves and Sinews of Speech, to
+    rais*e a/ / ---</p>
+    <milestone unit="undefined" type="separator" rendition="line" />
+  </div>
+</div>
+<div type="level1">
+  <head>A SMALL POEt. 125/</head>
+  <p>s<hi rendition="simple:italic">ft and feeble Language like ours to
+  the Pitch/ of [i] High-Dutch,[i] as he did, that writ/ / ## [i] Arts
+  rattling Fores</hi>kins s<hi rendition="simple:italic">hrilling
+  Bagpipes quell.[i]/ / #This is not the only the mos</hi>t elegant, but
+  mos<hi rendition="simple:italic">t po-/ litic Way of Writing, that a
+  Poet can us</hi>e; for I/ know no Defence like it to
+  pres<hi rendition="simple:italic">erve a Poem from/ the Torture of
+  thos</hi>e that lis<hi rendition="simple:italic">p and s</hi>tammer./
+  He that wants Teeth may as well venture upon/ a Piece of tough horny
+  Brawn as s<hi rendition="simple:italic">uch a Line,/ for he will look
+  like an As</hi>s eating This<hi rendition="simple:italic">tles./ / #
+  He never begins a Work without an Invoca-/ tion of his [i] Muse; [i]
+  for it is not fit that s</hi>he s<hi rendition="simple:italic">hould/
+  appear in public, to s</hi>hew her Skill before
+  s<hi rendition="simple:italic">he/ is entreated, as Gentlewomen do not
+  us</hi>e to / s<hi rendition="simple:italic">ing, until they are
+  applied to, and often des</hi>ired./ / # I
+  s<hi rendition="simple:italic">hall not need to s</hi>ay any this of
+  the Ex-/ cellence of Poetry, s<hi rendition="simple:italic">ince it
+  has been already/ performed by many excellent Pers</hi>ons, among/
+  whom s<hi rendition="simple:italic">ome have lately undertaken to
+  prove, that/ the civil Government cannot
+  pos</hi>s<hi rendition="simple:italic">ibly
+  s</hi>ubs<hi rendition="simple:italic">is</hi>t with-/ out it, which,
+  for my Part, I believe to be true/ / [i] S*ome have lately. [i]] This
+  alludes to [i] Davenant--See [i] G---</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>126 A SMALL POET./ in a poetical
+  Sens<hi rendition="simple:italic">e, and more probable to be/ received
+  of it, than thos</hi>e s<hi rendition="simple:italic">trange Feats of/
+  building Walls and making Trees dance,/ which Antiquity as</hi>cribes
+  to Vers<hi rendition="simple:italic">e. And though/ [i]
+  Philos</hi>ophers [i] are of a contrary Opinion, and will/ not allow
+  Poets fit to live in a Commonwealth,/ their Partiality is plainer than
+  their Reas<hi rendition="simple:italic">ons;/ for they have no other
+  Way to pretend to this/ Prerogative thems</hi>elves, as they do, but
+  by re-/ moving Poets, whom they know to have a/ fairer Title; and this
+  they do unjus<hi rendition="simple:italic">tly, that/ [i] Plato, [i]
+  who firs</hi>t banis<hi rendition="simple:italic">hed Poets his
+  Republic,/ forgot that the very Commonwealth was poe-/ tical. I
+  s</hi>hall s<hi rendition="simple:italic">ay nothing to them, but
+  only/ des</hi>ire the World to cons<hi rendition="simple:italic">ider,
+  how happily it is/ like to be governed by thos</hi>e, that are as
+  s<hi rendition="simple:italic">o per-/ petual a civil War among
+  thems</hi>elves, that if we/ s<hi rendition="simple:italic">hould
+  s</hi>ubmit ours<hi rendition="simple:italic">elves to their own
+  Res</hi>olution/ of this Question, and be content to allow them/ only
+  fit to rule if they could but conclude it/
+  s<hi rendition="simple:italic">o themselves, they would never agree
+  upon it--/ Mean while there is no les</hi>s Certainty and Agree-/ ment
+  in Poetry than the Mathematics; for they/ all
+  s<hi rendition="simple:italic">ubmit the to the s</hi>ame Rules
+  without Dis<hi rendition="simple:italic">pute or/ Controvers</hi>y.
+  But whos<hi rendition="simple:italic">oever s</hi>hall
+  pleas<hi rendition="simple:italic">e to look/ into the Records of
+  Antiquity s</hi>hall find their/ Title
+  s<hi rendition="simple:italic">o unques</hi>tioned, that the greatest
+  Princess/ / / 4</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>A SMALL POET. 127/ in the whole World have been glad to derive/
+  their Pedigrees, and their Power too, from/ Poets. [i] Alexander [i]
+  the great had no wis<hi rendition="simple:italic">er a Way/ so
+  s</hi>ecure the Empire to hims<hi rendition="simple:italic">elf by [i]
+  Right, [i]/ which he had gotten by [i] Force, [i] then by de-/ claring
+  hims</hi>elf the Son of [i] Jupiter; [i] and who/ was [i] Jupiter [i]
+  but the Son of a Poet? So [i] Caes*ar [i]/ and all [i] Rome [i] was
+  transported with Joy, when a/ Poet made [i] Jupiter [i] his Colleague
+  in the Empire;/ and when [i] Jupiter [i] governed, what did the/
+  Poets, that governed Jupiter?/</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+</div>
+</body>
+</text>
+</TEI>
