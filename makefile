@@ -8,6 +8,12 @@ all : build/mds build/remove-empty-mds
 	$(MAKE) build/pdfs-from-mds build/html-from-mds build/tei-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.xml build/complete/text.docx build/complete/text.txt
 	$(MAKE) clean
 
+.PHONE : all-no-tei
+all : build/mds build/remove-empty-mds
+	$(MAKE) build/pdfs-from-mds build/html-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.docx build/complete/text.txt
+	$(MAKE) clean
+
+
 #insert a "pagebreak.md" between each page and name file better
 %.mds :
 #experiment in creating unique ids for md, but pre-parsing causes problems

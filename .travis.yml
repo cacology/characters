@@ -7,7 +7,7 @@ install:
   - sudo apt-get install -y pandoc
 
 script:
-  make all
+  make all-limited
 
 notifications:
   email: false
