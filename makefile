@@ -12,7 +12,7 @@ all : build/mds build/remove-empty-mds
 %.mds :
 #experiment in creating unique ids for md, but pre-parsing causes problems
 #	find $(@D) -name "*.md" -print | xargs -I % -L 1 pandoc -t markdown --id-prefix $(@D) % lib/pagebreak.md > character-mds/$(subst text/,,$(@D)).md
-	find $(@D) -name "*.md" -print | xargs -I % -L 1 cat % lib/pagebreak.md > build/character-mds/$(subst text/,,$(@D)).md
+	find $(@D) -name "*.md" -print | xargs -I {file} -L 1 cat {file} lib/pagebreak.md > build/character-mds/$(subst text/,,$(@D)).md
 
 %.pdf : %.tex
 	context --result=$@ $<
