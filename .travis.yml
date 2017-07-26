@@ -1,9 +1,9 @@
-### Needs to install pandoc and context (full live-tex distro)
+### Needs to install pandoc and context (less than full texlive)
 ### and then run make all
 
 install:
   - sudo apt-get -qq update
-  - sudo apt-get install -y texlive
+  - sudo apt-get install -y context
   - sudo apt-get install -y pandoc
 
 script:
