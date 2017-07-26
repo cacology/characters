@@ -1,0 +1,13 @@
+### Needs to install pandoc and context (full live-tex distro)
+### and then run make all
+
+install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y texlive
+  - sudo apt-get install -y pandoc
+
+script:
+  make all
+
+notifications:
+  email: false
