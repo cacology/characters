@@ -7,7 +7,7 @@ install:
   - sudo apt-get install -y pandoc
 
 script:
-  make all-limited
+  make all-no-tei
 
 notifications:
   email: false
