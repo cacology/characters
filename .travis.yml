@@ -11,3 +11,11 @@ script:
 
 notifications:
   email: false
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master
+    target_branch: gh-pages
