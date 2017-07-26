@@ -2,9 +2,9 @@
 ### and then run make all
 
 install:
-  - sudo apt-get update -qq update
-  - sudo install -y texlive
-  - sudo install -y pandoc
+  - sudo apt-get -qq update
+  - sudo apt-get install -y texlive
+  - sudo apt-get install -y pandoc
 
 script:
   make all
