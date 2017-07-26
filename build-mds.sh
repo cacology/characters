@@ -1,3 +1,6 @@
 #!/bin/bash
 
-find $1 -name '*.md' -print0 | xargs -0 -I % -L 1 cat % lib/pagebreak.md > build/character-mds/${1#text/}.md
+OUTFILE=${1#text/}
+OUTFILE=${OUTFILE%/}
+
+find $1 -name '*.md' -print0 | xargs -0 -I {} cat {} lib/pagebreak.md > build/character-mds/$OUTFILE.md
