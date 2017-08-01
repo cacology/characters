@@ -1,8 +1,8 @@
-[*two rules*]/
-/
-#A RANTER/
-/
-/
+[*two rules*]
+
+#A RANTER
+
+
 I^2^s a *Fanatic* Hector, that has found out by a
 very ſtrange Way of new Light, how to
 transform all the *Devils* into *Angels of Light* ;

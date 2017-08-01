@@ -1,29 +1,28 @@
-           A SMALL POET.                 111
-Obs*ervation and Fancy, the Matter and Form
-of jus*t Wit, are above his Philos*ophy.  He
-appears s*o over concerned in all Men's Wits,
-as if they were but Dis*paragements of his
-own; and crys down all they do, as if they
-were Encroachments upon him. He takes
-Jes*ts fromt he Owners and breaks them, as
-[i] Justices[i] do fals*e Weights, and Pots that want
-Meas*ure.  When he meets with any Thing,
-that is very good, he change it into s*mall
-Money, like three Groats for a Shilling, to
-s*erve s*everal Occas*ions.  He dis*claims Study,
-pretends to take Things in Motion, and to s*hoot
-flying, which appears to be very true by his
-often mis*s*ing of his Mark.  His Wit is much
-troubled with Obs*truc_tions;  and he has Fits as
-painful as thos*e of the Spleen.   He fancies him-
-s*elf a dainty s*pruce Shepherd, with a Flock and
-a fine s*ilken Shepherds*s, that follows his Pipe,
-as Rats did the Conjurers in [i] Germany.[i]
+Obſervation and Fancy, the Matter and Form\
+of juſt Wit, are above his Philoſophy.  He\
+appears ſo over concerned in all Men’s Wits,\
+as if they were but Diſparagements of his\
+own ; and crys down all they do, as if they\
+were Encroachments upon him.  He takes\
+Jeſts from the Owners and breaks them, as\
+*Justices* do falſe Weights, and Pots that want\
+Meaſure.  When he meets with any Thing,\
+that is very good, he changes it into ſmall\
+Money, like three Groats for a Shilling, to\
+ſerve ſeveral Occaſions.  He diſclaims Study,\
+pretends to take Things in Motion, and to ſhoot\
+flying, which appears to be very true by his\
+often miſſing of his Mark.  His Wit is much\
+troubled with Obſtructions ;  and he has Fits as\
+painful as thoſe of the Spleen.   He fancies him-\
+ſelf a dainty ſpruce Shepherd, with a Flock and\
+a fine ſilken Shepherdeſs, that follows his Pipe,\
+as Rats did the Conjurers in *Germany*.
 
-As for [i] Epithets, [i] he always avoids those, that
-are near akin to the Sens*se.  Such matches are
-unlawful, and not fit to be made by a [i] Chris*tian[i]
-Poet; and therefore all his Care is to chus*e out
+   As for *Epithets*, he always avoids thoſe, that\
+are near akin to the Senſse.  Such matches are\
+unlawful, and not fit to be made by a *Chriſtian*\
+Poet ; and therefore all his Care is to chuſe out\
 
-[i]Quem recitas meus est, O Fidentinus, libellus:
-sed male cum recitas, incipit es*s*e tuus. Mare. L. 1. Ep 39 [i]
+[^2]: [*footnote cont'd from prev. page*] *Quem recitas meus eſt, O Fidentine, libellus :*\
+*Sed male dum recitas, incipit eſſe tuus.    Mart. L. 1. Ep. 39.*
