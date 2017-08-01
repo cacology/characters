@@ -7,7 +7,7 @@ he has no Power to do any Thing of himſelf,/
 but by his Guardian. His Wife manages him/
 and his Eſtate with equal Authority, and he/
 lives under her aribtrary Government and Com-/
-mand as his ſuperior Office. He is but a kind/
+mand as his ſuperior Officer. He is but a kind/
 of Meſſuage and Tenement in the Occupation/
 of his Wife. He and ſhe make up a Kind of/
  Hermaphrodite, a Monſter, or which the one/
