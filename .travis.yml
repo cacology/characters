@@ -1,12 +1,13 @@
 ### Needs to install pandoc and context (less than full texlive)
 ### and then run make all
 
+ghc: 8.0
+
 install:
   - sudo apt-get -qq update
   - sudo apt-get install -y context
-  - sudo apt-get install -y haskell-platform
   - cabal update
-  - cabal install pandoc --enable-tests --force-reinstall
+  - cabal install pandoc --enable-tests
 
 script:
   make all-no-tei
