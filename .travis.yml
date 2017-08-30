@@ -4,7 +4,9 @@
 install:
   - sudo apt-get -qq update
   - sudo apt-get install -y context
-  - sudo apt-get install -y pandoc
+  - sudo apt-get install -y haskell-platform
+  - cabal update
+  - cabal install pandoc ‐-enable-tests
 
 script:
   make all-no-tei
