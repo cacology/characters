@@ -6,6 +6,9 @@ language: R
 pandoc_version: 1.19
 cache: packages
 
+r:
+  - release
+
 script:
   - make all
 
