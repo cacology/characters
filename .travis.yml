@@ -2,7 +2,7 @@
 ### and then run make all
 
 language: R
-
+pandoc_version: 1.19
 
 script:
   make all
