@@ -1,17 +1,11 @@
 ### Needs to install pandoc and context (less than full texlive)
 ### and then run make all
 
-language: haskell
-ghc: 8.0
+language: R
 
-install:
-  - sudo apt-get -qq update
-  - sudo apt-get install -y context
-  - cabal update
-  - cabal install pandoc --enable-tests
 
 script:
-  make all-no-tei
+  make all
 
 notifications:
   email: false
