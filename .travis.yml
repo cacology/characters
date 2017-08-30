@@ -9,6 +9,8 @@ cache: packages
 r:
   - release
 
+install:
+  
 script:
   - make all
 
