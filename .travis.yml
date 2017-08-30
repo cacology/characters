@@ -1,6 +1,7 @@
 ### Needs to install pandoc and context (less than full texlive)
 ### and then run make all
 
+language: haskell
 ghc: 8.0
 
 install:
