@@ -1,8 +1,10 @@
 ### Needs to install pandoc and context (less than full texlive)
 ### and then run make all
 
+sudo: false
 language: R
 pandoc_version: 1.19
+cache: packages
 
 script:
   make all
