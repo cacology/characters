@@ -7,7 +7,7 @@ pandoc_version: 1.19
 
 install:
   - pip install --user pandocfilters
-  - tlmgr install collection-context
+  - tlmgr install collection-context collection-fonts-extra collection-fonts-recommended
   
 script:
   - make all
