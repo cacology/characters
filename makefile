@@ -5,12 +5,12 @@ test : ; @echo $(source-mds)
 
 .PHONY : all
 all : build/mds build/remove-empty-mds
-	$(MAKE) build/pdfs-from-mds build/html-from-mds build/tei-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.xml build/complete/text.docx build/complete/text.txt
+	$(MAKE) build/pdfs-from-mds build/html-from-mds build/tei-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.xml build/complete/text.docx build/complete/text.txt index.html
 	$(MAKE) clean
 
 .PHONE : all-no-tei
 all-no-tei : build/mds build/remove-empty-mds
-	$(MAKE) build/pdfs-from-mds build/html-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.docx build/complete/text.txt
+	$(MAKE) build/pdfs-from-mds build/html-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.docx build/complete/text.txt index.html
 	$(MAKE) clean
 
 
