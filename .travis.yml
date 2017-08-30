@@ -2,14 +2,12 @@
 ### and then run make all
 
 sudo: false
-language: R
+language: r
 pandoc_version: 1.19
-cache: packages
-
-r:
-  - release
 
 install:
+  - pip install --user pandocfilters
+  - tlmgr install context
   
 script:
   - make all
@@ -24,3 +22,7 @@ deploy:
   on:
     branch: master
     target_branch: gh-pages
+
+cache:
+  - packages
+  - pip
