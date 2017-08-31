@@ -126,8 +126,8 @@ VaCvJPSA] [[html](build/html/150-152_A_Curious_Man.html) [pdf](build/pdfs/150-15
 [markdown](https://github.com/cacology/characters/blob/gh-pages/build/character-mds/153-154_A_Ranter.md) [text](build/txt/153-154_A_Ranter.txt) [TEI XML](build/xml/153-154_A_Ranter.xml)]
 
 155 (L6^r^): [*two rules*] \| A \| CORRUPT JUDGE [**155 (L6^r^)**:
-VaCvJPSA] [[html](build/html/155-157_A_Corrupt_judge.html) [pdf](build/pdfs/155-157_A_Corrupt_judge.pdf) [docx](build/docx/155-157_A_Corrupt_judge.docx)
-[markdown](https://github.com/cacology/characters/blob/gh-pages/build/character-mds/155-157_A_Corrupt_judge.md) [text](build/txt/155-157_A_Corrupt_judge.txt) [TEI XML](build/xml/155-157_A_Corrupt_judge.xml)]
+VaCvJPSA] [[html](build/html/155-157_A_Corrupt_Judge.html) [pdf](build/pdfs/155-157_A_Corrupt_Judge.pdf) [docx](build/docx/155-157_A_Corrupt_Judge.docx)
+[markdown](https://github.com/cacology/characters/blob/gh-pages/build/character-mds/155-157_A_Corrupt_Judge.md) [text](build/txt/155-157_A_Corrupt_Judge.txt) [TEI XML](build/xml/155-157_A_Corrupt_Judge.xml)]
 
 158 (L7^v^): [*two rules*] \| AN \| AMORIST [**158 (L7^v^)**: VaCvJPSA]
 [[html](build/html/158-159_An_Amorist.html) [pdf](build/pdfs/158-159_An_Amorist.pdf) [docx](build/docx/158-159_An_Amorist.docx)
