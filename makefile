@@ -5,21 +5,21 @@ test : ; @echo $(source-mds)
 
 .PHONY : all
 all : build/mds build/remove-empty-mds
-	$(MAKE) build/pdfs-from-mds build/html-from-mds build/tei-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.xml build/complete/text.docx build/complete/text.txt index.html
+	$(MAKE) build/pdfs-from-mds build/html-from-mds build/tei-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.xml build/complete/text.docx build/complete/text.txt index.md
 	$(MAKE) clean
 
 .PHONE : all-no-tei
 all-no-tei : build/mds build/remove-empty-mds
-	$(MAKE) build/pdfs-from-mds build/html-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.docx build/complete/text.txt index.html
+	$(MAKE) build/pdfs-from-mds build/html-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.docx build/complete/text.txt index.md
 	$(MAKE) clean
 
 
 #insert a "pagebreak.md" between each page and name file better
 %.mds :
-#experiment in creating unique ids for md, but pre-parsing causes problems
-#	find $(@D) -name "*.md" -print | xargs -I % -L 1 pandoc -t markdown --id-prefix $(@D) % lib/pagebreak.md > character-mds/$(subst text/,,$(@D)).md
-#	find $(@D) -name "*.md" -print0 | xargs -0 -I {file} -L 1 cat {file} lib/pagebreak.md > build/character-mds/$(subst text/,,$(@D)).md
 	./build-mds.sh $(@D)
+
+index.md : index-source.md
+	pandoc -f markdown -t markdown_github --smart index-source.md -o index.md
 
 %.pdf : %.tex
 	context --result=$@ $<
@@ -92,3 +92,4 @@ cleanall : clean
 	find build/txt \( -name "*.txt" \) -delete
 	find build/xml \( -name "*.xml" \) -delete
 	find build/complete \( -name "*.pdf" -o -name "*.html" -o -name "*.md" -o -name "*.txt" -o -name "*.xml" -o -name "*.docx" \) -delete
+	find index.md -delete
