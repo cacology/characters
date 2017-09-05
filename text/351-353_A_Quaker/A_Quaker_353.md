@@ -7,7 +7,7 @@ Kind of ſpiritual Palſy, that proceeds from a\
 Diſtemper in the Brain, where the Nerves are\
 rooted.  They abhor the Church of *England*,\
 but conform exactly with thoſe primitive Fa-\
-theres of their Church, that heretofore gave An-\
+thers of their Church, that heretofore gave An-\
 ſwers at the *Devil*’s Oracles, in which they ob-\
 ſerved the very ſame Ceremony of quaking and\
 and gaping now practiſed by our modern En_\

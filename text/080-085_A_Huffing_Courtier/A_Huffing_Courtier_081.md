@@ -19,7 +19,7 @@ his Body.  His looking big is rather a Tumor,\
 than Greatneſs.  He is an Idol, that has juſt\
 ſo much Value, as other Men give him that\
 believe in him, but none of his own.  He\
-makes him Ignorance paſs for Reſerve, and, like\
+makes his Ignorance paſs for Reſerve, and, like\
 a Hunting-nag, leaps over what he cannot get\
 through.  He has juſt ſo much of Politics, as\
 Hoſtlers in the Univerſity have *Latin*.  He is\

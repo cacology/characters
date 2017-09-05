@@ -5,7 +5,7 @@ Fornicators find a Lechery in being whipt ;\
 and has no Ambition but to go to Heaven in\
 what he calls a fiery Chariot, that is, a Wood-\
 monger’s Faggot Cart.  You may perceive he\
-has a Crack in his Skill by the flat Twang of\
+has a Crack in his Skull by the flat Twang of\
 his Noſe, and the great Care he takes to keep\
 his Hat on, leſt his ſickly Brains, if he have\
 any, ſhould take Cold at it.  He believes his\
