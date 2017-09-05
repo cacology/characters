@@ -13,8 +13,8 @@ becaus*e he was born in it, and like a Bas*tard,\
 he is as*hamed of his Mother, becaus*e s*he is of\
 him. He is a Merchant, that makes Voyages\
 into foreign Nations, to drive a Trade in Wis*-\
-dom and Politics, and is is not for his Credit\
-to have it thoughts, he has made an ill Return,\
+dom and Politics, and it is not for his Credit\
+to have it thought, he has made an ill Return,\
 which mus*t be, if he s*hould allow of any of\
 the Growth of his own Country.  This makes\
 him quick and blow up hims*elf with Admira-\

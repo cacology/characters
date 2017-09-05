@@ -1,5 +1,5 @@
 does into his Form of Matrimony. He con-
-verſes, as Angela are ſaid to do, by Intuition,
+verſes, as Angels are ſaid to do, by Intuition,
 and expreſſes himſelf by Sighs moſt ſignificant-
 ly.  He follows his Viſits, as Men do their
 Buſineſs, and is very induſtrious in waiting on

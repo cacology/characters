@@ -15,7 +15,7 @@ back again to his own, where he finds ſo kind/
 a Reception, that he wonders how he does/
 fail of it every where elſe.  His Paſſion is as/
 eaſily ſet on Fire as a Fart, and as ſoon out/
-again. He is charged an primed with Love-/
+again. He is charged and primed with Love-/
 Powder like a Gun, and the leaſt Sparkle of an/
 Eye gives Fire to him, and off he goes, but/
 ſeldom, or never, hits the Mark.  He has com-/

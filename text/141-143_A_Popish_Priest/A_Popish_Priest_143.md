@@ -14,6 +14,6 @@ reckoned; but never minds whether he plays\
 fair or not. He s*ells Indulgences, like (i) Lockier's (i)\
 Pills, with Directions how they are to be taken.\
 He is but a Copyholder of the (i) Catholic (i) Church,\
-that claims by Cus*tom. He believes that (i) Pope's (i)\
+that claims by Cus*tom. He believes the (i) Pope's (i)\
 Chain is fas*tened to the Gates of Heaven, like\
 King (i) Harry's (i) in the Privy-Gallery./ 

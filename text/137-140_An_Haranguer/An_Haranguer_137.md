@@ -5,14 +5,14 @@
 #Center AN\
 Center HARANGUER
 
-[I]s one, that is s*o delighted with the s*weet/ 
+[I]s one, that is s*o delighted with the s*weet/
 [I] Sound of his own Tongue, that [i] William\
 Prynne [i] will s*ooner lend an Ear, than he, to any\
 Thing els*e. His Meas*ure of Talk is till his\
 Wind is s*pent; and then he is not s*ilenced,\
 but becalmed. His Ears have catched the\
 Itch of his Tonuge, and though he s*cratch\
-them, like a Deas*t with his Hoof, he finds a\
+them, like a Beas*t with his Hoof, he finds a\
 Pleas*ure in it. A [i] s*ilenced Minis*ter, [i] has more\
 Mercy on the Government in a s*ecure Conven-\
 ticle, than he has on the Company, that he is\

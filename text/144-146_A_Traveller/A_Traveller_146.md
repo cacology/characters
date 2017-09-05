@@ -15,7 +15,7 @@ wondrous Progres*s into Knowledge by riding\
 with a Mes*s*enger, and advance In Politics by\
 mounting of a Mule, run through all Sorts of\
 Learning in a Waggon, and found all Depths\
-of Arts in  Felucca, ride pos*t into the Secrets\
+of Arts in Felucca, ride pos*t into the Secrets\
 of all States, and grow acquainted with their\
 clos*e Des*igns in Inns and Hos*tleries; for cer-\
 tainly there is great Virtue in Highways and\

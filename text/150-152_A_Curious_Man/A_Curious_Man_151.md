@@ -14,7 +14,7 @@ of his Rarities. He s*o much affects Singula-\
 rity, that rather than follow the Fas*hion, that\
 is us*ed by the res*t of the World, he will wear\
 dis*s*enting Cloaths with odd fantas*tic Devices\
-to dis*tinguish hims*elf form others, like Marks\
+to dis*tinguish hims*elf from others, like Marks\
 s*et upon Cattle. He cares not what Pains he\
 throws away upon the meanes*t Trifle, s*o it be\
 but s*trange, while s*ome pity, and others laugh\

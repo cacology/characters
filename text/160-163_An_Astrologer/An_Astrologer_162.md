@@ -21,6 +21,6 @@ palming *ſextile, quartile,* and *trine,* like *ſize,*\
 *quater, trois,* can throw what chance he\
 pleaſes.  He ſets a Figure, as Cheats do a Main\
 at Hazard ; and Gulls throw away their Money\
-at it.  He festches the Grounds of his Art ſo\
+at it.  He fetches the Grounds of his Art ſo\
 far off, as well from Reaſon, as the Stars, that,\
 like a Traveller, he is allowed to lye by Au-\

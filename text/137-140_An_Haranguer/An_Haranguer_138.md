@@ -9,11 +9,11 @@ than a dozen s*tanding ones. He will hold any\
 Argument rather than his Tongue, and main-\
 tain both s*ides at his own Charge; for he will\
 tell you what you will s*ay, though, perhaps,\
-he does not intende to give you leave. He\
+he does not intend to give you leave. He\
 lugs Men by the Ears, as they correct Children\
 in [i] Scotland, [i] and will make them tingle, while\
 he talks with them, as s*ome s*ay they will do,\
-whena  Man is talked of in his Abs*ence. When\
+when a  Man is talked of in his Abs*ence. When\
 he talks to a Man, he comes up clos*e to him,\
 and like an old Solider lets fly in his Face, or\
 claps the Bore of his Pis*tol to his Ear, and\

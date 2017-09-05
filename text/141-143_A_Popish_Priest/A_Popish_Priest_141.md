@@ -19,7 +19,7 @@ His Profes*s*ion is to dis*guise hims*elf, which he\
 does in Sheeps-Cloathing, that is, a Lay Habit ;\
 but whether, as a Wolf, a Thief or a Shep-\
 herd, is a great Question ; only this is certain,\
-that he had rather hanv one Sheep out of ano-\
+that he had rather have one Sheep out of ano-\
 ther Man's Fold, that two out of his own.\
 He gathers his Church as (i) Fantaics do, yet des*-\
 pis*es them for it, and keeps his Flock always in\

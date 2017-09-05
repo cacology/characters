@@ -5,7 +5,7 @@ terrible to Dogs and Cats, as he is to all that\
 know him. His Way of Argument is to talk\
 all, and hear to Contradiction. Firs*t he gives\
 his Antagonis*t the Length of the Wind, and\
-then, let him make his Approaches inf he can,\
+then, let him make his Approaches if he can,\
 he is s*ure to be beforehand with him. Of all\
 dis*s*olute Dis*eas*es the Running of the Tongue is\
 the wors*t, and the hardes*t to be cured. If he\

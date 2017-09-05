@@ -1,7 +1,7 @@
 #center A TRAVELLER. #justify left 145\
 for his whole Return of Wis*dom proves to be\
 but Affectation, a peris*hable Commodity, which\
-he will never be able to put off. He velieve\
+he will never be able to put off. He believes\
 all Men's Wits are at a s*tand, that s*tay at\
 Home, and only thos*e advanced, that travel ;\
 as if Change of Pas*ture did make great Politi-\
