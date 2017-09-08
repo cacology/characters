@@ -5,12 +5,12 @@ test : ; @echo $(source-mds)
 
 .PHONY : all
 all : build/mds build/remove-empty-mds
-	$(MAKE) build/pdfs-from-mds build/html-from-mds build/tei-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.xml build/complete/text.docx build/complete/text.txt
+	$(MAKE) build/pdfs-from-mds build/html-from-mds build/tei-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.xml build/complete/text.docx build/complete/text.txt index.md
 	$(MAKE) clean
 
 .PHONE : all-no-tei
 all-no-tei : build/mds build/remove-empty-mds
-	$(MAKE) build/pdfs-from-mds build/html-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.docx build/complete/text.txt
+	$(MAKE) build/pdfs-from-mds build/html-from-mds build/txt-from-mds build/docx-from-mds build/complete/text.pdf build/complete/text.html build/complete/text.docx build/complete/text.txt index.md
 	$(MAKE) clean
 
 
@@ -18,11 +18,10 @@ all-no-tei : build/mds build/remove-empty-mds
 %.mds :
 	./build-mds.sh $(@D)
 
-#currently broken until Pandoc issue is fixed see
-#https://github.com/jgm/pandoc/issues/3887 and generate
-#the index by hand until then
+# until pandoc is updated, manually alter the pipe character to \|
 index.md : index-source.md
 	pandoc -f markdown -t markdown_github --smart index-source.md -o index.md
+	echo "Until Pandoc is updated, check index.md to make sure \| appears rather than |"
 
 %.pdf : %.tex
 	context --result=$@ $<
@@ -95,4 +94,4 @@ cleanall : clean
 	find build/txt \( -name "*.txt" \) -delete
 	find build/xml \( -name "*.xml" \) -delete
 	find build/complete \( -name "*.pdf" -o -name "*.html" -o -name "*.md" -o -name "*.txt" -o -name "*.xml" -o -name "*.docx" \) -delete
-#	find index.md -delete  BROKEN, see above for the build command
+	find index.md -delete  BROKEN, see above for the build command
