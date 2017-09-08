@@ -1,0 +1,6 @@
+"Character_Alderman.txt.lnk" "Character_Amorist.txt.lnk" "Character_Antiquary.txt.lnk" "Character_Astrologer.txt.lnk" "Character_Bankrupt.txt.lnk" "Character_Catholic.txt.lnk" "Character_CorruptJudge.txt.lnk" "Character_CuriousMan.txt.lnk" "Character_Fantastic.txt.lnk" "Character_FifthMonarchyMan.txt.lnk" "Character_Haranguer.txt.lnk" "Character_HenpectMan.txt.lnk" "Character_HuffingCourtier.txt.lnk" "Character_Imitator.txt.lnk" "Character_ImpudentMan.txt.lnk" "Character_Lover.txt.lnk" "Character_MelancholyMan.txt.lnk" "Character_PopishPriest.txt.lnk" "Character_ProudMan.txt.lnk" "Character_Quaker.txt.lnk" "Character_Quibbler.txt.lnk" "Character_Ranter.lnk" "Character_Ribald.lnk" "Character_Traveller.lnk" "Character_Vitner.lnk" "Character_Wooer.lnk"
+"l" 100 100 16.6666666666667 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+"ó" 0 0 33.3333333333333 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"a" 0 0 16.6666666666667 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"î" 0 0 16.6666666666667 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"øƒa" 0 0 16.6666666666667 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
