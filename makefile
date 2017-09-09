@@ -25,7 +25,7 @@ analysis/%.mds :
 #[^\\] is not \ and \1 whatever that was 
 index.md : index-source.md
 	pandoc -f markdown -t markdown_github --smart index-source.md -o index.md
-	sed -i '' 's/\([^\\]\)|/\1\\|/g' index.md
+	sed -i 's/\([^\\]\)|/\1\\|/g' index.md
 
 %.pdf : %.tex
 	context --result=$@ $<
