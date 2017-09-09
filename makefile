@@ -20,9 +20,10 @@ all-no-tei : build/mds build/remove-empty-mds
 	./build-mds.sh $(@D)
 
 # until pandoc is updated, manually alter the pipe character to \|
+#[^\\] is not \ and \1 whatever that was 
 index.md : index-source.md
 	pandoc -f markdown -t markdown_github --smart index-source.md -o index.md
-	echo "Until Pandoc is updated, check index.md to make sure \| appears rather than |"
+	sed -i '' 's/\([^\\]\)|/\1\\|/g' index.md
 
 %.pdf : %.tex
 	context --result=$@ $<
