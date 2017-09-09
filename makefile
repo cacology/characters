@@ -106,10 +106,12 @@ clean :
 
 .PHONY : cleanall
 cleanall : clean
-	find build/html \( -name "*.html" \) -delete
-	find build/text-mds \( -name "*.md" \) -delete
-	find build/analysis-mds \( -name "*.md" \) -delete
-	find build/composite-mds \( -name "*.md" \) -delete
+	find build/html -name "*.html" -delete
+	find build/text-mds -name "*.md" -delete
+	find build/analysis-mds -name "*.md" -delete
+	find build/composite-mds -name "*.md" -delete
+	find build/composite-pdfs -name "*.pdf" -delete
+	find build/composite-html -name "*.html" -delete
 	find build \( -name mds -o -name pdfs-from-mds -o -name html-from-mds -o -name tei-from-mds -o -name txt-from-mds -o -name docx-from-mds \) -delete
 	find build/pdfs \( -name "*.pdf" \) -delete
 	find build/docx \( -name "*.docx" \) -delete
