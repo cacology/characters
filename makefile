@@ -1,7 +1,8 @@
 target-characters := $(wildcard text/*/)
 source-mds := $(wildcard build/character-mds/*.md)
 
-test : ; @echo $(source-mds)
+source-list : ; @echo $(source-mds)
+target-list : ; @echo $(target-characters)
 
 .PHONY : all
 all : build/mds build/remove-empty-mds
@@ -94,4 +95,4 @@ cleanall : clean
 	find build/txt \( -name "*.txt" \) -delete
 	find build/xml \( -name "*.xml" \) -delete
 	find build/complete \( -name "*.pdf" -o -name "*.html" -o -name "*.md" -o -name "*.txt" -o -name "*.xml" -o -name "*.docx" \) -delete
-	find index.md -delete  BROKEN, see above for the build command
+	find index.md -delete
