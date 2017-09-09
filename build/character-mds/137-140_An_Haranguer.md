@@ -5,14 +5,14 @@
 #Center AN\
 Center HARANGUER
 
-[I]s one, that is s*o delighted with the s*weet/ 
+[I]s one, that is s*o delighted with the s*weet/
 [I] Sound of his own Tongue, that [i] William\
 Prynne [i] will s*ooner lend an Ear, than he, to any\
 Thing els*e. His Meas*ure of Talk is till his\
 Wind is s*pent; and then he is not s*ilenced,\
 but becalmed. His Ears have catched the\
 Itch of his Tonuge, and though he s*cratch\
-them, like a Deas*t with his Hoof, he finds a\
+them, like a Beas*t with his Hoof, he finds a\
 Pleas*ure in it. A [i] s*ilenced Minis*ter, [i] has more\
 Mercy on the Government in a s*ecure Conven-\
 ticle, than he has on the Company, that he is\
@@ -39,11 +39,11 @@ than a dozen s*tanding ones. He will hold any\
 Argument rather than his Tongue, and main-\
 tain both s*ides at his own Charge; for he will\
 tell you what you will s*ay, though, perhaps,\
-he does not intende to give you leave. He\
+he does not intend to give you leave. He\
 lugs Men by the Ears, as they correct Children\
 in [i] Scotland, [i] and will make them tingle, while\
 he talks with them, as s*ome s*ay they will do,\
-whena  Man is talked of in his Abs*ence. When\
+when a  Man is talked of in his Abs*ence. When\
 he talks to a Man, he comes up clos*e to him,\
 and like an old Solider lets fly in his Face, or\
 claps the Bore of his Pis*tol to his Ear, and\
@@ -69,7 +69,7 @@ terrible to Dogs and Cats, as he is to all that\
 know him. His Way of Argument is to talk\
 all, and hear to Contradiction. Firs*t he gives\
 his Antagonis*t the Length of the Wind, and\
-then, let him make his Approaches inf he can,\
+then, let him make his Approaches if he can,\
 he is s*ure to be beforehand with him. Of all\
 dis*s*olute Dis*eas*es the Running of the Tongue is\
 the wors*t, and the hardes*t to be cured. If he\
@@ -98,7 +98,7 @@ over, and are thrown away to no Purpos*e; and\
 140 #Center AN HARANGUER.\
 s*o empty of Things, or Sens*e, that his Dry-\
 nes*s has made his Leaks s*o wide, whats*oever is\
-put in hi runs out immediately. He is s*o\
+put in him runs out immediately. He is s*o\
 long in delivering hims*elf, that thos*e that hear\
 him des*ire to be delivered too, or dis*patched\
 out of their Pain. He makes his Dis*course the\

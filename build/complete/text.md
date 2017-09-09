@@ -22,8 +22,6 @@ Butler *has equalled or excelled them, and what*\
 *ſelf, as they have all attempted to draw the ſame*\
 *Pictures.*\
 
-[*a test to see if it deploys*]
-
 
 ---
 
@@ -98,7 +96,7 @@ his Body.  His looking big is rather a Tumor,\
 than Greatneſs.  He is an Idol, that has juſt\
 ſo much Value, as other Men give him that\
 believe in him, but none of his own.  He\
-makes him Ignorance paſs for Reſerve, and, like\
+makes his Ignorance paſs for Reſerve, and, like\
 a Hunting-nag, leaps over what he cannot get\
 through.  He has juſt ſo much of Politics, as\
 Hoſtlers in the Univerſity have *Latin*.  He is\
@@ -252,32 +250,32 @@ Time in collecting old inſignificant Trifles,\
 ---
 
 
-and the other in ſhewing them, which he takes\
-ſingular Delight in ; becauſe the oftener he does\
-it, the further they are from being new to him.\
-All his Curiouſities take place of one another\
-according to their Seniority, and he values\
-them not by their Abilities, but their Standing.\
-He has a great Veneration for Words that are\
-ſtricken in Years, and are grown ſo aged, that\
-they have out-lived their Employments---Theſe\
-he uſes with a Reſpect agreeable to their An-\
-tiquity, and the good Services they have done.\
-He throws away his Time in enquiring after\
-that which is paſt and gone ſo many Ages ſince,\
-like one that ſhoots away an Arrow, to find\
-out another that was loſt before.  He fetches\
-things out of Duſt and Ruins, like the Fable\
-of the chymical Plant raiſed out of its own\
-Aſhes.  He values one old Invention, that is\
-loſt and never to be recovered, before all the\
-new ones in the World, tho’ never ſo uſeful.\
-The whole Buſineſs of his Life is the ſame with\
-his, that ſhows the Tombs at *Westminster*, only\
-the one does it for his Pleaſure, and the other\
-for Money.  As every Man has but one Fa-\
-ther, but two Grand-Fathers and a World\
-of Anceſtors ; ſo he has a proportional Value\
+  and the other in ſhewing them, which he takes\
+  ſingular Delight in ; becauſe the oftener he does\
+  it, the further they are from being new to him.\
+  All his Curiouſities take place of one another\
+  according to their Seniority, and he values\
+  them not by their Abilities, but their Standing.\
+  He has a great Veneration for Words that are\
+  ſtricken in Years, and are grown ſo aged, that\
+  they have out-lived their Employments---Theſe\
+  he uſes with a Reſpect agreeable to their An-\
+  tiquity, and the good Services they have done.\
+  He throws away his Time in enquiring after\
+  that which is paſt and gone ſo many Ages ſince,\
+  like one that ſhoots away an Arrow, to find\
+  out another that was loſt before.  He fetches\
+  things out of Duſt and Ruins, like the Fable\
+  of the chymical Plant raiſed out of its own\
+  Aſhes.  He values one old Invention, that is\
+  loſt and never to be recovered, before all the\
+  new ones in the World, tho’ never ſo uſeful.\
+  The whole Buſineſs of his Life is the ſame with\
+  his, that ſhows the Tombs at *Westminster*, only\
+  the one does it for his Pleaſure, and the other\
+  for Money.  As every Man has but one Fa-\
+  ther, but two Grand-Fathers and a World\
+  of Anceſtors ; ſo he has a proportional Value\
 
 
 ---
@@ -530,6 +528,36 @@ but tug like a Slave at the Oar.  The little\
 ---
 
 
+<<<<<<< HEAD
+
+Wit he has being held *in capite* has rendered all/
+the reſt of his Concerments liable to Pupi-/
+lage and Wardſhip, and his Wife has the/
+Tuition of his during his or her Life; and/
+he has no Power to do any Thing of himſelf,/
+but by his Guardian. His Wife manages him/
+and his Eſtate with equal Authority, and he/
+lives under her aribtrary Government and Com-/
+mand as his ſuperior Officer. He is but a kind/
+of Meſſuage and Tenement in the Occupation/
+of his Wife. He and ſhe make up a Kind of/
+ Hermaphrodite, a Monſter, or which the one/
+ half is more than the whole; for he is the/
+ weaker Veſſel, and but his Wife's Helper. His/
+ Wife eſpouſed and took him to Huſband for/
+ better or worſe, and the laſt Word ſtands./
+ He was meant to be his Wife's Head, but being/
+ ſet on at the wrong End ſhe makes him ſerve/
+ (like the Jeſuits Devil) for her Feet. He is her/
+ Province, an Acquiſition that ſhe took in,/
+ and gives Laws to at Indiſcretion; for being/
+ overmatched and too feeble for the Encounter,/
+ he was forced to ſubmit and take Quarter./
+ He has inverted the Curſe, and turned it upon/
+ himſelf; for his Deſire is towards his Wife,/
+ and ſhe reign over him and with *Eſau* has/
+ ſold his Birthright for a Meſs of Matrimony./
+=======
 Wit he has being held *in capite* has rendered all\
 the reſt of his Concerments liable to Pupi-\
 lage and Wardſhip, and his Wife has the\
@@ -557,6 +585,7 @@ He has inverted the Curſe, and turned it upon\
 himſelf ; for his Deſire is towards his Wife,\
 and ſhe reign over him, and with *Eſau* has\
 ſold his Birthright for a Meſs of Matrimony.\
+>>>>>>> 159ee409900c95c1506e687c9b8acc6310246559
 
 
 ---
@@ -1467,14 +1496,14 @@ a natural Obedience from their Inferiors.\
 #Center AN\
 Center HARANGUER
 
-[I]s one, that is s*o delighted with the s*weet/ 
+[I]s one, that is s*o delighted with the s*weet/
 [I] Sound of his own Tongue, that [i] William\
 Prynne [i] will s*ooner lend an Ear, than he, to any\
 Thing els*e. His Meas*ure of Talk is till his\
 Wind is s*pent; and then he is not s*ilenced,\
 but becalmed. His Ears have catched the\
 Itch of his Tonuge, and though he s*cratch\
-them, like a Deas*t with his Hoof, he finds a\
+them, like a Beas*t with his Hoof, he finds a\
 Pleas*ure in it. A [i] s*ilenced Minis*ter, [i] has more\
 Mercy on the Government in a s*ecure Conven-\
 ticle, than he has on the Company, that he is\
@@ -1501,11 +1530,11 @@ than a dozen s*tanding ones. He will hold any\
 Argument rather than his Tongue, and main-\
 tain both s*ides at his own Charge; for he will\
 tell you what you will s*ay, though, perhaps,\
-he does not intende to give you leave. He\
+he does not intend to give you leave. He\
 lugs Men by the Ears, as they correct Children\
 in [i] Scotland, [i] and will make them tingle, while\
 he talks with them, as s*ome s*ay they will do,\
-whena  Man is talked of in his Abs*ence. When\
+when a  Man is talked of in his Abs*ence. When\
 he talks to a Man, he comes up clos*e to him,\
 and like an old Solider lets fly in his Face, or\
 claps the Bore of his Pis*tol to his Ear, and\
@@ -1531,7 +1560,7 @@ terrible to Dogs and Cats, as he is to all that\
 know him. His Way of Argument is to talk\
 all, and hear to Contradiction. Firs*t he gives\
 his Antagonis*t the Length of the Wind, and\
-then, let him make his Approaches inf he can,\
+then, let him make his Approaches if he can,\
 he is s*ure to be beforehand with him. Of all\
 dis*s*olute Dis*eas*es the Running of the Tongue is\
 the wors*t, and the hardes*t to be cured. If he\
@@ -1560,7 +1589,7 @@ over, and are thrown away to no Purpos*e; and\
 140 #Center AN HARANGUER.\
 s*o empty of Things, or Sens*e, that his Dry-\
 nes*s has made his Leaks s*o wide, whats*oever is\
-put in hi runs out immediately. He is s*o\
+put in him runs out immediately. He is s*o\
 long in delivering hims*elf, that thos*e that hear\
 him des*ire to be delivered too, or dis*patched\
 out of their Pain. He makes his Dis*course the\
@@ -1593,7 +1622,7 @@ His Profes*s*ion is to dis*guise hims*elf, which he\
 does in Sheeps-Cloathing, that is, a Lay Habit ;\
 but whether, as a Wolf, a Thief or a Shep-\
 herd, is a great Question ; only this is certain,\
-that he had rather hanv one Sheep out of ano-\
+that he had rather have one Sheep out of ano-\
 ther Man's Fold, that two out of his own.\
 He gathers his Church as (i) Fantaics do, yet des*-\
 pis*es them for it, and keeps his Flock always in\
@@ -1654,7 +1683,7 @@ reckoned; but never minds whether he plays\
 fair or not. He s*ells Indulgences, like (i) Lockier's (i)\
 Pills, with Directions how they are to be taken.\
 He is but a Copyholder of the (i) Catholic (i) Church,\
-that claims by Cus*tom. He believes that (i) Pope's (i)\
+that claims by Cus*tom. He believes the (i) Pope's (i)\
 Chain is fas*tened to the Gates of Heaven, like\
 King (i) Harry's (i) in the Privy-Gallery./ 
 
@@ -1677,8 +1706,8 @@ becaus*e he was born in it, and like a Bas*tard,\
 he is as*hamed of his Mother, becaus*e s*he is of\
 him. He is a Merchant, that makes Voyages\
 into foreign Nations, to drive a Trade in Wis*-\
-dom and Politics, and is is not for his Credit\
-to have it thoughts, he has made an ill Return,\
+dom and Politics, and it is not for his Credit\
+to have it thought, he has made an ill Return,\
 which mus*t be, if he s*hould allow of any of\
 the Growth of his own Country.  This makes\
 him quick and blow up hims*elf with Admira-\
@@ -1696,7 +1725,7 @@ pas*s, and retains only the Bran of Things;\
 #center A TRAVELLER. #justify left 145\
 for his whole Return of Wis*dom proves to be\
 but Affectation, a peris*hable Commodity, which\
-he will never be able to put off. He velieve\
+he will never be able to put off. He believes\
 all Men's Wits are at a s*tand, that s*tay at\
 Home, and only thos*e advanced, that travel ;\
 as if Change of Pas*ture did make great Politi-\
@@ -1741,7 +1770,7 @@ wondrous Progres*s into Knowledge by riding\
 with a Mes*s*enger, and advance In Politics by\
 mounting of a Mule, run through all Sorts of\
 Learning in a Waggon, and found all Depths\
-of Arts in  Felucca, ride pos*t into the Secrets\
+of Arts in Felucca, ride pos*t into the Secrets\
 of all States, and grow acquainted with their\
 clos*e Des*igns in Inns and Hos*tleries; for cer-\
 tainly there is great Virtue in Highways and\
@@ -1796,12 +1825,12 @@ an Article of Faith in the Church would make/
 a Plas*ter big enough for the Sore. His Faith/
 is too big for his Charity, and too unwieldy/
 to work Miracles ; but is able to believe more/
-than all the Sainst in Heave ever made.  He/
+than all the Saints in Heaven ever made.  He/
 worships Sainst in Effigie, as (i) Dutchmen (i) hand/
 abs*ent Malefactors ; and has s*o weak a Me-/
 mory, that he is apt to forget his Patrons,/
 unles*s their Pictures prevent him. He loves/
-so s*ee what he prays to, that he may not mis-/
+to s*ee what he prays to, that he may not mis-/
 take one Saint for another ; and his Beads and/
 Crucifix are the Tools of his Devotion, with-/
 out which it can do nothing. Nothing s*taggers/
@@ -1812,7 +1841,7 @@ thos*e that believed in them, which he knows/
 not how to unders*tand to be no Error. The/
 les*s he unders*tands of his Religion, the more/
 violent he is in it, which, being the perpetual/
-Condition of all thos*e are deluded, is a/ 
+Condition of all thos*e that are deluded, is a/
 
 
 ---
@@ -1892,7 +1921,7 @@ of his Rarities. He s*o much affects Singula-\
 rity, that rather than follow the Fas*hion, that\
 is us*ed by the res*t of the World, he will wear\
 dis*s*enting Cloaths with odd fantas*tic Devices\
-to dis*tinguish hims*elf form others, like Marks\
+to dis*tinguish hims*elf from others, like Marks\
 s*et upon Cattle. He cares not what Pains he\
 throws away upon the meanes*t Trifle, s*o it be\
 but s*trange, while s*ome pity, and others laugh\
@@ -1995,7 +2024,7 @@ Advice, when they are paid for it. He wraps\
 himſelf warm in Furs, that the cold Air may\
 not ſtrike his Conſcience inward.  He is never\
 an upright Judge, but when he is weary of\
-ſitting, and ſtands for his Eaſe.  Al the Uſe\
+ſitting, and ſtands for his Eaſe.  All the Uſe\
 he make of his Oath is to oppoſe it againſt\
 his Prince, for whoſe Service he firſt took it,\
 and to bind him with that, which he firſt pre-\
@@ -2051,37 +2080,37 @@ ceives./
 ---
 
 
-[*two rules*]
-
-#AN\
-AMORIST
-
-I^2^s an Artificer, or Maker of Love, a ſworn\
-Servant to all Ladies, like an Officer in a\
-Corporation. Though no one in particular\
-will own any Title to him, yet he never fails,\
-upon all Occaſions, to offer his Services, and\
-they as ſeldom to turnn it back again untouched.\
-He commits nothing with them, but himſelf to\
-their good Graces ; and they recommend him\
-back again to his own, where he finds ſo kind\
-a Reception, that he wonders how he does\
-fail of it every where elſe.  His Paſſion is as\
-eaſily ſet on Fire as a Fart, and as ſoon out\
-again. He is charged an primed with Love-\
-Powder like a Gun, and the leaſt Sparkle of an\
-Eye gives Fire to him, and off he goes, but\
-ſeldom, or never, hits the Mark.  He has com-\
-mon Places and Precedents of Repartees and\
-Letters for all Occaſions ; and falls as readily\
-into his Method of making love, as a Parſon\
+[*two rules*]/
+/
+#AN/
+#AMORIST/
+/
+I^2^s an Artificer, or Maker of Love, a ſworn/
+Servant to all Ladies, like an Officer in a/
+Corporation. Though no one in particular/
+will own any Title to him, yet he never fails,/
+upon all Occaſions, to offer his Services, and/
+they as ſeldom to turn it back again untouched./
+He commits nothing with them, but himſelf to/
+their good Graces ; and they recommend him/
+back again to his own, where he finds ſo kind/
+a Reception, that he wonders how he does/
+fail of it every where elſe.  His Paſſion is as/
+eaſily ſet on Fire as a Fart, and as ſoon out/
+again. He is charged and primed with Love-/
+Powder like a Gun, and the leaſt Sparkle of an/
+Eye gives Fire to him, and off he goes, but/
+ſeldom, or never, hits the Mark.  He has com-/
+mon Places and Precedents of Repartees and/
+Letters for all Occaſions ; and falls as readily/
+into his Method of making love, as a Parſon/
 
 
 ---
 
 
 does into his Form of Matrimony. He con-
-verſes, as Angela are ſaid to do, by Intuition,
+verſes, as Angels are ſaid to do, by Intuition,
 and expreſſes himſelf by Sighs moſt ſignificant-
 ly.  He follows his Viſits, as Men do their
 Buſineſs, and is very induſtrious in waiting on
@@ -2176,7 +2205,7 @@ palming *ſextile, quartile,* and *trine,* like *ſize,*\
 *quater, trois,* can throw what chance he\
 pleaſes.  He ſets a Figure, as Cheats do a Main\
 at Hazard ; and Gulls throw away their Money\
-at it.  He festches the Grounds of his Art ſo\
+at it.  He fetches the Grounds of his Art ſo\
 far off, as well from Reaſon, as the Stars, that,\
 like a Traveller, he is allowed to lye by Au-\
 
@@ -2191,6 +2220,77 @@ the ignorant Rabble believe in him, though\
 he has no more Reaſon for what he profeſſes,\
 than they.\
 
+
+---
+
+
+[*two rules*]#A\QUIBBLERI^2^s a Jugler of Words, that ſhows Tricks\with them, to make them appear what they\were not meant for, and ſerve two Senſes at\once, like one that plays on two *Jews* Trumps. \He is a Fencer of Language, that falſiſies his\Blow, and hits where he did not aim. He\Has a fooliſh Slight of Wit, that catches at\Words only, and lets the Senſe go, like the\young Thief in the Farce, that took a Purſe, \but gave the Owner his Money back again. \He is ſo well verſed in all Cafes of Quibble,\that he knows when there will be a Blot upon\a Word, as ſoon as it is out. He packs his\Quibbles like a Stock of Cards, let him but\ſhuffle, and cut where you will, he will be\ſure to have it.  He dances on a Rope of Sand,\does the *Somerſet*, *Strapado*, and half-ſlrapado\with Words, plays at all manner of Games\
+
+
+---
+
+
+with *Clinches*, *Carwickets*, and *Quibbles*, and\talks *under-Leg*. His Wit is left-handed, and\therefore what others mean for right, he ap-\prehends quite contrary. All his Conceptions\are produced by equivocal Generation, which\makes them juſtly eſteemed but Maggots. He\rings the Changes upon Words, and is ſo ex-\pert, that he can tell at firſt Sight, how\many Variations any Number of Words will\bear. He talks with a *Trillo*, and gives his\Words a double Reliſh. He had rather have\them bear two Senſes in vain and impertinent-\ly, than one to the Purpoſe, and never ſpeaks\without a Lere-Senſe. He talks nothing but\Equivocation and mental Reſervation, and\mightily affects to give a Word a double Stroke, \like a Tennis-Ball againſt two Walls at one\Blow, to defeat the Expectation of his An-\tagonift. He commonly ſlurs every fourth or\fifth Word, and ſeldom fails to throw Dou-\blets. There are two Sorts of Quibbling, the\one with Words, and the other with Senſe, \like the Rhetoricians *Figurae Dictionis & Figurae*\*Senteniae* — The firſt is already cried down,\[^1]: *Without a Lere-Serſe] A Lere-Sterſe* is a ſecond or supernume-\rary Scale, as a Led-Horſe was formerly called a Lere-Harſe, \See *Bailey’s* Dictionary. \
+
+
+---
+
+
+and the other as yet prevails; and is the only\Elegance of our modern Poets, which eaſy\Judges call *Eaſineſs*; but having nothing in it\But *Eaſineſs*, and being never uſed by any laſt-\ing Wit, will in wiſer Times fall to nothing of\itſselſ. \
+
+---
+
+
+[*two rules*] #A / WOOERS^2^TANDS Candidate for Cuckold, and if\he miſs of it, it is none of his Fault; for\his Merit is ſuſſiciently known. He is com\monly no Lover, but able to paſs for a moſt\deſperate one, where he finds it is like to prove\of conſiderable Advantage to him; and there-\fore has Paſſions lying by him of all Sizes pro-\portionable to all Women’s Fortunes, and can\be indifferent, melancholy, or ſtark-mad, ac-\cording as their Eſtates give him Occaſion; and\when he finds it is to no Purpoſe, can preſently\come to himſelf again, and try another. He\ proſecutes his Suit againſt his Miſtreſs as Clients\do a Suit in Law, and does nothing without\the Advice of his learned Council, omits no\Advantage for want of ſoliciting, and, when\He gets her Conſent, overthrows her. He en-\
+
+---
+
+
+deavors to match his Eſtate, rather than him-\ſelſ, to the beſt Advantage, and is his Miſ-\treſs’s Fortune and his do but come to an\Agreement, their Perſons are eaſily ſatisſied, the\Match is ſoon made up, and a Croſs Marriage\between all four is prefeſtly concluded. He is\not much concerned in his Lady’s Virtues, for if\the Opinion of the *Stoics* be true, *that the vir-*\*tuous are always rich*, there is no doubt, but ſhe\that is rich muſt be virtuous. He never goes\without a Liſt in his Pocket of all the Widows\and Virgins about the Town, with Particulars\of their Jointures, Portions, and Inheritances,\that if one miſs he may not be without a Re-\ſerve; for he eſteems *Cupid* very improvident,\if he has not more than two Strings to his\Bow. When he wants a better Introduction,\he begins his Addreſſes to the Chamber-maid,\like one that ſues the Tenant to eject the Land-\lord, and according as he thrives there makes\his Approaches to the Miſtreſs. He can tell\readily what the Difference is between Join-\Ture with Tution of Infant, Land and\Money of any Value, and what the Odds is\to a Penny between them all, either to take or\leave. He does not ſo much go a wooing as\put in his Claim, as if all Men of Fortune\
+
+---
+
+
+had a fair Title to all Women of the ſame\Quality, and therefore are ſaid to demand them\in Marriage. But if he be a Wooer of For-\tune, that deſigns to raiſe himſelſ by it, he\makes wooing his Vocation, deals with all\Matchmakers, that are his Setters, is very\painful in his Calling, and, if he Buſineſs ſucceed, \ſteals her away and commits Matri-\mony with a ſelonious Intent.  He has a great\deſire to beget Money on the Body of a Wo-\man, and as for other Iſſue is very indifferent,\and cares not how old ſhe be, ſo ſhe be not paſt\Money-bearing.\
+
+
+---
+
+
+[*two rules*]#An\Impudent Man^I^s one, whoſe want of Money and want of\Wit have engaged him beyond his Abilities.\The little Knowledge he has of himſelf being\ſuitable to the little he has in his Profeſſion has\Made him believe himſelf fit for it. This double\Ignorance has made him ſet a Value upon him-\ſelf, as he that wants a great deal appears in a\better Condition, than he that wants a little.\This renders him confident, and fit for any\Undertaking, and ſometimes (ſuch is the con-\current Ignorance of the World) he proſpers\In it, but oftner miſcarries, and becomes ri-\diculous; yet this Advantage he has, that as\nothing can make him ſee his Error, ſo he is\fortified with his Ignorance, as barren and\rocky Places are by their Situation, and he will\rather believe that all Men want Judgment,\
+
+---
+
+
+than himſelf. For as no Man is pleaſed, that\has an ill Opinion of himſelſ, Nature, that\finds out Remedies herſelf, and his own Eaſe\render him indefenſible of his Defects¬—From\hence he grows impudent; for as Men judge\by Compariſon, he knows as little what it is\To be defective, as what it is to be excellent.\Nothing renders Men modeſt, but a juſt Know-\ledge how to compare themſelves with others;\and where that is wanting, Impudence supplies\the Place of it: for there is no Vacuum in the\Minds of Men, and commonly, like other\Things in Nature, they ſwell more with Rare-\faction than Condenſation. The more Men\know of the World, the worſe Opinion they\have of it; and the more they underſtand of\Truth, they are better acquainted with the\Difficulties of it, and conſsequently are the leſs\confident in their Aſſertions, eſpecially in mat-\ters of Probability, which commonly is ſquint-\ey’d, and looks nine Ways at once. It is the\Office of a juſt Judge to hear both Parties, and\he that conſiders but the one Side of Things\can never make a juſt Judgment, though he\may by Chance a true one. Impudence is the\Baſtard of Ignorance, not only unlawfully,\
+
+
+---
+
+
+but inceſtouſsly begotten by a Man upon his\own Underſtanding, and laid by himſelſ at\his own Door, a Monſter of unnatural Pro-\duction; for Shame is as much the Propriety\of human Nature (though overſeen by the\Philoſsophers) and perhaps more than Reaſon,\Laughing, or looking aſquint, by which they\diſtinguish Man from Beaſts; and the leſs\Men have of it, the nearer they approach to\the Nature of Brutes. Modeſty is but a noble\Jealouſy of Honour, and Impudence the Proſ-\titution of it; for he, whoſe Face is proof\againſt Infamy, muſt be as little ſenſible of\Glory. His Forehead, like a voluntary Cuck-\old’s is by his Horns made Proof againſt a\Bluſh. Nature made Man barefaced, and civil\Cuſtom has preſerved him ſo; but he that’s im-\pudent does wear a Vizard more ugly and de-\formed than Highway Thieves diſguiſe them-\ſelves with. Shame is the tender moral Con-\ſcience of good Men. When there is a Crack\In the Skull, Nature herſelf with a tough horny\Callus repairs the Breach; ſo a flaw’d Intellect\ is with a brawny Callus Face ſupplied. The\Face is the Dial of the Mind; and where they\Do not go together, ‘tis a Sign, that one or\Both are out of Order. He that is impudent\
+
+
+---
+
+
+is like a Merchant, that trades upon his Cre-\dit without a Stock, and if his Debts were\known, would break immediately. The Inſide\of his Head is like the Outſide; and his Peruke\as naturally of his own Growth, as his Wit.\He paſſes in the World like a Piece of Counter-\feit Coin, looks well enough until he is rubbed\and worn with Uſe, and then his Copper Com-\plexion begins to appear, and nobody will take\Him, but by Owl-light.
+
+---
+
+
+[*two rules*]#An\Imitator^I^s a counterfeit Stone, and the larger and\fairer he appears the more apt he is to be\diſcovered, whilſt ſmall ones, that pretend to no great Value, paſs unſuſpected. He is made\like a Man in Arras-Hangings, after ſome great\Maſter’s Deſign, though far ſhort of the Ori\ginal. He is like a Spectrum or walking\Spirit that aſſumes the Shape of ſome particular\Peſson, and appears in the Likeneſs of ſome-\thing that he is not, becauſe he has no Shape\of his own to put on. He has a Kind of\Monkey and Baboon Wit, that takes after ſome\Man’s Way, whom he endeavors to imitate,\but does it worſse than thoſe Things that are na-\turally his own; for he does not learn but\take his Pattern out, as a Girl does her Sam-\pler. His whole Life is nothing but a Kind of\Education, and he is always learning to be\
+
+
+---
+
+
+ſomething that he is not, nor ever will be: For\Nature is free, and will not be forced out of\her Way, nor compelled to do any Thing\againſt her own Will and Inclination. He is\but a Retainer to Wit, and a Follower of his\Maſter, whoſe Badge he wears every where,\and therefore his Way is called *ſervile Imitation.*\His Fancy is like the innocent Lady’s; who by\looking on the Picture of a *Moor* that hung\in her Chamber conceived a Child of the ſame\Complexion; for all his Conceptions are pro-\duced by the Pictures of other Men’s Imagi-\nations, and by their Features betray whoſe\Baſtards they are. His Muſe is not inſpired\but infected with another Man’s Fancy; and\he catches his Wit, like the Itch, of ſomebody\elſe that had it before, and when he writes he\does but ſcratch himſelf. His Head is, like\his Hat, faſhioned upon a Block, and wrought\in a Shape of another Man’s Invention. He\melts down his Wit, and caſts it in a Mold:\and as metals melted and caſt are not ſo firm\and ſolid, as thoſe that are wrought with the \Hammer; ſo thoſe Compoſitions, that are\founded and run in other Men’s Molds, are\always more brittle and looſe than thoſe, that\are forged in a Man’s own Brain. He binds\
+
+---
+
+
+himſelf Prentice to a Trade, which he has no\Stock to ſet up with, if he ſhould ſerve out his\Time, and live to be made free. He runs a\whoring after another Man’s Inventions (for he\has none of his own to tempt him to an incon-\tinent Thought) and begets a Kind of Mun-\grel Breed, that never comes to good.\
 
 ---
 
@@ -2313,7 +2413,7 @@ Fornicators find a Lechery in being whipt ;\
 and has no Ambition but to go to Heaven in\
 what he calls a fiery Chariot, that is, a Wood-\
 monger’s Faggot Cart.  You may perceive he\
-has a Crack in his Skill by the flat Twang of\
+has a Crack in his Skull by the flat Twang of\
 his Noſe, and the great Care he takes to keep\
 his Hat on, leſt his ſickly Brains, if he have\
 any, ſhould take Cold at it.  He believes his\
@@ -2347,7 +2447,7 @@ Kind of ſpiritual Palſy, that proceeds from a\
 Diſtemper in the Brain, where the Nerves are\
 rooted.  They abhor the Church of *England*,\
 but conform exactly with thoſe primitive Fa-\
-theres of their Church, that heretofore gave An-\
+thers of their Church, that heretofore gave An-\
 ſwers at the *Devil*’s Oracles, in which they ob-\
 ſerved the very ſame Ceremony of quaking and\
 and gaping now practiſed by our modern En_\

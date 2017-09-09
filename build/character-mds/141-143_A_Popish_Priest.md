@@ -19,7 +19,7 @@ His Profes*s*ion is to dis*guise hims*elf, which he\
 does in Sheeps-Cloathing, that is, a Lay Habit ;\
 but whether, as a Wolf, a Thief or a Shep-\
 herd, is a great Question ; only this is certain,\
-that he had rather hanv one Sheep out of ano-\
+that he had rather have one Sheep out of ano-\
 ther Man's Fold, that two out of his own.\
 He gathers his Church as (i) Fantaics do, yet des*-\
 pis*es them for it, and keeps his Flock always in\
@@ -80,7 +80,7 @@ reckoned; but never minds whether he plays\
 fair or not. He s*ells Indulgences, like (i) Lockier's (i)\
 Pills, with Directions how they are to be taken.\
 He is but a Copyholder of the (i) Catholic (i) Church,\
-that claims by Cus*tom. He believes that (i) Pope's (i)\
+that claims by Cus*tom. He believes the (i) Pope's (i)\
 Chain is fas*tened to the Gates of Heaven, like\
 King (i) Harry's (i) in the Privy-Gallery./ 
 

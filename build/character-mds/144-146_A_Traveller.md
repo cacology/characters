@@ -13,8 +13,8 @@ becaus*e he was born in it, and like a Bas*tard,\
 he is as*hamed of his Mother, becaus*e s*he is of\
 him. He is a Merchant, that makes Voyages\
 into foreign Nations, to drive a Trade in Wis*-\
-dom and Politics, and is is not for his Credit\
-to have it thoughts, he has made an ill Return,\
+dom and Politics, and it is not for his Credit\
+to have it thought, he has made an ill Return,\
 which mus*t be, if he s*hould allow of any of\
 the Growth of his own Country.  This makes\
 him quick and blow up hims*elf with Admira-\
@@ -32,7 +32,7 @@ pas*s, and retains only the Bran of Things;\
 #center A TRAVELLER. #justify left 145\
 for his whole Return of Wis*dom proves to be\
 but Affectation, a peris*hable Commodity, which\
-he will never be able to put off. He velieve\
+he will never be able to put off. He believes\
 all Men's Wits are at a s*tand, that s*tay at\
 Home, and only thos*e advanced, that travel ;\
 as if Change of Pas*ture did make great Politi-\
@@ -77,7 +77,7 @@ wondrous Progres*s into Knowledge by riding\
 with a Mes*s*enger, and advance In Politics by\
 mounting of a Mule, run through all Sorts of\
 Learning in a Waggon, and found all Depths\
-of Arts in  Felucca, ride pos*t into the Secrets\
+of Arts in Felucca, ride pos*t into the Secrets\
 of all States, and grow acquainted with their\
 clos*e Des*igns in Inns and Hos*tleries; for cer-\
 tainly there is great Virtue in Highways and\

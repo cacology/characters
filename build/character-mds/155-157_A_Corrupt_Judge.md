@@ -12,7 +12,7 @@ Advice, when they are paid for it. He wraps\
 himſelf warm in Furs, that the cold Air may\
 not ſtrike his Conſcience inward.  He is never\
 an upright Judge, but when he is weary of\
-ſitting, and ſtands for his Eaſe.  Al the Uſe\
+ſitting, and ſtands for his Eaſe.  All the Uſe\
 he make of his Oath is to oppoſe it againſt\
 his Prince, for whoſe Service he firſt took it,\
 and to bind him with that, which he firſt pre-\

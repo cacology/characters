@@ -42,12 +42,12 @@ an Article of Faith in the Church would make/
 a Plas*ter big enough for the Sore. His Faith/
 is too big for his Charity, and too unwieldy/
 to work Miracles ; but is able to believe more/
-than all the Sainst in Heave ever made.  He/
+than all the Saints in Heaven ever made.  He/
 worships Sainst in Effigie, as (i) Dutchmen (i) hand/
 abs*ent Malefactors ; and has s*o weak a Me-/
 mory, that he is apt to forget his Patrons,/
 unles*s their Pictures prevent him. He loves/
-so s*ee what he prays to, that he may not mis-/
+to s*ee what he prays to, that he may not mis-/
 take one Saint for another ; and his Beads and/
 Crucifix are the Tools of his Devotion, with-/
 out which it can do nothing. Nothing s*taggers/
@@ -58,7 +58,7 @@ thos*e that believed in them, which he knows/
 not how to unders*tand to be no Error. The/
 les*s he unders*tands of his Religion, the more/
 violent he is in it, which, being the perpetual/
-Condition of all thos*e are deluded, is a/ 
+Condition of all thos*e that are deluded, is a/
 
 
 ---
