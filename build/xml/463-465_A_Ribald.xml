@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+    </titleStmt>
+    <publicationStmt>
+      <p></p>
+          </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>[<hi rendition="simple:italic">double rule</hi>]</p>
+<div type="level1">
+  <head>A<lb />RIBALD</head>
+  <p>I<hi rendition="simple:superscript">2</hi>S the Devil’s Hypocrite,
+  the endeavours to<lb />make himſelf appear worſe than he is.
+  His<lb />evil Words and bad Manners ſtrive which<lb />ſhall moſt
+  corrupt one another, and it is hard<lb />to ſay which has the
+  Advantage. He vents<lb />his Lechery at the Mouth, as ſome Fiſhes
+  are<lb />ſaid to engender. He is an unclean Beaſt that<lb />chews the
+  Cud ; for after he has ſatisfied his<lb />Lust, he brings it up again
+  into his Mouth<lb />to a ſecond Enjoyment, and plays an
+  After-<lb />game of Letchery with his Tongue much worſe<lb />than that
+  which the <hi rendition="simple:italic">Cunnilingi</hi> uſed among
+  the<lb />old <hi rendition="simple:italic">Romans.</hi> He ſtrips
+  Nature ſtark-naked, and<lb />clothes her in the moſt fantaſtic and
+  ridiculous<lb />Faſhion a wild Imagination can invent. He<lb />is
+  worſe and more naſty than a Dog ; for<lb />in his broad Deſcriptions
+  of others obſcene<lb />Actions he does but lick up the Vomit of
+  ano-<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>ther Man’s Surfeits. He tells Tales out of a<lb />vaulting School.
+  A leud baudy Tale does<lb />more Hurt, and gives a worſe Example
+  than<lb />the Thing of which it was told ; for the Act<lb />extends
+  but to a few, and if it be concealed<lb />goes no further ; but the
+  Report of it is un-<lb />limited, and may be conveyed to all
+  People,<lb />and all Times to come. He expoſes that with<lb />his
+  Tongue, which Nature gave Women Mo-<lb />deſty, and brute Beaſts Tails
+  to cover. He<lb />miſtakes Ribaldry for Wit, though nothing
+  is<lb />more unlike, and believes himſelf to be the<lb />finer Man the
+  filthier he talks ; as if he were<lb />above Civility, as
+  <hi rendition="simple:italic">Fanatics</hi> are above
+  Ordinan-<lb />ces, and held nothing more ſhameful than to
+  be<lb />aſhamed of any Thing. He talks nothing
+  but<lb /><hi rendition="simple:italic">Aretine</hi>’s Pictures, as
+  plain as the <hi rendition="simple:italic">Scotch</hi> Dia-<lb />lect,
+  which is eſteemed to be the moſt copious<lb />and elegant of the Kind.
+  He improves and<lb />huſbands his Sins to the beſt Advantage,<lb />and
+  makes one Vice find Employment for<lb />another ; for what he acts
+  looſely in private,<lb />he talks as looſely of in public, and finds
+  as<lb />much Pleaſure in the one as the other. He<lb />endeavours to
+  make himſelf Satisfaction for<lb />the Pangs his Claps and Botches put
+  him to with<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>vapouring and bragging how he came by<lb />them. He endeavours to
+  purchaſe himſelf a<lb />Reputation by pretending to that which
+  the<lb />beſt Men abominate, and the worſt value not,<lb />like one
+  that clips and waſhes falſe Coin, and<lb />ventures his Neck for that
+  which will yield<lb />him nothing.<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+</div>
+</body>
+</text>
+</TEI>

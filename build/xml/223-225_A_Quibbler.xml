@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+    </titleStmt>
+    <publicationStmt>
+      <p></p>
+          </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>[<hi rendition="simple:italic">two rules</hi>]</p>
+<div type="level1">
+  <head>A<lb />QUIBBLER</head>
+  <p>I<hi rendition="simple:superscript">2</hi>s a Jugler of Words, that
+  ſhows Tricks<lb />with them, to make them appear what they<lb />were
+  not meant for, and ſerve two Senſes at<lb />once, like one that plays
+  on two <hi rendition="simple:italic">Jews</hi> Trumps.<lb />He is a
+  Fencer of Language, that falſiſies his<lb />Blow, and hits where he
+  did not aim. He<lb />Has a fooliſh Slight of Wit, that catches
+  at<lb />Words only, and lets the Senſe go, like the<lb />young Thief
+  in the Farce, that took a Purſe,<lb />but gave the Owner his Money
+  back again.<lb />He is ſo well verſed in all Cafes of
+  Quibble,<lb />that he knows when there will be a Blot upon<lb />a
+  Word, as ſoon as it is out. He packs his<lb />Quibbles like a Stock of
+  Cards, let him but<lb />ſhuffle, and cut where you will, he will
+  be<lb />ſure to have it. He dances on a Rope of Sand,<lb />does the
+  <hi rendition="simple:italic">Somerſet</hi>,
+  <hi rendition="simple:italic">Strapado</hi>, and
+  half-ſlrapado<lb />with Words, plays at all manner of Games<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>with <hi rendition="simple:italic">Clinches</hi>,
+  <hi rendition="simple:italic">Carwickets</hi>, and
+  <hi rendition="simple:italic">Quibbles</hi>, and<lb />talks
+  <hi rendition="simple:italic">under-Leg</hi>. His Wit is left-handed,
+  and<lb />therefore what others mean for right, he ap-<lb />prehends
+  quite contrary. All his Conceptions<lb />are produced by equivocal
+  Generation, which<lb />makes them juſtly eſteemed but Maggots.
+  He<lb />rings the Changes upon Words, and is ſo ex-<lb />pert, that he
+  can tell at firſt Sight, how<lb />many Variations any Number of Words
+  will<lb />bear. He talks with a
+  <hi rendition="simple:italic">Trillo</hi>, and gives his<lb />Words a
+  double Reliſh. He had rather have<lb />them bear two Senſes in vain
+  and impertinent-<lb />ly, than one to the Purpoſe, and never
+  ſpeaks<lb />without a Lere-Senſe. He talks nothing
+  but<lb />Equivocation and mental Reſervation, and<lb />mightily
+  affects to give a Word a double Stroke,<lb />like a Tennis-Ball
+  againſt two Walls at one<lb />Blow, to defeat the Expectation of his
+  An-<lb />tagonift. He commonly ſlurs every fourth or<lb />fifth Word,
+  and ſeldom fails to throw Dou-<lb />blets. There are two Sorts of
+  Quibbling, the<lb />one with Words, and the other with
+  Senſe,<lb />like the Rhetoricians
+  <hi rendition="simple:italic">Figurae Dictionis &amp;
+  Figurae</hi><lb /><hi rendition="simple:italic">Senteniae</hi> — The
+  firſt is already cried down,<lb />[^1]:
+  <hi rendition="simple:italic">Without a Lere-Serſe] A Lere-Sterſe</hi>
+  is a ſecond or supernume-<lb />rary Scale, as a Led-Horſe was formerly
+  called a Lere-Harſe,<lb />See
+  <hi rendition="simple:italic">Bailey’s</hi> Dictionary.<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>and the other as yet prevails; and is the only<lb />Elegance of our
+  modern Poets, which eaſy<lb />Judges call
+  <hi rendition="simple:italic">Eaſineſs</hi>; but having nothing in
+  it<lb />But <hi rendition="simple:italic">Eaſineſs</hi>, and being
+  never uſed by any laſt-<lb />ing Wit, will in wiſer Times fall to
+  nothing of<lb />itſselſ.<lb /></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+</div>
+</body>
+</text>
+</TEI>

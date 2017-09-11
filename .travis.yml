@@ -1,0 +1,28 @@
+### Needs to install pandoc and context (less than full texlive)
+### and then run make all
+
+sudo: false
+language: r
+pandoc_version: 1.19
+
+install:
+  - pip install --user pandocfilters
+  - tlmgr install collection-context collection-fontsextra collection-fontsrecommended
+  
+script:
+  - make all
+
+notifications:
+  email: false
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master
+    target_branch: gh-pages
+
+cache:
+  - packages
+  - pip

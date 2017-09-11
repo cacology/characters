@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+    </titleStmt>
+    <publicationStmt>
+      <p></p>
+          </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>[<hi rendition="simple:italic">double rule</hi>]</p>
+<div type="level1">
+  <head>A<lb />MELANCHOLY MAN</head>
+  <p>I<hi rendition="simple:superscript">2</hi>s one, that keeps the
+  worſt Company in the<lb />World, that is, his own; and tho' he be
+  al-<lb />ways falling out and quarrelling with himſelf,<lb />yet he
+  has not power to endure any other Con-<lb />verſation. His Head is
+  haunted, like a Houſe,<lb />with evil Spirits and Apparitions, that
+  terrify<lb />and fright him out of himſelf, till he ſtands<lb />empty
+  and forſaken. His Sleeps and his Wa-<lb />kings are ſo much the ſame,
+  that he knows not<lb />how to diſtinguiſh them, and many
+  times<lb />when he dreams, he believes he is broad awake<lb />and ſees
+  Viſions. The Fumes and Vapours<lb />that riſe from his Spleen and
+  Hypocondries<lb />have ſo ſmutched and ſullied his Brain (like
+  a<lb />Room that ſmoaks) that his Underſtanding is<lb />blear-ey'd,
+  and has no right Perception of any<lb />Thing. His Soul lives in his
+  Body, like a<lb />Mole in the Earth, that labours in the
+  Dark,<lb />and caſts up Doubts and Scruples of his own</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>Imagination, to make that rugged and uneaſy,<lb />that was plain
+  and open before. His Brain is<lb />ſo cracked, that he fancies himſelf
+  to be Glaſs,<lb />and is afraid that every Thing he comes
+  near<lb />ſhould break him in Pieces. Whatſoever makes<lb />an
+  Impreſſion in his Imagination works it ſelf<lb />in like a Screw, and
+  the more he turns and<lb />winds it, the deeper it ſticks, till it is
+  never to<lb />be got out again. The Temper of his Brain<lb />being
+  earthy, cold, and dry, is apt to breed<lb />Worms, that ſink ſo deep
+  into it, no Medicine<lb />in Art or Nature is able to reach them.
+  He<lb />leads his Life, as one leads a Dog in a Slip<lb />that will
+  not follow, but is dragged along until<lb />he is almoſt hanged, as he
+  has it often under<lb />Conſideration to treat himſelf in
+  convenient<lb />Time and Place, if he can but catch
+  himſelf<lb />alone. After a long and mortal Feud between<lb />his
+  inward and his outward Man, they at<lb />length agree to meet without
+  Seconds, and decide the<lb />Quarrel, in which the one drops, and
+  the<lb />other ſinks out fo the Way, and makes his<lb />Eſcape into
+  ſome foreign World, from whence<lb />is it never after heard of. He
+  converſes with<lb />nothing ſo much as his own Imagination,<lb />which
+  being apt to miſrepreſent Things to him,</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p>makes him believe, that it is ſomething elſe<lb />than it is, and
+  that he holds Intelligence with<lb />Spirits, that reveal whatſoever
+  he fancies to<lb />him, as the antient rude People, that firſt
+  heard<lb />their own Voices repeated by Echoes in the<lb />Woods,
+  concluded it muſt proceed from ſome<lb />invisible Inhabitants of
+  thoſe ſolitary Places,<lb />which they after believed to be Gods,
+  and<lb />called them <hi rendition="simple:italic">Sylvans,
+  Fauns,</hi> and <hi rendition="simple:italic">Dryads.</hi>
+  He<lb />makes the Infirmity of his Temper paſs for<lb />Revelations,
+  as <hi rendition="simple:italic">Mahomet</hi> did by his
+  falling<lb />Sickneſs, and inſpires himſelf with the Wind<lb />of his
+  own Hypocondries. He laments,
+  like<lb /><hi rendition="simple:italic">Heraclitus</hi> the Maudlin
+  Philoſopher, at other<lb />Men's Mirth, and take Pleaſures in
+  nothing<lb />but his own un-ſober Sadneſs. His Mind is<lb />full of
+  Thoughts, but they are all empty, like<lb />a Neſt of Boxes. He ſleeps
+  little, but dreams<lb />much, and ſoundeſt when he is waking.
+  He<lb />ſees Viſions further off than a ſecond-ſighted<lb />Man in
+  <hi rendition="simple:italic">Scotland,</hi> and dreams upon a
+  hard<lb />Point with admirable Judgement. He is juſt<lb />ſo much
+  worſe than a Madman, as he is below<lb />him in Degree of Frenzy; for
+  among Madmen<lb />the moſt mad govern all the reſt, and receive<lb />a
+  natural Obedience from their Inferiors.</p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+</div>
+</body>
+</text>
+</TEI>
