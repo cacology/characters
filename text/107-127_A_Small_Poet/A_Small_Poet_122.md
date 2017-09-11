@@ -1,30 +1,29 @@
-122   A SMALL POET. /
 write high or low,  according as that runs:/
-For in this Age, when the s*mallest Poet s*eldom/
-goes below more then mos*t, it were a Shame for/
+For in this Age, when the ſmallest Poet ſeldom/
+goes below more then moſt, it were a Shame for/
 a grater and more noble Poet not to out-throw/
-that cut a Bar. /
-/
-/
-##There was a [i] Tobacco-Man, [i] that wrapped /
-[i]Spanis*h [i] Tobacco in a Paper of Vers*es, which/
-[i]Benlows[i]  had written agains*t the [i] Pope, [i] which/
+that cut a Bar.
+
+
+T^2^here was a * Tobacco-Man, * that wrapped /
+*Spaniſh * Tobacco in a Paper of Verſes, which/
+*Benlows*  had written againſt the * Pope, * which/
 by a natural Antipathy, that his Wit has to /
-any Thing that's Catholic, s*poiled the Tobacco;/
-for it pres*ently turned Mundungus.  This Au-/
-thor will take an [i] English [i] Word, and, like the/
-[i] Frenchman, [i] that s*wallowed Water and s*pit it/
+any Thing that's Catholic, ſpoiled the Tobacco;/
+for it preſently turned Mundungus.  This Au-/
+thor will take an * English * Word, and, like the/
+* Frenchman, * that ſwallowed Water and ſpit it/
  out Wine, with a little Heaving and Straining/
- would turn it immediately into [i] Latin,[i] as [i] plun-/
- derat ille Domos[i]--Mille [i] Hocopokiana, [i] and a thou-/
- s*and s*uch./
+ would turn it immediately into * Latin,* as * plun-/
+ derat ille Domos*--Mille * Hocopokiana, * and a thou-/
+ ſand ſuch./
 /
 ##There was a young Practitioner in Poetry,/
 that found there was no good to be done with-/
-out a Mis*tres*s: For he, that writes of Love/
+out a Miſtreſs: For he, that writes of Love/
 before he hath tried it, doth but travel by the/
 Map; and he, that makes Love without a/
-Dame, does like a Games*ter, that plays for/
+Dame, does like a Gameſter, that plays for/
 /
-#[i]More the mos*t] There is an appearance Defect or Error in thes*e/
-Words; but I leave it to the Reader to s*upply or correct./
+#*More the moſt] There is an appearance Defect or Error in theſe/
+Words; but I leave it to the Reader to ſupply or correct./
